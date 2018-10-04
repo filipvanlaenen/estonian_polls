@@ -52,20 +52,20 @@ Last result: **15** seats (General Election of 1 March 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 14–16 | 13–16 | 13–16 | 10–18 |
-| [12–20 September 2018](2018-09-20-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 14 | 14 | 13–14 | 13–15 | 10–16 |
-| [4–17 September 2018](2018-09-17-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 16 | 15–16 | 13–16 | 13–16 | 13–19 |
-| [8–26 August 2018](2018-08-26-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 13 | 9–13 | 9–13 | 9–13 | 8–13 |
-| [15–22 August 2018](2018-08-22-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 16 | 14–16 | 11–16 | 11–16 | 9–16 |
-| [24–30 July 2018](2018-07-30-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 14 | 14 | 14–15 | 12–15 | 12–16 |
-| [29 May–11 June 2018](2018-06-11-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 10 | 9–11 | 9–11 | 8–11 | 7–11 |
-| [21 May 2018](2018-05-21-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 9 | 9 | 9 | 8–9 | 7–9 |
-| [12–18 April 2018](2018-04-18-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 10 | 10–11 | 9–11 | 9–13 | 8–14 |
-| [8–21 March 2018](2018-03-21-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 10 | 9–11 | 8–11 | 8–12 | 8–12 |
-| [8–14 March 2018](2018-03-14-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 10 | 10–11 | 7–11 | 7–11 | 7–14 |
-| [7–20 February 2018](2018-02-20-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 10 | 8–11 | 8–11 | 8–11 | 8–11 |
-| [15–29 January 2018](2018-01-29-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 13 | 12–13 | 12–13 | 12–14 | 11–14 |
-| [18–25 January 2018](2018-01-25-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 13 | 11–15 | 10–15 | 10–15 | 9–15 |
+| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–17 | 11–17 | 11–18 |
+| [12–20 September 2018](2018-09-20-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 13 | 12–15 | 11–16 | 11–16 | 10–17 |
+| [4–17 September 2018](2018-09-17-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 15 | 13–16 | 13–17 | 12–17 | 11–18 |
+| [8–26 August 2018](2018-08-26-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 11 | 10–13 | 9–13 | 9–14 | 8–14 |
+| [15–22 August 2018](2018-08-22-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 13 | 11–14 | 11–15 | 10–15 | 9–16 |
+| [24–30 July 2018](2018-07-30-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 13 | 11–15 | 11–16 | 11–16 | 10–17 |
+| [29 May–11 June 2018](2018-06-11-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 9 | 7–10 | 7–11 | 7–11 | 6–12 |
+| [21 May 2018](2018-05-21-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 9 | 7–10 | 7–11 | 7–11 | 6–12 |
+| [12–18 April 2018](2018-04-18-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 10 | 9–12 | 8–12 | 8–13 | 7–14 |
+| [8–21 March 2018](2018-03-21-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 10 | 9–11 | 8–12 | 8–12 | 7–13 |
+| [8–14 March 2018](2018-03-14-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 11 | 9–12 | 9–13 | 8–13 | 8–14 |
+| [7–20 February 2018](2018-02-20-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 8 | 7–9 | 6–10 | 6–10 | 5–11 |
+| [15–29 January 2018](2018-01-29-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 12 | 10–13 | 9–14 | 9–14 | 8–15 |
+| [18–25 January 2018](2018-01-25-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 11 | 10–13 | 10–13 | 9–13 | 9–14 |
 
 ### Probability Mass Function
 
@@ -75,16 +75,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.7% | 100% |  |
-| 11 | 0.1% | 99.3% |  |
-| 12 | 0.2% | 99.1% |  |
-| 13 | 6% | 98.9% |  |
-| 14 | 45% | 93% | Median |
-| 15 | 3% | 49% | Last Result |
-| 16 | 45% | 46% |  |
-| 17 | 0.1% | 1.0% |  |
-| 18 | 0.6% | 0.9% |  |
-| 19 | 0.4% | 0.4% |  |
+| 10 | 0.3% | 100% |  |
+| 11 | 3% | 99.7% |  |
+| 12 | 7% | 97% |  |
+| 13 | 28% | 90% |  |
+| 14 | 29% | 61% | Median |
+| 15 | 18% | 32% | Last Result |
+| 16 | 9% | 14% |  |
+| 17 | 4% | 5% |  |
+| 18 | 0.8% | 1.0% |  |
+| 19 | 0.2% | 0.2% |  |
 | 20 | 0% | 0% |  |
 
 
