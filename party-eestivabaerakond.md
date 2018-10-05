@@ -52,7 +52,7 @@ Last result: **8** seats (General Election of 1 March 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [12–20 September 2018](2018-09-20-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 0 | 0 | 0 | 0 | 0 |
+| [12–20 September 2018](2018-09-20-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 0 | 0 | 0 | 0 | 0–5 |
 | [4–17 September 2018](2018-09-17-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 0 | 0 | 0 | 0 | 0 |
 | [8–26 August 2018](2018-08-26-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 0 | 0 | 0 | 0 | 0 |
 | [15–22 August 2018](2018-08-22-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 0 | 0–4 | 0–5 | 0–6 | 0–7 |
@@ -74,12 +74,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.8% | 100% | Median |
-| 1 | 0% | 0.2% |  |
-| 2 | 0% | 0.2% |  |
-| 3 | 0% | 0.2% |  |
-| 4 | 0.1% | 0.2% |  |
-| 5 | 0.2% | 0.2% |  |
+| 0 | 99.6% | 100% | Median |
+| 1 | 0% | 0.4% |  |
+| 2 | 0% | 0.4% |  |
+| 3 | 0% | 0.4% |  |
+| 4 | 0.1% | 0.4% |  |
+| 5 | 0.3% | 0.3% |  |
 | 6 | 0% | 0% |  |
 | 7 | 0% | 0% |  |
 | 8 | 0% | 0% | Last Result |
