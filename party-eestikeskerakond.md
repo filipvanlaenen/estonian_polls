@@ -64,11 +64,11 @@ Last result: **27** seats (General Election of 1 March 2015)
 | [24–30 July 2018](2018-07-30-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 27 | 24–30 | 24–30 | 23–31 | 22–32 |
 | [29 May–11 June 2018](2018-06-11-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 31 | 28–33 | 27–34 | 27–35 | 26–36 |
 | [21 May 2018](2018-05-21-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 30 | 28–32 | 27–33 | 26–34 | 25–35 |
-| [12–18 April 2018](2018-04-18-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 23 | 21–25 | 21–26 | 20–27 | 19–28 |
-| [8–21 March 2018](2018-03-21-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 29 | 28–33 | 27–34 | 27–34 | 25–35 |
+| [12–18 April 2018](2018-04-18-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 23 | 21–25 | 20–26 | 20–27 | 19–28 |
+| [8–21 March 2018](2018-03-21-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 30 | 27–32 | 27–33 | 26–33 | 25–35 |
 | [8–14 March 2018](2018-03-14-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 27 | 24–29 | 24–30 | 23–31 | 22–32 |
 | [7–20 February 2018](2018-02-20-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 31 | 28–33 | 28–34 | 27–35 | 26–36 |
-| [15–29 January 2018](2018-01-29-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 32 | 29–34 | 29–35 | 28–36 | 27–37 |
+| [15–29 January 2018](2018-01-29-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 32 | 29–34 | 28–35 | 28–36 | 27–37 |
 | [18–25 January 2018](2018-01-25-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 22 | 21–25 | 20–26 | 20–26 | 19–27 |
 
 ### Probability Mass Function

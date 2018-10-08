@@ -64,7 +64,7 @@ Last result: **14** seats (General Election of 1 March 2015)
 | [29 May–11 June 2018](2018-06-11-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 4 | 0–5 | 0–5 | 0–6 | 0–7 |
 | [21 May 2018](2018-05-21-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 0 | 0–5 | 0–6 | 0–6 | 0–7 |
 | [12–18 April 2018](2018-04-18-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 5 | 4–6 | 0–7 | 0–7 | 0–7 |
-| [8–21 March 2018](2018-03-21-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 4 | 0–6 | 0–6 | 0–6 | 0–6 |
+| [8–21 March 2018](2018-03-21-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 0 | 0–5 | 0–6 | 0–6 | 0–6 |
 | [8–14 March 2018](2018-03-14-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [7–20 February 2018](2018-02-20-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 5 | 0–7 | 0–7 | 0–7 | 0–8 |
 | [15–29 January 2018](2018-01-29-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 4 | 0–5 | 0–6 | 0–6 | 0–7 |

@@ -71,7 +71,7 @@ Last result: **7** seats (General Election of 1 March 2015)
 | [8–21 March 2018](2018-03-21-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 14 | 12–15 | 11–16 | 11–16 | 10–17 |
 | [8–14 March 2018](2018-03-14-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 20 | 18–22 | 17–23 | 17–23 | 16–25 |
 | [7–20 February 2018](2018-02-20-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 15 | 13–17 | 13–17 | 12–18 | 12–19 |
-| [15–29 January 2018](2018-01-29-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 13 | 11–14 | 11–15 | 10–15 | 9–16 |
+| [15–29 January 2018](2018-01-29-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 13 | 11–14 | 11–15 | 10–15 | 10–16 |
 | [18–25 January 2018](2018-01-25-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 20 | 18–22 | 18–23 | 17–23 | 16–25 |
 
 ### Probability Mass Function
