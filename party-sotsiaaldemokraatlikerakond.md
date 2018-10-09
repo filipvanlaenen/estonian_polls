@@ -63,7 +63,7 @@ Last result: **15** seats (General Election of 1 March 2015)
 | [12–18 April 2018](2018-04-18-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 10 | 9–12 | 8–12 | 8–13 | 7–14 |
 | [8–21 March 2018](2018-03-21-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 10 | 9–12 | 8–12 | 8–12 | 7–13 |
 | [8–14 March 2018](2018-03-14-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 11 | 9–12 | 9–13 | 8–13 | 8–14 |
-| [7–20 February 2018](2018-02-20-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 8 | 7–9 | 6–10 | 6–10 | 5–11 |
+| [7–20 February 2018](2018-02-20-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 8 | 7–9 | 6–9 | 6–10 | 5–10 |
 | [15–29 January 2018](2018-01-29-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 11 | 10–13 | 9–14 | 9–14 | 9–15 |
 | [18–25 January 2018](2018-01-25-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 11 | 10–13 | 10–13 | 9–13 | 9–14 |
 
@@ -77,13 +77,13 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.4% | 100% |  |
 | 11 | 3% | 99.6% |  |
-| 12 | 8% | 97% |  |
-| 13 | 19% | 89% |  |
-| 14 | 31% | 70% | Median |
-| 15 | 23% | 39% | Last Result |
-| 16 | 10% | 15% |  |
+| 12 | 9% | 97% |  |
+| 13 | 20% | 88% |  |
+| 14 | 30% | 68% | Median |
+| 15 | 21% | 38% | Last Result |
+| 16 | 12% | 17% |  |
 | 17 | 5% | 6% |  |
-| 18 | 0.9% | 1.1% |  |
+| 18 | 0.9% | 1.0% |  |
 | 19 | 0.2% | 0.2% |  |
 | 20 | 0% | 0% |  |
 
