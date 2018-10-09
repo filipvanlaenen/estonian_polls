@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riigikogu</title>
     <link>https://filipvanlaenen.github.io/estonian_polls</link>
     <description>All Registered Polls for the Riigikogu</description>
-    <pubDate>Tue, 09 Oct 2018 14:23:08 +0200</pubDate>
+    <pubDate>Tue, 09 Oct 2018 21:02:53 +0200</pubDate>
     <item>
       <title>Opinion Poll by Kantar Emor for BNS and Postimees, 12–20 September 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/estonian_polls/2018-09-20-KantarEmor.html#seats</link>
@@ -70,14 +70,34 @@
       <dc:date>2018-10-09T14:23:08.452948+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Turu-uuringute AS for ERR, 8–26 August 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/estonian_polls/2018-08-26-Turu-uuringuteAS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond: 25–32 seats&lt;/li&gt;&lt;li&gt;Eesti Keskerakond: 27–35 seats&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond: 9–14 seats&lt;/li&gt;&lt;li&gt;Erakond Isamaa: 0–6 seats&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond: 0 seats&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond: 18–24 seats&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised: 0–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2018-08-26-Turu-uuringuteAS-seats.png"
+        length="210270"
+        type="image/png"/>
+      <pubDate>Tue, 09 Oct 2018 20:24:04 +0200</pubDate>
+      <dc:date>2018-10-09T20:24:04.028703+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Turu-uuringute AS for ERR, 8–26 August 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/estonian_polls/2018-08-26-Turu-uuringuteAS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2018-08-26-Turu-uuringuteAS-coalitions-seats.png"
+        length="322877"
+        type="image/png"/>
+      <pubDate>Tue, 09 Oct 2018 20:24:04 +0200</pubDate>
+      <dc:date>2018-10-09T20:24:04.028703+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Turu-uuringute AS for ERR, 8–26 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_polls/2018-08-26-Turu-uuringuteAS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond: 22.4–27.8%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond: 24.3–29.8%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond: 9.2–13.1%&lt;/li&gt;&lt;li&gt;Erakond Isamaa: 3.8–6.5%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond: 16.7–21.6%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised: 2.9–5.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2018-08-26-Turu-uuringuteAS.png"
         length="198612"
         type="image/png"/>
-      <pubDate>Thu, 04 Oct 2018 16:18:07 +0200</pubDate>
-      <dc:date>2018-10-04T16:18:07.087091+02:00</dc:date>
+      <pubDate>Tue, 09 Oct 2018 20:24:04 +0200</pubDate>
+      <dc:date>2018-10-09T20:24:04.028703+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Emor for BNS and Postimees, 15–22 August 2018 – Voting Intentions</title>
@@ -120,14 +140,34 @@
       <dc:date>2018-10-09T11:37:03.364421+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Turu-uuringute AS for ERR, 29 May–11 June 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/estonian_polls/2018-06-11-Turu-uuringuteAS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond: 29–36 seats&lt;/li&gt;&lt;li&gt;Eesti Keskerakond: 27–35 seats&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond: 7–11 seats&lt;/li&gt;&lt;li&gt;Erakond Isamaa: 0–6 seats&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond: 0–5 seats&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond: 16–23 seats&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2018-06-11-Turu-uuringuteAS-seats.png"
+        length="210149"
+        type="image/png"/>
+      <pubDate>Tue, 09 Oct 2018 21:02:53 +0200</pubDate>
+      <dc:date>2018-10-09T21:02:53.279423+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Turu-uuringute AS for ERR, 29 May–11 June 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/estonian_polls/2018-06-11-Turu-uuringuteAS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2018-06-11-Turu-uuringuteAS-coalitions-seats.png"
+        length="315259"
+        type="image/png"/>
+      <pubDate>Tue, 09 Oct 2018 21:02:53 +0200</pubDate>
+      <dc:date>2018-10-09T21:02:53.279423+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Turu-uuringute AS for ERR, 29 May–11 June 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_polls/2018-06-11-Turu-uuringuteAS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond: 25.3–30.9%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond: 24.4–29.9%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond: 7.4–10.9%&lt;/li&gt;&lt;li&gt;Erakond Isamaa: 3.8–6.5%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond: 2.9–5.4%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond: 15.7–20.5%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised: 1.3–3.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2018-06-11-Turu-uuringuteAS.png"
         length="196352"
         type="image/png"/>
-      <pubDate>Thu, 04 Oct 2018 15:45:42 +0200</pubDate>
-      <dc:date>2018-10-04T15:45:42.069095+02:00</dc:date>
+      <pubDate>Tue, 09 Oct 2018 21:02:53 +0200</pubDate>
+      <dc:date>2018-10-09T21:02:53.279423+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Turu-uuringute AS for ERR, 21 May 2018 – Seat Projections for the Parties</title>
@@ -319,6 +359,6 @@
       <pubDate>Thu, 04 Oct 2018 17:11:56 +0200</pubDate>
       <dc:date>2018-10-04T17:11:56.323426+02:00</dc:date>
     </item>
-    <dc:date>2018-10-09T14:23:08.452948+02:00</dc:date>
+    <dc:date>2018-10-09T21:02:53.279423+02:00</dc:date>
   </channel>
 </rss>
