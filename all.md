@@ -17,7 +17,7 @@ The table below lists all polls registered and analyzed so far.
 | [8–14 March 2018](2018-03-14-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 31–37% <br> 36–45 | 21–27% <br> 23–31 | 9–13% <br> 8–13 | 3–6% <br> 0–5 | 4–7% <br> 0–6 | 16–21% <br> 17–24 | 3–5% <br> 0 | N/A <br> N/A |
 | [7–20 February 2018](2018-02-20-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 24–30% <br> 27–34 | 24–30% <br> 27–35 | 6–10% <br> 6–10 | 5–8% <br> 0–7 | 3–5% <br> 0–5 | 12–16% <br> 12–17 | 2–4% <br> 0 | N/A <br> N/A |
 | [15–29 January 2018](2018-01-29-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 23–29% <br> 27–34 | 24–30% <br> 28–36 | 9–13% <br> 9–14 | 4–7% <br> 0–6 | 3–5% <br> 0–5 | 10–14% <br> 10–15 | 3–5% <br> 0–5 | N/A <br> N/A |
-| [18–25 January 2018](2018-01-25-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 31–37% <br> 37–45 | 18–23% <br> 20–26 | 9–13% <br> 9–13 | 3–6% <br> 0–5 | 4–7% <br> 0–6 | 16–21% <br> 17–23 | 3–6% <br> 0–5 | N/A <br> N/A |
+| [18–25 January 2018](2018-01-25-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 31–37% <br> 36–45 | 18–23% <br> 20–26 | 9–13% <br> 9–14 | 3–6% <br> 0–5 | 4–7% <br> 0–6 | 16–21% <br> 17–24 | 3–6% <br> 0–5 | N/A <br> N/A |
 | 1 March 2015 | General Election | 27.7% <br> 30 | 24.8% <br> 27 | 15.2% <br> 15 | 13.7% <br> 14 | 8.7% <br> 8 | 8.1% <br> 7 | 0.9% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
