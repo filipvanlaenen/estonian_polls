@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riigikogu</title>
     <link>https://filipvanlaenen.github.io/estonian_polls</link>
     <description>All Registered Polls for the Riigikogu</description>
-    <pubDate>Tue, 09 Oct 2018 21:02:53 +0200</pubDate>
+    <pubDate>Tue, 09 Oct 2018 22:43:44 +0200</pubDate>
     <item>
       <title>Opinion Poll by Kantar Emor for BNS and Postimees, 12–20 September 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/estonian_polls/2018-09-20-KantarEmor.html#seats</link>
@@ -350,15 +350,35 @@
       <dc:date>2018-10-08T13:49:27.094314+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Kantar Emor for BNS and Postimees, 18–25 January 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/estonian_polls/2018-01-25-KantarEmor.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond: 36–45 seats&lt;/li&gt;&lt;li&gt;Eesti Keskerakond: 20–26 seats&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond: 9–14 seats&lt;/li&gt;&lt;li&gt;Erakond Isamaa: 0–5 seats&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond: 0–6 seats&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond: 17–24 seats&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised: 0–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2018-01-25-KantarEmor-seats.png"
+        length="199296"
+        type="image/png"/>
+      <pubDate>Tue, 09 Oct 2018 22:43:44 +0200</pubDate>
+      <dc:date>2018-10-09T22:43:44.13821+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Emor for BNS and Postimees, 18–25 January 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/estonian_polls/2018-01-25-KantarEmor.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2018-01-25-KantarEmor-coalitions-seats.png"
+        length="327155"
+        type="image/png"/>
+      <pubDate>Tue, 09 Oct 2018 22:43:44 +0200</pubDate>
+      <dc:date>2018-10-09T22:43:44.13821+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Kantar Emor for BNS and Postimees, 18–25 January 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_polls/2018-01-25-KantarEmor.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond: 31.5–37.1%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond: 18.2–23.0%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond: 9.3–13.0%&lt;/li&gt;&lt;li&gt;Erakond Isamaa: 3.4–5.9%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond: 4.2–6.9%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond: 16.2–20.8%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised: 3.4–5.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2018-01-25-KantarEmor.png"
         length="188062"
         type="image/png"/>
-      <pubDate>Thu, 04 Oct 2018 17:11:56 +0200</pubDate>
-      <dc:date>2018-10-04T17:11:56.323426+02:00</dc:date>
+      <pubDate>Tue, 09 Oct 2018 22:43:44 +0200</pubDate>
+      <dc:date>2018-10-09T22:43:44.13821+02:00</dc:date>
     </item>
-    <dc:date>2018-10-09T21:02:53.279423+02:00</dc:date>
+    <dc:date>2018-10-09T22:43:44.13821+02:00</dc:date>
   </channel>
 </rss>
