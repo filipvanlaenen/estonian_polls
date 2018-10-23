@@ -60,8 +60,8 @@ Last result: **27** seats (General Election of 1 March 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31 | 29–37 | 27–38 | 26–38 | 25–40 |
-| [11–18 October 2018](2018-10-18-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 29 | 27–30 | 26–31 | 25–32 | 24–34 |
+| N/A | [Poll Average](average.html) | 32 | 27–37 | 26–38 | 26–38 | 24–40 |
+| [11–18 October 2018](2018-10-18-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 29 | 26–31 | 26–32 | 25–33 | 24–34 |
 | [2–15 October 2018](2018-10-15-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 35 | 32–38 | 32–38 | 31–39 | 30–40 |
 | [12–20 September 2018](2018-09-20-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 29 | 27–32 | 26–33 | 25–33 | 24–34 |
 | [4–17 September 2018](2018-09-17-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 32 | 30–35 | 29–35 | 29–36 | 28–37 |
@@ -85,19 +85,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 23 | 0% | 100% |  |
-| 24 | 0.3% | 99.9% |  |
-| 25 | 0.9% | 99.7% |  |
-| 26 | 3% | 98.7% |  |
-| 27 | 2% | 96% | Last Result |
-| 28 | 1.0% | 94% |  |
-| 29 | 17% | 93% |  |
-| 30 | 23% | 76% |  |
-| 31 | 4% | 53% | Median |
-| 32 | 5% | 49% |  |
-| 33 | 5% | 44% |  |
+| 23 | 0.1% | 100% |  |
+| 24 | 0.5% | 99.9% |  |
+| 25 | 2% | 99.4% |  |
+| 26 | 3% | 98% |  |
+| 27 | 6% | 95% | Last Result |
+| 28 | 9% | 88% |  |
+| 29 | 10% | 79% |  |
+| 30 | 12% | 69% |  |
+| 31 | 5% | 56% |  |
+| 32 | 7% | 52% | Median |
+| 33 | 6% | 45% |  |
 | 34 | 8% | 39% |  |
-| 35 | 12% | 31% |  |
+| 35 | 12% | 30% |  |
 | 36 | 8% | 19% |  |
 | 37 | 5% | 10% |  |
 | 38 | 3% | 5% |  |
