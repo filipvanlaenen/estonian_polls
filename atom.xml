@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/estonian_polls</id>
   <title>All Registered Polls for the Riigikogu</title>
-  <updated>2018-11-15T19:10:01.190615+01:00</updated>
+  <updated>2018-11-22T10:42:36.507195+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Reformierakond: 20.5–25.7%, 23–30 seats</li><li>Eesti Keskerakond: 30.1–36.0%, 35–44 seats</li><li>Sotsiaaldemokraatlik Erakond: 5.6–8.8%, 5–9 seats</li><li>Erakond Isamaa: 3.8–6.5%, 0–6 seats</li><li>Eesti Vabaerakond: 0.5–1.8%, 0 seats</li><li>Eesti Konservatiivne Rahvaerakond: 12.9–17.4%, 13–19 seats</li><li>Erakond Eestimaa Rohelised: 2.1–4.3%, 0 seats</li><li>Eesti 200: 6.5–9.9%, 6–10 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/estonian_polls/2018-11-13-Turu-uuringuteAS.html</id>
+    <link href="https://filipvanlaenen.github.io/estonian_polls/2018-11-13-Turu-uuringuteAS.html"/>
+    <title>Opinion Poll by Turu-uuringute AS for ERR, 31 October–13 November 2018</title>
+    <updated>2018-11-22T10:42:36.507195+01:00</updated>
+    <dc:date>2018-11-22T10:42:36.507195+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Reformierakond: 26.3–31.8%, 30–37 seats</li><li>Eesti Keskerakond: 22.2–27.4%, 25–32 seats</li><li>Sotsiaaldemokraatlik Erakond: 9.0–12.7%, 9–13 seats</li><li>Erakond Isamaa: 3.5–6.1%, 0–5 seats</li><li>Eesti Vabaerakond: 1.6–3.5%, 0 seats</li><li>Eesti Konservatiivne Rahvaerakond: 14.8–19.4%, 16–21 seats</li><li>Erakond Eestimaa Rohelised: 1.8–3.7%, 0 seats</li><li>Eesti 200: 7.0–10.4%, 6–10 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/estonian_polls/2018-11-13-KantarEmor.html</id>
@@ -135,5 +143,5 @@
     <updated>2018-10-09T22:43:44.13821+02:00</updated>
     <dc:date>2018-10-09T22:43:44.13821+02:00</dc:date>
   </entry>
-  <dc:date>2018-11-15T19:10:01.190615+01:00</dc:date>
+  <dc:date>2018-11-22T10:42:36.507195+01:00</dc:date>
 </feed>
