@@ -58,9 +58,9 @@ Last result: **15** seats (General Election of 1 March 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 7–9 | 7–9 | 7–11 | 6–11 |
-| [5–12 December 2018](2018-12-12-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 7 | 7 | 7 | 7 | 7–9 |
-| [27 November–10 December 2018](2018-12-10-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 9 | 9 | 7–11 | 7–11 | 6–11 |
+| N/A | [Poll Average](average.html) | 8 | 7–10 | 6–10 | 6–11 | 6–12 |
+| [5–12 December 2018](2018-12-12-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 9 | 7–10 | 7–11 | 7–11 | 6–12 |
+| [27 November–10 December 2018](2018-12-10-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 8 | 7–9 | 6–9 | 6–10 | 5–11 |
 | [31 October–13 November 2018](2018-11-13-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 7 | 5–8 | 5–8 | 5–9 | 4–10 |
 | [8–13 November 2018](2018-11-13-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 11 | 9–12 | 9–13 | 9–13 | 8–14 |
 | [11–18 October 2018](2018-10-18-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 15 | 13–17 | 13–17 | 12–18 | 12–19 |
@@ -87,14 +87,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 1.1% | 100% |  |
-| 7 | 52% | 98.9% | Median |
-| 8 | 1.2% | 47% |  |
-| 9 | 41% | 46% |  |
-| 10 | 1.1% | 4% |  |
-| 11 | 3% | 3% |  |
-| 12 | 0% | 0% |  |
-| 13 | 0% | 0% |  |
+| 5 | 0.3% | 100% |  |
+| 6 | 5% | 99.7% |  |
+| 7 | 21% | 95% |  |
+| 8 | 32% | 74% | Median |
+| 9 | 26% | 42% |  |
+| 10 | 11% | 15% |  |
+| 11 | 3% | 4% |  |
+| 12 | 0.5% | 0.6% |  |
+| 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
 | 15 | 0% | 0% | Last Result |
 
