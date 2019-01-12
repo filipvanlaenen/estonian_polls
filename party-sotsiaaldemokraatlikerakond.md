@@ -10,7 +10,9 @@ Last result: **15.2%** (General Election of 1 March 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.6% | 8.4–12.9% | 8.0–13.4% | 7.7–13.8% | 7.1–14.6% |
+| N/A | [Poll Average](average.html) | 11.9% | 10.8–13.2% | 10.4–13.6% | 10.2–13.9% | 9.6–14.6% |
+| [3–9 January 2019](2019-01-09-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.1–14.1% | 9.6–14.8% |
+| [4–8 January 2019](2019-01-08-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 11.8% | 10.7–13.0% | 10.4–13.3% | 10.2–13.6% | 9.7–14.2% |
 | [13–19 December 2018](2018-12-19-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.1–14.2% | 9.6–14.9% |
 | [5–12 December 2018](2018-12-12-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 9.2% | 8.0–10.5% | 7.7–10.9% | 7.4–11.3% | 6.9–11.9% |
 | [27 November–10 December 2018](2018-12-10-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
@@ -38,16 +40,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 5.5–6.5% | 0.1% | 100% |  |
-| 6.5–7.5% | 2% | 99.9% |  |
-| 7.5–8.5% | 10% | 98% |  |
-| 8.5–9.5% | 20% | 88% |  |
-| 9.5–10.5% | 16% | 68% |  |
-| 10.5–11.5% | 17% | 52% | Median |
-| 11.5–12.5% | 19% | 35% |  |
-| 12.5–13.5% | 12% | 16% |  |
-| 13.5–14.5% | 3% | 4% |  |
-| 14.5–15.5% | 0.5% | 0.5% | Last Result |
+| 7.5–8.5% | 0% | 100% |  |
+| 8.5–9.5% | 0.4% | 100% |  |
+| 9.5–10.5% | 6% | 99.6% |  |
+| 10.5–11.5% | 28% | 93% |  |
+| 11.5–12.5% | 39% | 65% | Median |
+| 12.5–13.5% | 21% | 26% |  |
+| 13.5–14.5% | 5% | 5% |  |
+| 14.5–15.5% | 0.5% | 0.6% | Last Result |
 | 15.5–16.5% | 0% | 0% |  |
 
 
@@ -59,7 +59,9 @@ Last result: **15** seats (General Election of 1 March 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 8–13 | 7–14 | 7–14 | 7–15 |
+| N/A | [Poll Average](average.html) | 14 | 11–14 | 10–16 | 9–16 | 9–16 |
+| [3–9 January 2019](2019-01-09-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 12 | 10–16 | 9–16 | 9–16 | 9–16 |
+| [4–8 January 2019](2019-01-08-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 14 | 14 | 13–14 | 11–14 | 11–14 |
 | [13–19 December 2018](2018-12-19-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 12 | 11–14 | 10–14 | 10–15 | 9–16 |
 | [5–12 December 2018](2018-12-12-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 9 | 7–10 | 7–11 | 7–11 | 6–12 |
 | [27 November–10 December 2018](2018-12-10-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 8 | 7–9 | 6–9 | 6–10 | 5–11 |
@@ -89,17 +91,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.5% | 100% |  |
-| 7 | 5% | 99.5% |  |
-| 8 | 14% | 95% |  |
-| 9 | 18% | 81% |  |
-| 10 | 13% | 63% | Median |
-| 11 | 12% | 50% |  |
-| 12 | 16% | 38% |  |
-| 13 | 13% | 21% |  |
-| 14 | 6% | 8% |  |
-| 15 | 2% | 2% | Last Result |
-| 16 | 0.2% | 0.3% |  |
-| 17 | 0% | 0% |  |
+| 9 | 4% | 100% |  |
+| 10 | 2% | 96% |  |
+| 11 | 12% | 94% |  |
+| 12 | 16% | 82% |  |
+| 13 | 5% | 66% |  |
+| 14 | 51% | 61% | Median |
+| 15 | 0.6% | 10% | Last Result |
+| 16 | 9% | 9% |  |
+| 17 | 0.1% | 0.1% |  |
+| 18 | 0% | 0% |  |
 
 
