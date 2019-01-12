@@ -60,9 +60,9 @@ Last result: **14** seats (General Election of 1 March 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–11 | 5–11 | 5–12 |
-| [3–9 January 2019](2019-01-09-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 8 | 6–11 | 5–11 | 5–12 | 5–12 |
-| [4–8 January 2019](2019-01-08-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 7 | 7 | 7 | 6–7 | 5–8 |
+| N/A | [Poll Average](average.html) | 8 | 7–10 | 7–10 | 6–11 | 6–11 |
+| [3–9 January 2019](2019-01-09-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 9 | 7–10 | 7–11 | 7–11 | 6–12 |
+| [4–8 January 2019](2019-01-08-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | [13–19 December 2018](2018-12-19-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 8 | 6–9 | 6–9 | 6–10 | 5–10 |
 | [5–12 December 2018](2018-12-12-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 7 | 6–9 | 6–9 | 6–10 | 5–10 |
 | [27 November–10 December 2018](2018-12-10-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 4 | 0–5 | 0–6 | 0–6 | 0–6 |
@@ -92,16 +92,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 4% | 100% |  |
-| 6 | 17% | 96% |  |
-| 7 | 51% | 79% | Median |
-| 8 | 11% | 28% |  |
-| 9 | 8% | 17% |  |
-| 10 | 1.4% | 9% |  |
-| 11 | 6% | 7% |  |
-| 12 | 1.2% | 1.4% |  |
-| 13 | 0% | 0.2% |  |
-| 14 | 0.2% | 0.2% | Last Result |
-| 15 | 0% | 0% |  |
+| 5 | 0.2% | 100% |  |
+| 6 | 4% | 99.8% |  |
+| 7 | 26% | 96% |  |
+| 8 | 34% | 70% | Median |
+| 9 | 22% | 36% |  |
+| 10 | 10% | 14% |  |
+| 11 | 3% | 3% |  |
+| 12 | 0.4% | 0.4% |  |
+| 13 | 0% | 0% |  |
+| 14 | 0% | 0% | Last Result |
 
 

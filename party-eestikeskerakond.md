@@ -63,9 +63,9 @@ Last result: **27** seats (General Election of 1 March 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 24–31 | 24–32 | 24–34 | 24–34 |
-| [3–9 January 2019](2019-01-09-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 30 | 27–32 | 26–34 | 26–34 | 25–35 |
-| [4–8 January 2019](2019-01-08-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 24 | 24 | 24–25 | 24–27 | 24–31 |
+| N/A | [Poll Average](average.html) | 27 | 25–31 | 24–32 | 24–32 | 23–34 |
+| [3–9 January 2019](2019-01-09-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 29 | 27–32 | 26–32 | 26–33 | 25–34 |
+| [4–8 January 2019](2019-01-08-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 26 | 24–28 | 24–28 | 23–29 | 22–30 |
 | [13–19 December 2018](2018-12-19-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 28 | 26–31 | 25–31 | 25–32 | 24–33 |
 | [5–12 December 2018](2018-12-12-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 29 | 27–31 | 26–32 | 26–33 | 25–34 |
 | [27 November–10 December 2018](2018-12-10-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 36 | 34–39 | 33–40 | 32–40 | 31–42 |
@@ -95,21 +95,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 23 | 0% | 100% |  |
-| 24 | 47% | 99.9% |  |
-| 25 | 0.7% | 53% |  |
-| 26 | 5% | 52% | Median |
-| 27 | 2% | 47% | Last Result |
-| 28 | 7% | 45% |  |
-| 29 | 7% | 37% |  |
-| 30 | 6% | 30% |  |
-| 31 | 17% | 24% |  |
-| 32 | 3% | 6% |  |
-| 33 | 0.1% | 3% |  |
-| 34 | 3% | 3% |  |
-| 35 | 0.4% | 0.5% |  |
-| 36 | 0% | 0.1% |  |
-| 37 | 0.1% | 0.1% |  |
-| 38 | 0% | 0% |  |
+| 22 | 0.3% | 100% |  |
+| 23 | 2% | 99.6% |  |
+| 24 | 5% | 98% |  |
+| 25 | 13% | 92% |  |
+| 26 | 15% | 80% |  |
+| 27 | 15% | 65% | Last Result, Median |
+| 28 | 13% | 49% |  |
+| 29 | 13% | 37% |  |
+| 30 | 11% | 24% |  |
+| 31 | 6% | 12% |  |
+| 32 | 4% | 6% |  |
+| 33 | 2% | 2% |  |
+| 34 | 0.4% | 0.5% |  |
+| 35 | 0.1% | 0.1% |  |
+| 36 | 0% | 0% |  |
 
 

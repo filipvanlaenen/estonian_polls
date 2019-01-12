@@ -62,9 +62,9 @@ Last result: **0** seats (General Election of 1 March 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 6–9 | 6–9 | 5–9 | 5–9 |
-| [3–9 January 2019](2019-01-09-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 7 | 6–9 | 5–9 | 5–9 | 5–9 |
-| [4–8 January 2019](2019-01-08-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 6 | 6 | 6 | 6 | 5–8 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
+| [3–9 January 2019](2019-01-09-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 7 | 5–8 | 5–8 | 5–8 | 4–9 |
+| [4–8 January 2019](2019-01-08-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 6 | 5–7 | 5–7 | 5–8 | 0–8 |
 | [13–19 December 2018](2018-12-19-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 5 | 4–7 | 0–7 | 0–7 | 0–8 |
 | [5–12 December 2018](2018-12-12-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 8 | 7–9 | 6–10 | 6–10 | 6–11 |
 | [27 November–10 December 2018](2018-12-10-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 6 | 6–8 | 5–8 | 5–9 | 5–9 |
@@ -94,17 +94,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 0% | 100% |  |
-| 3 | 0% | 100% |  |
-| 4 | 0% | 100% |  |
-| 5 | 5% | 100% |  |
-| 6 | 61% | 95% | Median |
-| 7 | 14% | 35% |  |
-| 8 | 7% | 21% |  |
-| 9 | 14% | 14% |  |
-| 10 | 0.2% | 0.2% |  |
+| 0 | 0.4% | 100% | Last Result |
+| 1 | 0% | 99.6% |  |
+| 2 | 0% | 99.6% |  |
+| 3 | 0% | 99.6% |  |
+| 4 | 0.5% | 99.6% |  |
+| 5 | 17% | 99.1% |  |
+| 6 | 41% | 82% | Median |
+| 7 | 31% | 41% |  |
+| 8 | 9% | 10% |  |
+| 9 | 1.1% | 1.2% |  |
+| 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 
 
