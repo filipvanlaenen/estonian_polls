@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Riigikogu</title>
     <link>https://filipvanlaenen.github.io/estonian_polls</link>
     <description>All Registered Polls for the Riigikogu</description>
-    <pubDate>Sat, 12 Jan 2019 11:49:24 +0100</pubDate>
+    <pubDate>Sat, 12 Jan 2019 16:10:14 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Turu-uuringute AS for ERR, 3–9 January 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/estonian_polls/2019-01-09-Turu-uuringuteAS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond: 19–25 seats&lt;/li&gt;&lt;li&gt;Eesti Keskerakond: 26–33 seats&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond: 10–15 seats&lt;/li&gt;&lt;li&gt;Erakond Isamaa: 7–11 seats&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond: 0 seats&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond: 19–25 seats&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised: 0 seats&lt;/li&gt;&lt;li&gt;Eesti 200: 5–8 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2019-01-09-Turu-uuringuteAS-seats.png"
+        length="212109"
+        type="image/png"/>
+      <pubDate>Sat, 12 Jan 2019 13:36:42 +0100</pubDate>
+      <dc:date>2019-01-12T13:36:42.099795+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Turu-uuringute AS for ERR, 3–9 January 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/estonian_polls/2019-01-09-Turu-uuringuteAS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2019-01-09-Turu-uuringuteAS-coalitions-seats.png"
+        length="312580"
+        type="image/png"/>
+      <pubDate>Sat, 12 Jan 2019 13:36:42 +0100</pubDate>
+      <dc:date>2019-01-12T13:36:42.099795+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Turu-uuringute AS for ERR, 3–9 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_polls/2019-01-09-Turu-uuringuteAS.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2019-01-09-Turu-uuringuteAS.png"
         length="213189"
         type="image/png"/>
-      <pubDate>Sat, 12 Jan 2019 11:06:46 +0100</pubDate>
-      <dc:date>2019-01-12T11:06:46.019145+01:00</dc:date>
+      <pubDate>Sat, 12 Jan 2019 13:36:42 +0100</pubDate>
+      <dc:date>2019-01-12T13:36:42.099795+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Emor for BNS and Postimees, 4–8 January 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/estonian_polls/2019-01-08-KantarEmor.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond: 25–30 seats&lt;/li&gt;&lt;li&gt;Eesti Keskerakond: 23–29 seats&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond: 10–14 seats&lt;/li&gt;&lt;li&gt;Erakond Isamaa: 6–9 seats&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond: 0 seats&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond: 20–25 seats&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised: 0 seats&lt;/li&gt;&lt;li&gt;Eesti 200: 5–8 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2019-01-08-KantarEmor-seats.png"
+        length="205196"
+        type="image/png"/>
+      <pubDate>Sat, 12 Jan 2019 16:10:14 +0100</pubDate>
+      <dc:date>2019-01-12T16:10:14.059516+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Emor for BNS and Postimees, 4–8 January 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/estonian_polls/2019-01-08-KantarEmor.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2019-01-08-KantarEmor-coalitions-seats.png"
+        length="278349"
+        type="image/png"/>
+      <pubDate>Sat, 12 Jan 2019 16:10:14 +0100</pubDate>
+      <dc:date>2019-01-12T16:10:14.059516+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Emor for BNS and Postimees, 4–8 January 2019 – Voting Intentions</title>
@@ -26,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2019-01-08-KantarEmor.png"
         length="211257"
         type="image/png"/>
-      <pubDate>Sat, 12 Jan 2019 11:49:24 +0100</pubDate>
-      <dc:date>2019-01-12T11:49:24.007873+01:00</dc:date>
+      <pubDate>Sat, 12 Jan 2019 16:10:14 +0100</pubDate>
+      <dc:date>2019-01-12T16:10:14.059516+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Turu-uuringute AS for ERR, 13–19 December 2018 – Seat Projections for the Parties</title>
@@ -629,6 +669,6 @@
       <pubDate>Tue, 09 Oct 2018 22:43:44 +0200</pubDate>
       <dc:date>2018-10-09T22:43:44.13821+02:00</dc:date>
     </item>
-    <dc:date>2019-01-12T11:49:24.007873+01:00</dc:date>
+    <dc:date>2019-01-12T16:10:14.059516+01:00</dc:date>
   </channel>
 </rss>
