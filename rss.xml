@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Riigikogu</title>
     <link>https://filipvanlaenen.github.io/estonian_polls</link>
     <description>All Registered Polls for the Riigikogu</description>
-    <pubDate>Sat, 12 Jan 2019 16:10:14 +0100</pubDate>
+    <pubDate>Thu, 17 Jan 2019 19:38:59 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Norstat, 7–13 January 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/estonian_polls/2019-01-13-Norstat.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond: 27–34 seats&lt;/li&gt;&lt;li&gt;Eesti Keskerakond: 27–34 seats&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond: 8–12 seats&lt;/li&gt;&lt;li&gt;Erakond Isamaa: 5–8 seats&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond: 0 seats&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond: 19–25 seats&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised: 0 seats&lt;/li&gt;&lt;li&gt;Eesti 200: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2019-01-13-Norstat-seats.png"
+        length="196701"
+        type="image/png"/>
+      <pubDate>Thu, 17 Jan 2019 19:38:59 +0100</pubDate>
+      <dc:date>2019-01-17T19:38:59.422983+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat, 7–13 January 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/estonian_polls/2019-01-13-Norstat.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2019-01-13-Norstat-coalitions-seats.png"
+        length="309221"
+        type="image/png"/>
+      <pubDate>Thu, 17 Jan 2019 19:38:59 +0100</pubDate>
+      <dc:date>2019-01-17T19:38:59.422983+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat, 7–13 January 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_polls/2019-01-13-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond: 24.3–29.6%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond: 24.3–29.6%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond: 8.3–11.9%&lt;/li&gt;&lt;li&gt;Erakond Isamaa: 5.6–8.7%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond: 0.1–0.8%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond: 17.7–22.5%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised: 1.3–3.0%&lt;/li&gt;&lt;li&gt;Eesti 200: 1.3–3.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2019-01-13-Norstat.png"
+        length="203115"
+        type="image/png"/>
+      <pubDate>Thu, 17 Jan 2019 19:38:59 +0100</pubDate>
+      <dc:date>2019-01-17T19:38:59.422983+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Turu-uuringute AS for ERR, 3–9 January 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/estonian_polls/2019-01-09-Turu-uuringuteAS.html#seats</link>
@@ -669,6 +699,6 @@
       <pubDate>Tue, 09 Oct 2018 22:43:44 +0200</pubDate>
       <dc:date>2018-10-09T22:43:44.13821+02:00</dc:date>
     </item>
-    <dc:date>2019-01-12T16:10:14.059516+01:00</dc:date>
+    <dc:date>2019-01-17T19:38:59.422983+01:00</dc:date>
   </channel>
 </rss>
