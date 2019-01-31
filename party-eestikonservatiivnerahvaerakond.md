@@ -10,7 +10,8 @@ Last result: **8.1%** (General Election of 1 March 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.4% | 16.4–21.4% | 15.8–21.8% | 15.4–22.2% | 14.6–23.1% |
+| N/A | [Poll Average](average.html) | 18.4% | 16.3–20.8% | 15.8–21.3% | 15.3–21.8% | 14.5–22.8% |
+| [24–29 January 2019](2019-01-29-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 18.2% | 16.7–19.8% | 16.3–20.3% | 15.9–20.7% | 15.2–21.5% |
 | [15–28 January 2019](2019-01-28-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 17.0% | 15.5–18.6% | 15.2–19.1% | 14.8–19.5% | 14.1–20.3% |
 | [7–13 January 2019](2019-01-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 20.0% | 18.5–21.6% | 18.1–22.1% | 17.7–22.5% | 17.0–23.3% |
 | [3–9 January 2019](2019-01-09-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 20.0% | 18.5–21.7% | 18.0–22.2% | 17.7–22.6% | 16.9–23.4% |
@@ -50,15 +51,15 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0.5% | 100% |  |
 | 14.5–15.5% | 3% | 99.5% |  |
-| 15.5–16.5% | 8% | 97% |  |
-| 16.5–17.5% | 12% | 89% |  |
-| 17.5–18.5% | 12% | 77% |  |
-| 18.5–19.5% | 18% | 65% | Median |
-| 19.5–20.5% | 23% | 47% |  |
-| 20.5–21.5% | 17% | 24% |  |
-| 21.5–22.5% | 6% | 8% |  |
-| 22.5–23.5% | 1.2% | 1.4% |  |
-| 23.5–24.5% | 0.1% | 0.2% |  |
+| 15.5–16.5% | 10% | 96% |  |
+| 16.5–17.5% | 18% | 86% |  |
+| 17.5–18.5% | 21% | 68% | Median |
+| 18.5–19.5% | 19% | 46% |  |
+| 19.5–20.5% | 15% | 27% |  |
+| 20.5–21.5% | 9% | 12% |  |
+| 21.5–22.5% | 3% | 4% |  |
+| 22.5–23.5% | 0.6% | 0.7% |  |
+| 23.5–24.5% | 0.1% | 0.1% |  |
 | 24.5–25.5% | 0% | 0% |  |
 
 
@@ -70,7 +71,8 @@ Last result: **7** seats (General Election of 1 March 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 18–23 | 17–24 | 16–25 | 15–26 |
+| N/A | [Poll Average](average.html) | 20 | 17–23 | 17–23 | 16–24 | 15–25 |
+| [24–29 January 2019](2019-01-29-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 20 | 18–22 | 17–22 | 17–23 | 16–24 |
 | [15–28 January 2019](2019-01-28-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 19 | 17–21 | 16–21 | 16–22 | 15–23 |
 | [7–13 January 2019](2019-01-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 22 | 20–24 | 19–24 | 19–25 | 18–26 |
 | [3–9 January 2019](2019-01-09-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 22 | 20–24 | 19–25 | 19–25 | 18–26 |
@@ -112,19 +114,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0.1% | 100% |  |
-| 15 | 0.7% | 99.9% |  |
-| 16 | 2% | 99.2% |  |
-| 17 | 6% | 97% |  |
-| 18 | 7% | 91% |  |
-| 19 | 12% | 84% |  |
-| 20 | 14% | 72% |  |
-| 21 | 17% | 58% | Median |
-| 22 | 19% | 41% |  |
-| 23 | 13% | 22% |  |
-| 24 | 6% | 9% |  |
-| 25 | 2% | 3% |  |
-| 26 | 0.5% | 0.6% |  |
-| 27 | 0.1% | 0.1% |  |
+| 15 | 0.8% | 99.9% |  |
+| 16 | 3% | 99.1% |  |
+| 17 | 8% | 96% |  |
+| 18 | 12% | 88% |  |
+| 19 | 19% | 76% |  |
+| 20 | 18% | 57% | Median |
+| 21 | 15% | 38% |  |
+| 22 | 12% | 23% |  |
+| 23 | 7% | 11% |  |
+| 24 | 3% | 4% |  |
+| 25 | 0.9% | 1.3% |  |
+| 26 | 0.3% | 0.3% |  |
+| 27 | 0% | 0.1% |  |
 | 28 | 0% | 0% |  |
 
 
