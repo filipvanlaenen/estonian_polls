@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/estonian_polls</id>
   <title>All Registered Polls for the Riigikogu</title>
-  <updated>2019-01-31T18:59:34.39631+01:00</updated>
+  <updated>2019-02-07T18:37:18.438769+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Reformierakond: 23.9–29.4%, 27–35 seats</li><li>Eesti Keskerakond: 27.7–33.4%, 32–40 seats</li><li>Sotsiaaldemokraatlik Erakond: 9.2–13.1%, 9–14 seats</li><li>Erakond Isamaa: 5.8–9.1%, 5–9 seats</li><li>Eesti Konservatiivne Rahvaerakond: 11.3–15.5%, 12–17 seats</li><li>Erakond Eestimaa Rohelised: 2.9–5.4%, 0–5 seats</li><li>Eesti 200: 3.5–6.1%, 0–5 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/estonian_polls/2019-02-04-Norstat.html</id>
+    <link href="https://filipvanlaenen.github.io/estonian_polls/2019-02-04-Norstat.html"/>
+    <title>Opinion Poll by Norstat, 28 January–4 February 2019</title>
+    <updated>2019-02-07T18:37:18.438769+01:00</updated>
+    <dc:date>2019-02-07T18:37:18.438769+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Reformierakond: 23.6–29.1%, 26–33 seats</li><li>Eesti Keskerakond: 21.8–27.1%, 24–31 seats</li><li>Sotsiaaldemokraatlik Erakond: 8.0–11.7%, 8–12 seats</li><li>Erakond Isamaa: 6.0–9.3%, 5–9 seats</li><li>Eesti Vabaerakond: 1.1–2.7%, 0 seats</li><li>Eesti Konservatiivne Rahvaerakond: 15.9–20.7%, 17–23 seats</li><li>Erakond Eestimaa Rohelised: 3.3–5.9%, 0–5 seats</li><li>Eesti 200: 5.7–9.0%, 5–9 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/estonian_polls/2019-01-29-KantarEmor.html</id>
@@ -207,5 +215,5 @@
     <updated>2018-10-09T22:43:44.13821+02:00</updated>
     <dc:date>2018-10-09T22:43:44.13821+02:00</dc:date>
   </entry>
-  <dc:date>2019-01-31T18:59:34.39631+01:00</dc:date>
+  <dc:date>2019-02-07T18:37:18.438769+01:00</dc:date>
 </feed>
