@@ -10,7 +10,8 @@ Last result: **27.7%** (General Election of 1 March 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.0% | 24.0–28.0% | 23.5–28.6% | 23.0–29.0% | 22.1–30.0% |
+| N/A | [Poll Average](average.html) | 25.3% | 23.4–27.6% | 22.9–28.2% | 22.4–28.7% | 21.6–29.7% |
+| [4–7 February 2019](2019-02-07-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 24.5% | 22.9–26.2% | 22.4–26.6% | 22.1–27.1% | 21.3–27.9% |
 | [28 January–4 February 2019](2019-02-04-Norstat.html) | Norstat | 26.6% | 24.9–28.5% | 24.4–29.0% | 23.9–29.4% | 23.1–30.3% |
 | [24–29 January 2019](2019-01-29-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 26.3% | 24.5–28.1% | 24.1–28.6% | 23.6–29.1% | 22.8–30.0% |
 | [15–28 January 2019](2019-01-28-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 25.0% | 23.3–26.8% | 22.8–27.3% | 22.4–27.8% | 21.6–28.7% |
@@ -45,17 +46,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0.1% | 100% |  |
-| 21.5–22.5% | 1.0% | 99.9% |  |
-| 22.5–23.5% | 4% | 98.8% |  |
-| 23.5–24.5% | 12% | 94% |  |
-| 24.5–25.5% | 21% | 82% |  |
-| 25.5–26.5% | 25% | 62% | Median |
-| 26.5–27.5% | 20% | 36% |  |
-| 27.5–28.5% | 11% | 16% | Last Result |
-| 28.5–29.5% | 4% | 5% |  |
-| 29.5–30.5% | 0.9% | 1.1% |  |
-| 30.5–31.5% | 0.1% | 0.2% |  |
+| 20.5–21.5% | 0.4% | 100% |  |
+| 21.5–22.5% | 3% | 99.6% |  |
+| 22.5–23.5% | 9% | 97% |  |
+| 23.5–24.5% | 19% | 88% |  |
+| 24.5–25.5% | 24% | 69% | Median |
+| 25.5–26.5% | 21% | 45% |  |
+| 26.5–27.5% | 14% | 24% |  |
+| 27.5–28.5% | 7% | 10% | Last Result |
+| 28.5–29.5% | 2% | 3% |  |
+| 29.5–30.5% | 0.6% | 0.7% |  |
+| 30.5–31.5% | 0.1% | 0.1% |  |
 | 31.5–32.5% | 0% | 0% |  |
 
 
@@ -67,7 +68,8 @@ Last result: **30** seats (General Election of 1 March 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30 | 27–32 | 26–33 | 26–34 | 25–35 |
+| N/A | [Poll Average](average.html) | 29 | 26–32 | 25–33 | 24–34 | 23–35 |
+| [4–7 February 2019](2019-02-07-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 27 | 25–29 | 24–29 | 24–30 | 23–31 |
 | [28 January–4 February 2019](2019-02-04-Norstat.html) | Norstat | 31 | 28–33 | 28–34 | 27–35 | 26–36 |
 | [24–29 January 2019](2019-01-29-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 30 | 27–32 | 27–33 | 26–33 | 25–35 |
 | [15–28 January 2019](2019-01-28-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 29 | 26–31 | 25–32 | 25–33 | 24–34 |
@@ -103,19 +105,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 23 | 0.1% | 100% |  |
-| 24 | 0.3% | 99.9% |  |
-| 25 | 2% | 99.6% |  |
-| 26 | 5% | 98% |  |
-| 27 | 8% | 93% |  |
-| 28 | 13% | 86% |  |
-| 29 | 17% | 73% |  |
-| 30 | 19% | 55% | Last Result, Median |
-| 31 | 16% | 36% |  |
-| 32 | 10% | 20% |  |
-| 33 | 6% | 10% |  |
-| 34 | 2% | 4% |  |
-| 35 | 1.0% | 1.3% |  |
+| 22 | 0.1% | 100% |  |
+| 23 | 0.5% | 99.9% |  |
+| 24 | 3% | 99.4% |  |
+| 25 | 6% | 97% |  |
+| 26 | 12% | 90% |  |
+| 27 | 13% | 78% |  |
+| 28 | 13% | 66% |  |
+| 29 | 14% | 53% | Median |
+| 30 | 13% | 38% | Last Result |
+| 31 | 11% | 26% |  |
+| 32 | 7% | 15% |  |
+| 33 | 4% | 7% |  |
+| 34 | 2% | 3% |  |
+| 35 | 0.8% | 1.0% |  |
 | 36 | 0.2% | 0.3% |  |
 | 37 | 0.1% | 0.1% |  |
 | 38 | 0% | 0% |  |
