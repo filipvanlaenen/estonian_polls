@@ -68,7 +68,7 @@ Last result: **15** seats (General Election of 1 March 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 6–13 | 6–13 | 5–14 | 5–14 |
+| N/A | [Poll Average](average.html) | 10 | 6–12 | 6–13 | 5–14 | 5–14 |
 | [4–7 February 2019](2019-02-07-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 11 | 10–13 | 10–13 | 9–14 | 9–14 |
 | [28 January–4 February 2019](2019-02-04-Norstat.html) | Norstat | 11 | 10–13 | 9–13 | 9–14 | 8–15 |
 | [24–29 January 2019](2019-01-29-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 9 | 8–11 | 8–11 | 8–12 | 7–13 |
@@ -115,12 +115,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 12% | 86% |  |
 | 8 | 6% | 74% |  |
 | 9 | 4% | 68% |  |
-| 10 | 13% | 64% |  |
-| 11 | 21% | 50% | Median |
+| 10 | 14% | 63% | Median |
+| 11 | 21% | 50% |  |
 | 12 | 19% | 29% |  |
 | 13 | 7% | 10% |  |
 | 14 | 2% | 3% |  |
-| 15 | 0.4% | 0.4% | Last Result |
+| 15 | 0.3% | 0.4% | Last Result |
 | 16 | 0% | 0% |  |
 
 
