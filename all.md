@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Ref | Kesk | SDE | Isamaa | EVA | EKRE | Rohelised | E200 |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 1 March 2015 | General Election | 27.7% <br> 30 | 24.8% <br> 27 | 15.2% <br> 15 | 13.7% <br> 14 | 8.7% <br> 8 | 8.1% <br> 7 | 0.9% <br> 0 | 0.0% <br> 0 |
-| [4–11 February 2019](2019-02-11-Norstat.html) | Norstat | 28–34% <br> 32–39 | 24–30% <br> 27–34 | 7–11% <br> 7–11 | 6–10% <br> 6–9 | N/A <br> N/A | 16–21% <br> 16–22 | 1–3% <br> 0 | 2–4% <br> 0 |
+| [4–11 February 2019](2019-02-11-Norstat.html) | Norstat | 28–34% <br> 31–39 | 25–30% <br> 28–34 | 7–11% <br> 7–11 | 6–10% <br> 6–10 | N/A <br> N/A | 15–20% <br> 16–22 | 1–3% <br> 0 | 2–4% <br> 0 |
 | [4–7 February 2019](2019-02-07-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 22–27% <br> 24–30 | 24–29% <br> 26–33 | 10–14% <br> 9–14 | 7–10% <br> 6–10 | 0–1% <br> 0 | 17–21% <br> 17–23 | 1–3% <br> 0 | 5–8% <br> 4–8 |
 | [28 January–4 February 2019](2019-02-04-Norstat.html) | Norstat | 24–29% <br> 27–35 | 28–33% <br> 32–40 | 9–13% <br> 9–14 | 6–9% <br> 5–9 | N/A <br> N/A | 11–16% <br> 12–17 | 3–5% <br> 0–5 | 3–6% <br> 0–5 |
 | [24–29 January 2019](2019-01-29-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 24–29% <br> 26–33 | 22–27% <br> 24–31 | 8–12% <br> 8–12 | 6–9% <br> 5–9 | 1–3% <br> 0 | 16–21% <br> 17–23 | 3–6% <br> 0–5 | 6–9% <br> 5–9 |
