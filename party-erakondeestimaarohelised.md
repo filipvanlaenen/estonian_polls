@@ -94,7 +94,7 @@ Last result: **0** seats (General Election of 1 March 2015)
 | [8–26 August 2018](2018-08-26-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 0 | 0 | 0–4 | 0–5 | 0–5 |
 | [15–22 August 2018](2018-08-22-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 0 | 0 | 0 | 0 | 0 |
 | [24–30 July 2018](2018-07-30-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 0 | 0 | 0 | 0 | 0 |
-| [1–17 June 2018](2018-06-17-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 0 | 0–6 | 0–6 | 0–6 | 0–7 |
+| [1–17 June 2018](2018-06-17-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 0 | 0–5 | 0–5 | 0–6 | 0–6 |
 | [29 May–11 June 2018](2018-06-11-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 0 | 0 | 0 | 0 | 0 |
 | [21 May 2018](2018-05-21-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 0 | 0 | 0–4 | 0–5 | 0–5 |
 | [21 May 2018](2018-05-21-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 0 | 0 | 0 | 0 | 0 |
@@ -102,7 +102,7 @@ Last result: **0** seats (General Election of 1 March 2015)
 | [12–18 April 2018](2018-04-18-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 5 | 4–6 | 0–7 | 0–7 | 0–8 |
 | [8–21 March 2018](2018-03-21-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 0 | 0 | 0 | 0 | 0 |
 | [8–14 March 2018](2018-03-14-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 0 | 0 | 0 | 0 | 0–5 |
-| [1–25 February 2018](2018-02-25-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 5 | 4–5 | 0–5 | 0–5 | 0–5 |
+| [1–25 February 2018](2018-02-25-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [7–20 February 2018](2018-02-20-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 0 | 0 | 0 | 0 | 0 |
 | [15–29 January 2018](2018-01-29-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 0 | 0 | 0–5 | 0–5 | 0–5 |
 | [18–25 January 2018](2018-01-25-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
