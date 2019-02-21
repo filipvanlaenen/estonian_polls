@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riigikogu</title>
     <link>https://filipvanlaenen.github.io/estonian_polls</link>
     <description>All Registered Polls for the Riigikogu</description>
-    <pubDate>Wed, 20 Feb 2019 20:12:58 +0100</pubDate>
+    <pubDate>Thu, 21 Feb 2019 18:55:09 +0100</pubDate>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 11–17 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_polls/2019-02-17-Norstat.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2019-02-17-Norstat.png"
         length="206697"
         type="image/png"/>
-      <pubDate>Wed, 20 Feb 2019 12:52:52 +0100</pubDate>
-      <dc:date>2019-02-20T12:52:52.779493+01:00</dc:date>
+      <pubDate>Wed, 20 Feb 2019 20:26:11 +0100</pubDate>
+      <dc:date>2019-02-20T20:26:11.813219+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 4–11 February 2019 – Voting Intentions</title>
@@ -60,14 +60,34 @@
       <dc:date>2019-02-11T20:43:01.964705+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 28 January–4 February 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/estonian_polls/2019-02-04-Norstat.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond: 27–35 seats&lt;/li&gt;&lt;li&gt;Eesti Keskerakond: 32–40 seats&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond: 9–14 seats&lt;/li&gt;&lt;li&gt;Erakond Isamaa: 5–9 seats&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond: 0 seats&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond: 12–17 seats&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised: 0–5 seats&lt;/li&gt;&lt;li&gt;Eesti 200: 0–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2019-02-04-Norstat-seats.png"
+        length="204570"
+        type="image/png"/>
+      <pubDate>Thu, 21 Feb 2019 11:11:16 +0100</pubDate>
+      <dc:date>2019-02-21T11:11:16.527183+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 28 January–4 February 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/estonian_polls/2019-02-04-Norstat.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2019-02-04-Norstat-coalitions-seats.png"
+        length="308913"
+        type="image/png"/>
+      <pubDate>Thu, 21 Feb 2019 11:11:16 +0100</pubDate>
+      <dc:date>2019-02-21T11:11:16.527183+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 28 January–4 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_polls/2019-02-04-Norstat.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond: 23.9–29.4%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond: 27.7–33.4%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond: 9.2–13.1%&lt;/li&gt;&lt;li&gt;Erakond Isamaa: 5.8–9.1%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond: 0.3–1.4%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond: 11.3–15.5%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised: 2.9–5.4%&lt;/li&gt;&lt;li&gt;Eesti 200: 3.5–6.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2019-02-04-Norstat.png"
         length="211479"
         type="image/png"/>
-      <pubDate>Wed, 20 Feb 2019 13:23:08 +0100</pubDate>
-      <dc:date>2019-02-20T13:23:08.78145+01:00</dc:date>
+      <pubDate>Thu, 21 Feb 2019 11:11:16 +0100</pubDate>
+      <dc:date>2019-02-21T11:11:16.527183+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Emor for BNS and Postimees, 24–29 January 2019 – Seat Projections for the Parties</title>
@@ -146,8 +166,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2019-01-21-Norstat.png"
         length="208538"
         type="image/png"/>
-      <pubDate>Wed, 20 Feb 2019 20:12:58 +0100</pubDate>
-      <dc:date>2019-02-20T20:12:58.469979+01:00</dc:date>
+      <pubDate>Thu, 21 Feb 2019 11:26:25 +0100</pubDate>
+      <dc:date>2019-02-21T11:26:25.779769+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 7–13 January 2019 – Voting Intentions</title>
@@ -580,14 +600,34 @@
       <dc:date>2018-10-09T11:37:03.364421+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Kantar Emor for BNS and Postimees, 1–17 June 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/estonian_polls/2018-06-17-KantarEmor.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond: 32–40 seats&lt;/li&gt;&lt;li&gt;Eesti Keskerakond: 21–28 seats&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond: 11–17 seats&lt;/li&gt;&lt;li&gt;Erakond Isamaa: 5–8 seats&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond: 0 seats&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond: 15–21 seats&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised: 0–6 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2018-06-17-KantarEmor-seats.png"
+        length="193677"
+        type="image/png"/>
+      <pubDate>Wed, 20 Feb 2019 22:33:17 +0100</pubDate>
+      <dc:date>2019-02-20T22:33:17.641796+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Emor for BNS and Postimees, 1–17 June 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/estonian_polls/2018-06-17-KantarEmor.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2018-06-17-KantarEmor-coalitions-seats.png"
+        length="324026"
+        type="image/png"/>
+      <pubDate>Wed, 20 Feb 2019 22:33:17 +0100</pubDate>
+      <dc:date>2019-02-20T22:33:17.641796+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Kantar Emor for BNS and Postimees, 1–17 June 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_polls/2018-06-17-KantarEmor.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond: 29.0–35.2%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond: 20.3–25.9%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond: 11.8–16.4%&lt;/li&gt;&lt;li&gt;Erakond Isamaa: 5.5–8.9%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond: 2.0–4.3%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond: 14.7–19.7%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised: 3.8–6.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2018-06-17-KantarEmor.png"
         length="197307"
         type="image/png"/>
-      <pubDate>Wed, 20 Feb 2019 19:40:17 +0100</pubDate>
-      <dc:date>2019-02-20T19:40:17.844353+01:00</dc:date>
+      <pubDate>Wed, 20 Feb 2019 22:33:17 +0100</pubDate>
+      <dc:date>2019-02-20T22:33:17.641796+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Turu-uuringute AS for ERR, 29 May–11 June 2018 – Seat Projections for the Parties</title>
@@ -650,14 +690,34 @@
       <dc:date>2018-10-09T09:59:43.782629+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Kantar Emor for BNS and Postimees, 21 May 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/estonian_polls/2018-05-21-KantarEmor.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond: 34–43 seats&lt;/li&gt;&lt;li&gt;Eesti Keskerakond: 20–27 seats&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond: 10–15 seats&lt;/li&gt;&lt;li&gt;Erakond Isamaa: 0–6 seats&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond: 0–5 seats&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond: 15–22 seats&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2018-05-21-KantarEmor-seats.png"
+        length="192653"
+        type="image/png"/>
+      <pubDate>Thu, 21 Feb 2019 18:55:09 +0100</pubDate>
+      <dc:date>2019-02-21T18:55:09.468464+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Emor for BNS and Postimees, 21 May 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/estonian_polls/2018-05-21-KantarEmor.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2018-05-21-KantarEmor-coalitions-seats.png"
+        length="332935"
+        type="image/png"/>
+      <pubDate>Thu, 21 Feb 2019 18:55:09 +0100</pubDate>
+      <dc:date>2019-02-21T18:55:09.468464+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Kantar Emor for BNS and Postimees, 21 May 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_polls/2018-05-21-KantarEmor.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond: 29.0–35.2%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond: 18.5–23.9%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond: 9.9–14.2%&lt;/li&gt;&lt;li&gt;Erakond Isamaa: 3.8–6.7%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond: 2.9–5.5%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond: 14.4–19.3%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised: 2.0–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2018-05-21-KantarEmor.png"
         length="193769"
         type="image/png"/>
-      <pubDate>Wed, 20 Feb 2019 19:46:33 +0100</pubDate>
-      <dc:date>2019-02-20T19:46:33.726991+01:00</dc:date>
+      <pubDate>Thu, 21 Feb 2019 18:55:09 +0100</pubDate>
+      <dc:date>2019-02-21T18:55:09.468464+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Turu-uuringute AS for ERR, 19 April 2018 – Voting Intentions</title>
@@ -760,14 +820,34 @@
       <dc:date>2018-10-09T12:20:42.985055+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Kantar Emor for BNS and Postimees, 1–25 February 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/estonian_polls/2018-02-25-KantarEmor.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond: 35–43 seats&lt;/li&gt;&lt;li&gt;Eesti Keskerakond: 19–26 seats&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond: 9–13 seats&lt;/li&gt;&lt;li&gt;Erakond Isamaa: 0–7 seats&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond: 5–8 seats&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond: 15–21 seats&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised: 0–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2018-02-25-KantarEmor-seats.png"
+        length="199581"
+        type="image/png"/>
+      <pubDate>Thu, 21 Feb 2019 18:19:47 +0100</pubDate>
+      <dc:date>2019-02-21T18:19:47.187573+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Emor for BNS and Postimees, 1–25 February 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/estonian_polls/2018-02-25-KantarEmor.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2018-02-25-KantarEmor-coalitions-seats.png"
+        length="313924"
+        type="image/png"/>
+      <pubDate>Thu, 21 Feb 2019 18:19:47 +0100</pubDate>
+      <dc:date>2019-02-21T18:19:47.187573+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Kantar Emor for BNS and Postimees, 1–25 February 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_polls/2018-02-25-KantarEmor.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond: 30.8–37.1%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond: 18.4–23.8%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond: 9.1–13.2%&lt;/li&gt;&lt;li&gt;Erakond Isamaa: 4.6–7.7%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond: 5.5–8.9%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond: 14.6–19.6%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised: 2.9–5.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2018-02-25-KantarEmor.png"
         length="195204"
         type="image/png"/>
-      <pubDate>Wed, 20 Feb 2019 19:59:10 +0100</pubDate>
-      <dc:date>2019-02-20T19:59:10.141909+01:00</dc:date>
+      <pubDate>Thu, 21 Feb 2019 18:19:47 +0100</pubDate>
+      <dc:date>2019-02-21T18:19:47.187573+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Turu-uuringute AS for ERR, 7–20 February 2018 – Seat Projections for the Parties</title>
@@ -859,6 +939,6 @@
       <pubDate>Tue, 09 Oct 2018 22:43:44 +0200</pubDate>
       <dc:date>2018-10-09T22:43:44.13821+02:00</dc:date>
     </item>
-    <dc:date>2019-02-20T20:12:58.469979+01:00</dc:date>
+    <dc:date>2019-02-21T18:55:09.468464+01:00</dc:date>
   </channel>
 </rss>
