@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | Ref | Kesk | SDE | Isamaa | EVA | EKRE | Rohelised | E200 |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 1 March 2015 | General Election | 27.7% <br> 30 | 24.8% <br> 27 | 15.2% <br> 15 | 13.7% <br> 14 | 8.7% <br> 8 | 8.1% <br> 7 | 0.9% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 22–34% <br> 24–37 | 22–35% <br> 26–42 | 6–13% <br> 5–13 | 5–14% <br> 4–14 | 0–2% <br> 0 | 14–21% <br> 15–22 | 2–4% <br> 0 | 2–8% <br> 0–7 |
-| [11–17 February 2019](2019-02-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 29–35% <br> 36–37 | 21–26% <br> 26–30 | 7–10% <br> 7–8 | 11–15% <br> 12–14 | 1–2% <br> 0 | 13–18% <br> 15–16 | 2–4% <br> 0 | 2–4% <br> 0 |
+| N/A | [Poll Average](average.html) | 22–34% <br> 24–40 | 22–35% <br> 24–42 | 6–13% <br> 5–13 | 5–14% <br> 4–15 | 0–2% <br> 0 | 14–21% <br> 14–22 | 2–4% <br> 0 | 2–8% <br> 0–7 |
+| [11–17 February 2019](2019-02-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 29–35% <br> 33–41 | 21–26% <br> 23–30 | 7–10% <br> 6–10 | 11–15% <br> 11–16 | 1–2% <br> 0 | 13–18% <br> 14–19 | 2–4% <br> 0 | 2–4% <br> 0 |
 | [4–7 February 2019](2019-02-07-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 22–27% <br> 24–30 | 24–29% <br> 26–33 | 10–14% <br> 9–14 | 7–10% <br> 6–10 | 0–1% <br> 0 | 17–21% <br> 17–23 | 1–3% <br> 0 | 5–8% <br> 4–8 |
 | [15–28 January 2019](2019-01-28-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 22–28% <br> 25–33 | 30–36% <br> 35–44 | 6–9% <br> 5–9 | 5–8% <br> 0–7 | 1–2% <br> 0 | 15–19% <br> 16–22 | 2–4% <br> 0 | 4–7% <br> 0–6 |
 | 1 March 2015 | General Election | 27.7% <br> 30 | 24.8% <br> 27 | 15.2% <br> 15 | 13.7% <br> 14 | 8.7% <br> 8 | 8.1% <br> 7 | 0.9% <br> 0 | 0.0% <br> 0 |
