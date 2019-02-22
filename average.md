@@ -228,7 +228,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#eesti-reformierakond">Eesti Reformierakond</a> | 30 | 29 | 26–38 |25–39 | 24–40 | 23–41 |
 | <a href="#eesti-keskerakond">Eesti Keskerakond</a> | 27 | 29 | 25–40 |24–42 | 24–42 | 23–44 |
 | <a href="#sotsiaaldemokraatlik-erakond">Sotsiaaldemokraatlik Erakond</a> | 15 | 8 | 6–12 |6–12 | 5–13 | 5–14 |
-| <a href="#erakond-isamaa">Erakond Isamaa</a> | 14 | 8 | 5–15 |5–15 | 4–15 | 0–16 |
+| <a href="#erakond-isamaa">Erakond Isamaa</a> | 14 | 8 | 5–14 |5–15 | 4–15 | 0–16 |
 | <a href="#eesti-vabaerakond">Eesti Vabaerakond</a> | 8 | 0 | 0 |0 | 0 | 0 |
 | <a href="#eesti-konservatiivne-rahvaerakond">Eesti Konservatiivne Rahvaerakond</a> | 7 | 18 | 15–21 |15–22 | 14–22 | 13–23 |
 | <a href="#erakond-eestimaa-rohelised">Erakond Eestimaa Rohelised</a> | 0 | 0 | 0 |0 | 0 | 0 |
@@ -253,17 +253,18 @@ Only polls for which at least the sample size has been published are included in
 | 30 | 7% | 47% | Last Result |
 | 31 | 4% | 40% |  |
 | 32 | 2% | 36% |  |
-| 33 | 1.2% | 34% |  |
+| 33 | 1.3% | 34% |  |
 | 34 | 2% | 33% |  |
 | 35 | 4% | 30% |  |
-| 36 | 5% | 26% |  |
-| 37 | 8% | 22% |  |
+| 36 | 7% | 27% |  |
+| 37 | 7% | 20% |  |
 | 38 | 5% | 13% |  |
 | 39 | 5% | 8% |  |
-| 40 | 2% | 4% |  |
-| 41 | 1.3% | 2% |  |
-| 42 | 0.2% | 0.3% |  |
-| 43 | 0% | 0% |  |
+| 40 | 2% | 3% |  |
+| 41 | 0.7% | 1.1% |  |
+| 42 | 0.3% | 0.4% |  |
+| 43 | 0% | 0.1% |  |
+| 44 | 0% | 0% |  |
 
 ### Eesti Keskerakond
 
@@ -273,14 +274,13 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 21 | 0.1% | 100% |  |
-| 22 | 0.1% | 99.9% |  |
-| 23 | 0.7% | 99.9% |  |
-| 24 | 6% | 99.1% |  |
-| 25 | 11% | 94% |  |
-| 26 | 7% | 83% |  |
-| 27 | 8% | 76% | Last Result |
-| 28 | 9% | 68% |  |
+| 22 | 0.3% | 100% |  |
+| 23 | 1.3% | 99.7% |  |
+| 24 | 4% | 98% |  |
+| 25 | 7% | 95% |  |
+| 26 | 8% | 88% |  |
+| 27 | 10% | 80% | Last Result |
+| 28 | 11% | 70% |  |
 | 29 | 11% | 59% | Median |
 | 30 | 8% | 48% |  |
 | 31 | 5% | 41% |  |
@@ -316,11 +316,11 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 99.9% |  |
 | 4 | 0.1% | 99.9% |  |
 | 5 | 3% | 99.8% |  |
-| 6 | 13% | 97% |  |
-| 7 | 16% | 84% |  |
-| 8 | 24% | 68% | Median |
-| 9 | 8% | 44% |  |
-| 10 | 10% | 36% |  |
+| 6 | 12% | 97% |  |
+| 7 | 19% | 84% |  |
+| 8 | 19% | 66% | Median |
+| 9 | 11% | 47% |  |
+| 10 | 10% | 35% |  |
 | 11 | 11% | 25% |  |
 | 12 | 9% | 14% |  |
 | 13 | 4% | 5% |  |
@@ -348,11 +348,11 @@ Only polls for which at least the sample size has been published are included in
 | 9 | 11% | 47% |  |
 | 10 | 3% | 36% |  |
 | 11 | 2% | 33% |  |
-| 12 | 6% | 31% |  |
-| 13 | 7% | 25% |  |
-| 14 | 9% | 19% | Last Result |
-| 15 | 9% | 10% |  |
-| 16 | 1.0% | 1.3% |  |
+| 12 | 8% | 32% |  |
+| 13 | 8% | 23% |  |
+| 14 | 8% | 15% | Last Result |
+| 15 | 6% | 7% |  |
+| 16 | 1.4% | 2% |  |
 | 17 | 0.2% | 0.3% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
@@ -388,13 +388,13 @@ Only polls for which at least the sample size has been published are included in
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0% | 100% |  |
-| 13 | 0.7% | 100% |  |
+| 12 | 0.1% | 100% |  |
+| 13 | 0.6% | 99.9% |  |
 | 14 | 3% | 99.3% |  |
-| 15 | 9% | 97% |  |
-| 16 | 11% | 88% |  |
-| 17 | 15% | 77% |  |
-| 18 | 16% | 63% | Median |
+| 15 | 7% | 96% |  |
+| 16 | 13% | 89% |  |
+| 17 | 14% | 76% |  |
+| 18 | 15% | 62% | Median |
 | 19 | 17% | 47% |  |
 | 20 | 14% | 30% |  |
 | 21 | 10% | 17% |  |
@@ -444,15 +444,15 @@ Only polls for which at least the sample size has been published are included in
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Eesti Reformierakond – Eesti Keskerakond – Eesti Konservatiivne Rahvaerakond | 64 | 79 | 100% | 75–88 | 74–89 | 74–90 | 72–94 |
 | Eesti Reformierakond – Eesti Keskerakond | 57 | 63 | 100% | 55–69 | 54–71 | 53–72 | 52–74 |
-| Eesti Reformierakond – Erakond Isamaa – Eesti Konservatiivne Rahvaerakond | 51 | 55 | 93% | 51–68 | 50–69 | 49–69 | 47–70 |
+| Eesti Reformierakond – Erakond Isamaa – Eesti Konservatiivne Rahvaerakond | 51 | 55 | 93% | 51–68 | 50–68 | 49–69 | 47–70 |
 | Eesti Keskerakond – Eesti Konservatiivne Rahvaerakond | 34 | 50 | 43% | 41–59 | 40–60 | 40–62 | 38–63 |
 | Eesti Reformierakond – Sotsiaaldemokraatlik Erakond – Erakond Isamaa – Eesti Vabaerakond | 67 | 46 | 34% | 39–60 | 38–61 | 37–61 | 35–63 |
 | Eesti Reformierakond – Sotsiaaldemokraatlik Erakond – Erakond Isamaa | 59 | 46 | 34% | 39–60 | 38–61 | 37–61 | 35–63 |
 | Eesti Reformierakond – Eesti Konservatiivne Rahvaerakond | 37 | 48 | 34% | 45–54 | 44–55 | 43–56 | 42–57 |
-| Eesti Keskerakond – Sotsiaaldemokraatlik Erakond – Erakond Isamaa | 56 | 49 | 29% | 46–53 | 46–54 | 45–55 | 44–56 |
-| Eesti Reformierakond – Erakond Isamaa | 44 | 36 | 19% | 32–52 | 31–52 | 31–53 | 28–55 |
-| Eesti Keskerakond – Sotsiaaldemokraatlik Erakond | 42 | 40 | 0.7% | 33–47 | 32–48 | 32–49 | 31–51 |
-| Eesti Reformierakond – Sotsiaaldemokraatlik Erakond | 45 | 38 | 0.1% | 34–47 | 33–47 | 32–49 | 31–49 |
+| Eesti Keskerakond – Sotsiaaldemokraatlik Erakond – Erakond Isamaa | 56 | 49 | 30% | 46–53 | 46–54 | 45–55 | 44–56 |
+| Eesti Reformierakond – Erakond Isamaa | 44 | 36 | 16% | 32–51 | 31–52 | 31–53 | 28–55 |
+| Eesti Keskerakond – Sotsiaaldemokraatlik Erakond | 42 | 40 | 0.7% | 33–47 | 33–48 | 32–49 | 31–51 |
+| Eesti Reformierakond – Sotsiaaldemokraatlik Erakond | 45 | 38 | 0.1% | 34–46 | 33–47 | 32–48 | 31–49 |
 | Sotsiaaldemokraatlik Erakond – Eesti Konservatiivne Rahvaerakond | 22 | 26 | 0% | 23–32 | 22–33 | 22–34 | 21–35 |
 
 ### Eesti Reformierakond – Eesti Keskerakond – Eesti Konservatiivne Rahvaerakond
@@ -474,11 +474,11 @@ Only polls for which at least the sample size has been published are included in
 | 74 | 5% | 98% |  |
 | 75 | 7% | 93% |  |
 | 76 | 9% | 86% | Median |
-| 77 | 8% | 77% |  |
-| 78 | 14% | 69% |  |
-| 79 | 8% | 56% |  |
-| 80 | 8% | 48% |  |
-| 81 | 4% | 40% |  |
+| 77 | 10% | 77% |  |
+| 78 | 8% | 68% |  |
+| 79 | 9% | 59% |  |
+| 80 | 8% | 50% |  |
+| 81 | 6% | 42% |  |
 | 82 | 4% | 36% |  |
 | 83 | 5% | 32% |  |
 | 84 | 5% | 27% |  |
@@ -510,12 +510,12 @@ Only polls for which at least the sample size has been published are included in
 | 57 | 6% | 78% | Last Result |
 | 58 | 4% | 73% | Median |
 | 59 | 2% | 69% |  |
-| 60 | 4% | 67% |  |
-| 61 | 6% | 63% |  |
-| 62 | 2% | 57% |  |
-| 63 | 8% | 55% |  |
-| 64 | 10% | 47% |  |
-| 65 | 7% | 36% |  |
+| 60 | 2% | 67% |  |
+| 61 | 5% | 65% |  |
+| 62 | 5% | 60% |  |
+| 63 | 7% | 55% |  |
+| 64 | 9% | 47% |  |
+| 65 | 8% | 39% |  |
 | 66 | 7% | 30% |  |
 | 67 | 5% | 23% |  |
 | 68 | 4% | 18% |  |
@@ -553,16 +553,16 @@ Only polls for which at least the sample size has been published are included in
 | 59 | 0.6% | 34% |  |
 | 60 | 0.2% | 34% |  |
 | 61 | 0.1% | 33% |  |
-| 62 | 0.2% | 33% |  |
-| 63 | 1.4% | 33% |  |
-| 64 | 2% | 32% |  |
-| 65 | 5% | 30% |  |
-| 66 | 3% | 25% |  |
-| 67 | 7% | 22% |  |
-| 68 | 9% | 15% |  |
-| 69 | 5% | 6% |  |
-| 70 | 0.9% | 1.0% |  |
-| 71 | 0.1% | 0.2% |  |
+| 62 | 0.4% | 33% |  |
+| 63 | 1.1% | 33% |  |
+| 64 | 3% | 32% |  |
+| 65 | 5% | 29% |  |
+| 66 | 7% | 24% |  |
+| 67 | 7% | 17% |  |
+| 68 | 5% | 10% |  |
+| 69 | 3% | 5% |  |
+| 70 | 1.4% | 2% |  |
+| 71 | 0.3% | 0.4% |  |
 | 72 | 0.1% | 0.1% |  |
 | 73 | 0% | 0% |  |
 
@@ -576,14 +576,14 @@ Only polls for which at least the sample size has been published are included in
 | 35 | 0% | 100% |  |
 | 36 | 0% | 100% |  |
 | 37 | 0.1% | 100% |  |
-| 38 | 0.4% | 99.9% |  |
-| 39 | 0.9% | 99.4% |  |
-| 40 | 5% | 98.6% |  |
-| 41 | 8% | 94% |  |
-| 42 | 4% | 85% |  |
-| 43 | 8% | 81% |  |
-| 44 | 3% | 73% |  |
-| 45 | 2% | 70% |  |
+| 38 | 0.5% | 99.9% |  |
+| 39 | 1.3% | 99.4% |  |
+| 40 | 4% | 98% |  |
+| 41 | 5% | 94% |  |
+| 42 | 8% | 90% |  |
+| 43 | 6% | 82% |  |
+| 44 | 5% | 76% |  |
+| 45 | 4% | 72% |  |
 | 46 | 4% | 68% |  |
 | 47 | 5% | 64% | Median |
 | 48 | 4% | 59% |  |
@@ -634,16 +634,16 @@ Only polls for which at least the sample size has been published are included in
 | 51 | 0.4% | 34% | Majority |
 | 52 | 0.1% | 33% |  |
 | 53 | 0.1% | 33% |  |
-| 54 | 0.4% | 33% |  |
-| 55 | 0.9% | 33% |  |
-| 56 | 2% | 32% |  |
-| 57 | 3% | 30% |  |
-| 58 | 8% | 27% |  |
-| 59 | 4% | 19% |  |
-| 60 | 8% | 15% |  |
-| 61 | 5% | 6% |  |
-| 62 | 0.9% | 1.4% |  |
-| 63 | 0.4% | 0.6% |  |
+| 54 | 0.3% | 33% |  |
+| 55 | 1.1% | 33% |  |
+| 56 | 3% | 32% |  |
+| 57 | 5% | 28% |  |
+| 58 | 6% | 24% |  |
+| 59 | 8% | 18% |  |
+| 60 | 5% | 10% |  |
+| 61 | 4% | 5% |  |
+| 62 | 1.3% | 2% |  |
+| 63 | 0.5% | 0.6% |  |
 | 64 | 0.1% | 0.1% |  |
 | 65 | 0% | 0% |  |
 | 66 | 0% | 0% |  |
@@ -676,16 +676,16 @@ Only polls for which at least the sample size has been published are included in
 | 51 | 0.4% | 34% | Majority |
 | 52 | 0.1% | 33% |  |
 | 53 | 0.1% | 33% |  |
-| 54 | 0.4% | 33% |  |
-| 55 | 0.9% | 33% |  |
-| 56 | 2% | 32% |  |
-| 57 | 3% | 30% |  |
-| 58 | 8% | 27% |  |
-| 59 | 4% | 19% | Last Result |
-| 60 | 8% | 15% |  |
-| 61 | 5% | 6% |  |
-| 62 | 0.9% | 1.4% |  |
-| 63 | 0.4% | 0.6% |  |
+| 54 | 0.3% | 33% |  |
+| 55 | 1.1% | 33% |  |
+| 56 | 3% | 32% |  |
+| 57 | 5% | 28% |  |
+| 58 | 6% | 24% |  |
+| 59 | 8% | 18% | Last Result |
+| 60 | 5% | 10% |  |
+| 61 | 4% | 5% |  |
+| 62 | 1.3% | 2% |  |
+| 63 | 0.5% | 0.6% |  |
 | 64 | 0.1% | 0.1% |  |
 | 65 | 0% | 0% |  |
 
@@ -707,16 +707,16 @@ Only polls for which at least the sample size has been published are included in
 | 46 | 11% | 83% |  |
 | 47 | 13% | 72% | Median |
 | 48 | 11% | 60% |  |
-| 49 | 9% | 49% |  |
-| 50 | 6% | 40% |  |
+| 49 | 8% | 49% |  |
+| 50 | 7% | 40% |  |
 | 51 | 5% | 34% | Majority |
-| 52 | 5% | 29% |  |
-| 53 | 8% | 24% |  |
-| 54 | 6% | 16% |  |
-| 55 | 7% | 10% |  |
+| 52 | 7% | 29% |  |
+| 53 | 7% | 22% |  |
+| 54 | 6% | 15% |  |
+| 55 | 5% | 9% |  |
 | 56 | 2% | 3% |  |
-| 57 | 0.9% | 1.2% |  |
-| 58 | 0.2% | 0.3% |  |
+| 57 | 0.9% | 1.3% |  |
+| 58 | 0.3% | 0.4% |  |
 | 59 | 0.1% | 0.1% |  |
 | 60 | 0% | 0% |  |
 
@@ -727,15 +727,15 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 42 | 0.1% | 100% |  |
-| 43 | 0.3% | 99.9% |  |
-| 44 | 1.3% | 99.6% |  |
+| 43 | 0.4% | 99.9% |  |
+| 44 | 1.2% | 99.5% |  |
 | 45 | 3% | 98% | Median |
-| 46 | 10% | 96% |  |
-| 47 | 11% | 85% |  |
-| 48 | 19% | 74% |  |
-| 49 | 13% | 55% |  |
-| 50 | 13% | 42% |  |
-| 51 | 11% | 29% | Majority |
+| 46 | 8% | 95% |  |
+| 47 | 12% | 87% |  |
+| 48 | 18% | 75% |  |
+| 49 | 15% | 57% |  |
+| 50 | 12% | 42% |  |
+| 51 | 11% | 30% | Majority |
 | 52 | 8% | 18% |  |
 | 53 | 4% | 10% |  |
 | 54 | 3% | 6% |  |
@@ -771,16 +771,16 @@ Only polls for which at least the sample size has been published are included in
 | 43 | 0% | 33% |  |
 | 44 | 0% | 33% | Last Result |
 | 45 | 0.1% | 33% |  |
-| 46 | 0.4% | 33% |  |
-| 47 | 0.8% | 33% |  |
-| 48 | 2% | 32% |  |
-| 49 | 4% | 30% |  |
-| 50 | 7% | 26% |  |
-| 51 | 6% | 19% | Majority |
-| 52 | 10% | 13% |  |
-| 53 | 2% | 4% |  |
-| 54 | 0.7% | 1.2% |  |
-| 55 | 0.4% | 0.5% |  |
+| 46 | 0.5% | 33% |  |
+| 47 | 1.2% | 33% |  |
+| 48 | 4% | 31% |  |
+| 49 | 5% | 28% |  |
+| 50 | 7% | 23% |  |
+| 51 | 7% | 16% | Majority |
+| 52 | 5% | 9% |  |
+| 53 | 3% | 5% |  |
+| 54 | 1.2% | 2% |  |
+| 55 | 0.5% | 0.6% |  |
 | 56 | 0.1% | 0.1% |  |
 | 57 | 0% | 0% |  |
 
@@ -791,16 +791,16 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 29 | 0.1% | 100% |  |
-| 30 | 0.1% | 99.9% |  |
-| 31 | 0.9% | 99.8% |  |
-| 32 | 5% | 99.0% |  |
-| 33 | 9% | 94% |  |
-| 34 | 7% | 85% |  |
-| 35 | 3% | 78% |  |
-| 36 | 5% | 75% |  |
-| 37 | 3% | 70% | Median |
-| 38 | 4% | 67% |  |
-| 39 | 6% | 63% |  |
+| 30 | 0.3% | 99.9% |  |
+| 31 | 1.4% | 99.6% |  |
+| 32 | 3% | 98% |  |
+| 33 | 5% | 95% |  |
+| 34 | 7% | 90% |  |
+| 35 | 7% | 83% |  |
+| 36 | 6% | 76% |  |
+| 37 | 4% | 71% | Median |
+| 38 | 3% | 67% |  |
+| 39 | 7% | 63% |  |
 | 40 | 8% | 57% |  |
 | 41 | 7% | 49% |  |
 | 42 | 8% | 43% | Last Result |
@@ -838,14 +838,14 @@ Only polls for which at least the sample size has been published are included in
 | 40 | 5% | 42% |  |
 | 41 | 3% | 37% |  |
 | 42 | 3% | 34% |  |
-| 43 | 5% | 31% |  |
-| 44 | 5% | 26% |  |
+| 43 | 3% | 31% |  |
+| 44 | 6% | 27% |  |
 | 45 | 6% | 21% | Last Result |
-| 46 | 5% | 15% |  |
-| 47 | 6% | 11% |  |
-| 48 | 1.0% | 4% |  |
-| 49 | 3% | 3% |  |
-| 50 | 0.2% | 0.3% |  |
+| 46 | 6% | 15% |  |
+| 47 | 5% | 9% |  |
+| 48 | 2% | 4% |  |
+| 49 | 1.1% | 2% |  |
+| 50 | 0.3% | 0.4% |  |
 | 51 | 0.1% | 0.1% | Majority |
 | 52 | 0% | 0% |  |
 
@@ -857,14 +857,14 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 19 | 0.1% | 100% |  |
 | 20 | 0.3% | 99.9% |  |
-| 21 | 1.2% | 99.5% |  |
+| 21 | 2% | 99.6% |  |
 | 22 | 4% | 98% | Last Result |
-| 23 | 8% | 95% |  |
-| 24 | 16% | 86% |  |
-| 25 | 16% | 71% |  |
-| 26 | 11% | 55% | Median |
-| 27 | 6% | 44% |  |
-| 28 | 4% | 37% |  |
+| 23 | 9% | 94% |  |
+| 24 | 14% | 85% |  |
+| 25 | 14% | 71% |  |
+| 26 | 12% | 57% | Median |
+| 27 | 7% | 45% |  |
+| 28 | 4% | 38% |  |
 | 29 | 4% | 33% |  |
 | 30 | 7% | 29% |  |
 | 31 | 8% | 23% |  |
@@ -880,6 +880,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 3
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 2,228,224
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 3,145,728
 + **Error estimate:** 2.91%
