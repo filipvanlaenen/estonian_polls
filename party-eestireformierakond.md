@@ -82,15 +82,15 @@ Last result: **30** seats (General Election of 1 March 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 29 | 26–38 | 25–39 | 24–40 | 23–41 |
-| [11–17 February 2019](2019-02-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 37 | 35–40 | 34–40 | 33–41 | 32–42 |
-| [4–11 February 2019](2019-02-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 36 | 33–37 | 32–38 | 32–38 | 31–39 |
+| [11–17 February 2019](2019-02-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 37 | 35–39 | 34–40 | 33–41 | 32–42 |
+| [4–11 February 2019](2019-02-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 35 | 33–37 | 32–38 | 31–39 | 31–40 |
 | [4–7 February 2019](2019-02-07-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 26 | 25–29 | 24–29 | 24–30 | 23–31 |
 | [28 January–4 February 2019](2019-02-04-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 31 | 28–33 | 28–34 | 27–35 | 26–36 |
 | [24–29 January 2019](2019-01-29-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 30 | 27–32 | 27–33 | 26–33 | 25–35 |
 | [15–28 January 2019](2019-01-28-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 29 | 26–31 | 25–32 | 25–33 | 24–34 |
-| [21–27 January 2019](2019-01-27-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 31 | 28–33 | 28–33 | 27–34 | 26–36 |
-| [14–21 January 2019](2019-01-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 32 | 29–34 | 29–35 | 28–35 | 27–36 |
-| [7–13 January 2019](2019-01-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 31 | 28–33 | 28–33 | 27–34 | 26–35 |
+| [21–27 January 2019](2019-01-27-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 31 | 29–34 | 29–34 | 28–35 | 27–36 |
+| [14–21 January 2019](2019-01-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 31 | 29–34 | 29–35 | 28–35 | 27–36 |
+| [7–13 January 2019](2019-01-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 30 | 28–33 | 28–33 | 27–34 | 26–36 |
 | [3–9 January 2019](2019-01-09-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 22 | 20–24 | 19–25 | 19–25 | 18–26 |
 | [4–8 January 2019](2019-01-08-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 27 | 25–29 | 25–30 | 25–30 | 24–31 |
 | [13–19 December 2018](2018-12-19-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 25 | 22–27 | 22–28 | 21–28 | 20–29 |
@@ -109,7 +109,7 @@ Last result: **30** seats (General Election of 1 March 2015)
 | [29 May–11 June 2018](2018-06-11-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 32 | 30–35 | 29–36 | 29–36 | 27–37 |
 | [21 May 2018](2018-05-21-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 35 | 33–38 | 32–39 | 31–39 | 30–40 |
 | [21 May 2018](2018-05-21-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 38 | 35–41 | 34–42 | 34–43 | 32–44 |
-| [19 April 2018](2018-04-19-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 40 | 37–43 | 37–43 | 36–44 | 35–45 |
+| [19 April 2018](2018-04-19-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 40 | 38–43 | 37–43 | 36–44 | 35–46 |
 | [12–18 April 2018](2018-04-18-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 33 | 31–36 | 30–37 | 29–38 | 29–39 |
 | [8–21 March 2018](2018-03-21-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 36 | 33–39 | 33–40 | 32–40 | 31–41 |
 | [8–14 March 2018](2018-03-14-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 40 | 37–43 | 36–44 | 36–45 | 35–46 |
@@ -137,16 +137,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 30 | 7% | 47% | Last Result |
 | 31 | 4% | 40% |  |
 | 32 | 2% | 36% |  |
-| 33 | 1.2% | 34% |  |
+| 33 | 1.3% | 34% |  |
 | 34 | 2% | 33% |  |
 | 35 | 4% | 30% |  |
-| 36 | 5% | 26% |  |
-| 37 | 8% | 22% |  |
+| 36 | 7% | 27% |  |
+| 37 | 7% | 20% |  |
 | 38 | 5% | 13% |  |
 | 39 | 5% | 8% |  |
-| 40 | 2% | 4% |  |
-| 41 | 1.3% | 2% |  |
-| 42 | 0.2% | 0.3% |  |
-| 43 | 0% | 0% |  |
+| 40 | 2% | 3% |  |
+| 41 | 0.7% | 1.1% |  |
+| 42 | 0.3% | 0.4% |  |
+| 43 | 0% | 0.1% |  |
+| 44 | 0% | 0% |  |
 
 

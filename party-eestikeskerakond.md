@@ -85,15 +85,15 @@ Last result: **27** seats (General Election of 1 March 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 29 | 25–40 | 24–42 | 24–42 | 23–44 |
-| [11–17 February 2019](2019-02-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 25 | 24–29 | 24–29 | 23–30 | 23–31 |
-| [4–11 February 2019](2019-02-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 31 | 30–33 | 29–34 | 29–34 | 27–36 |
+| [11–17 February 2019](2019-02-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 26 | 24–28 | 24–29 | 23–30 | 22–31 |
+| [4–11 February 2019](2019-02-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 31 | 29–33 | 28–34 | 28–34 | 27–36 |
 | [4–7 February 2019](2019-02-07-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 29 | 27–31 | 27–32 | 26–33 | 25–33 |
 | [28 January–4 February 2019](2019-02-04-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 36 | 33–39 | 33–39 | 32–40 | 31–41 |
 | [24–29 January 2019](2019-01-29-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 27 | 25–30 | 25–30 | 24–31 | 23–32 |
 | [15–28 January 2019](2019-01-28-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 39 | 36–42 | 36–43 | 35–44 | 34–45 |
-| [21–27 January 2019](2019-01-27-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 30 | 28–34 | 28–34 | 27–34 | 27–35 |
-| [14–21 January 2019](2019-01-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 35 | 33–38 | 32–39 | 32–40 | 31–41 |
-| [7–13 January 2019](2019-01-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 31 | 29–34 | 28–34 | 27–34 | 26–35 |
+| [21–27 January 2019](2019-01-27-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 32 | 29–34 | 29–35 | 28–35 | 27–36 |
+| [14–21 January 2019](2019-01-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 36 | 33–38 | 33–39 | 32–39 | 31–41 |
+| [7–13 January 2019](2019-01-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 31 | 28–33 | 28–34 | 27–34 | 26–35 |
 | [3–9 January 2019](2019-01-09-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 29 | 27–32 | 26–32 | 26–33 | 25–34 |
 | [4–8 January 2019](2019-01-08-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 26 | 24–28 | 24–28 | 23–29 | 22–30 |
 | [13–19 December 2018](2018-12-19-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 28 | 26–31 | 25–31 | 25–32 | 24–33 |
@@ -129,14 +129,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 21 | 0.1% | 100% |  |
-| 22 | 0.1% | 99.9% |  |
-| 23 | 0.7% | 99.9% |  |
-| 24 | 6% | 99.1% |  |
-| 25 | 11% | 94% |  |
-| 26 | 7% | 83% |  |
-| 27 | 8% | 76% | Last Result |
-| 28 | 9% | 68% |  |
+| 22 | 0.3% | 100% |  |
+| 23 | 1.3% | 99.7% |  |
+| 24 | 4% | 98% |  |
+| 25 | 7% | 95% |  |
+| 26 | 8% | 88% |  |
+| 27 | 10% | 80% | Last Result |
+| 28 | 11% | 70% |  |
 | 29 | 11% | 59% | Median |
 | 30 | 8% | 48% |  |
 | 31 | 5% | 41% |  |
