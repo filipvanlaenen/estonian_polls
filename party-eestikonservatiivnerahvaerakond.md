@@ -10,8 +10,10 @@ Last result: **8.1%** (General Election of 1 March 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.2% | 14.6–22.0% | 14.1–22.6% | 13.6–23.1% | 12.9–24.0% |
+| N/A | [Poll Average](average.html) | 17.4% | 15.0–21.7% | 14.3–22.4% | 13.8–22.9% | 13.0–23.9% |
+| [7–20 February 2019](2019-02-20-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 17.0% | 16.3–17.7% | 16.1–17.9% | 16.0–18.1% | 15.6–18.5% |
 | [14–20 February 2019](2019-02-20-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 21.3% | 19.9–22.9% | 19.4–23.4% | 19.1–23.8% | 18.4–24.6% |
+| [12–18 February 2019](2019-02-18-OÜFaktumAriko.html) | OÜ Faktum & Ariko | 18.1% | 16.8–19.7% | 16.4–20.1% | 16.0–20.5% | 15.4–21.2% |
 | [11–17 February 2019](2019-02-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 15.2% | 13.8–16.8% | 13.4–17.2% | 13.1–17.6% | 12.5–18.3% |
 | [4–11 February 2019](2019-02-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 17.6% | 16.1–19.2% | 15.7–19.7% | 15.4–20.1% | 14.7–20.9% |
 | [4–7 February 2019](2019-02-07-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 18.9% | 17.5–20.5% | 17.1–20.9% | 16.8–21.3% | 16.1–22.1% |
@@ -58,20 +60,20 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.2% | 100% |  |
-| 12.5–13.5% | 2% | 99.8% |  |
-| 13.5–14.5% | 7% | 98% |  |
-| 14.5–15.5% | 14% | 91% |  |
-| 15.5–16.5% | 17% | 77% |  |
-| 16.5–17.5% | 14% | 60% | Median |
-| 17.5–18.5% | 9% | 45% |  |
-| 18.5–19.5% | 5% | 37% |  |
-| 19.5–20.5% | 7% | 32% |  |
-| 20.5–21.5% | 11% | 25% |  |
-| 21.5–22.5% | 9% | 15% |  |
-| 22.5–23.5% | 4% | 5% |  |
-| 23.5–24.5% | 1.1% | 1.2% |  |
-| 24.5–25.5% | 0.1% | 0.2% |  |
+| 11.5–12.5% | 0.1% | 100% |  |
+| 12.5–13.5% | 1.4% | 99.8% |  |
+| 13.5–14.5% | 5% | 98% |  |
+| 14.5–15.5% | 9% | 93% |  |
+| 15.5–16.5% | 13% | 85% |  |
+| 16.5–17.5% | 24% | 72% | Median |
+| 17.5–18.5% | 13% | 48% |  |
+| 18.5–19.5% | 8% | 34% |  |
+| 19.5–20.5% | 7% | 26% |  |
+| 20.5–21.5% | 8% | 19% |  |
+| 21.5–22.5% | 7% | 11% |  |
+| 22.5–23.5% | 3% | 4% |  |
+| 23.5–24.5% | 0.8% | 0.9% |  |
+| 24.5–25.5% | 0.1% | 0.1% |  |
 | 25.5–26.5% | 0% | 0% |  |
 
 
@@ -84,7 +86,9 @@ Last result: **7** seats (General Election of 1 March 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19 | 15–24 | 15–24 | 14–25 | 13–26 |
+| [7–20 February 2019](2019-02-20-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 19 | 18–19 | 18–20 | 18–20 | 17–21 |
 | [14–20 February 2019](2019-02-20-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 23 | 21–25 | 20–25 | 20–26 | 20–27 |
+| [12–18 February 2019](2019-02-18-OÜFaktumAriko.html) | OÜ Faktum & Ariko |  |  |  |  |  |
 | [11–17 February 2019](2019-02-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 16 | 14–18 | 14–18 | 14–19 | 13–20 |
 | [4–11 February 2019](2019-02-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 19 | 17–21 | 17–21 | 16–22 | 15–23 |
 | [4–7 February 2019](2019-02-07-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 20 | 18–22 | 18–22 | 17–23 | 17–24 |
@@ -137,15 +141,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0.1% | 100% |  |
 | 13 | 0.6% | 99.9% |  |
 | 14 | 3% | 99.3% |  |
-| 15 | 7% | 96% |  |
-| 16 | 12% | 89% |  |
-| 17 | 13% | 76% |  |
-| 18 | 11% | 63% |  |
-| 19 | 10% | 53% | Median |
-| 20 | 7% | 42% |  |
-| 21 | 6% | 35% |  |
-| 22 | 8% | 29% |  |
-| 23 | 9% | 21% |  |
+| 15 | 6% | 96% |  |
+| 16 | 10% | 90% |  |
+| 17 | 8% | 80% |  |
+| 18 | 17% | 72% |  |
+| 19 | 18% | 55% | Median |
+| 20 | 4% | 36% |  |
+| 21 | 4% | 32% |  |
+| 22 | 8% | 28% |  |
+| 23 | 9% | 20% |  |
 | 24 | 8% | 12% |  |
 | 25 | 3% | 4% |  |
 | 26 | 0.8% | 1.0% |  |
