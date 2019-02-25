@@ -61,7 +61,7 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 3% | 99.8% |  |
 | 7.5–8.5% | 11% | 96% |  |
 | 8.5–9.5% | 15% | 86% |  |
-| 9.5–10.5% | 23% | 71% | Median |
+| 9.5–10.5% | 22% | 71% | Median |
 | 10.5–11.5% | 35% | 48% |  |
 | 11.5–12.5% | 11% | 13% |  |
 | 12.5–13.5% | 2% | 2% |  |
@@ -77,10 +77,10 @@ Last result: **15** seats (General Election of 1 March 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 8–12 | 7–12 | 7–12 | 6–13 |
+| N/A | [Poll Average](average.html) | 11 | 8–12 | 7–13 | 7–14 | 6–14 |
 | [7–20 February 2019](2019-02-20-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 11 | 11–12 | 11–12 | 10–12 | 10–13 |
 | [14–20 February 2019](2019-02-20-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 10 | 9–11 | 8–11 | 8–12 | 8–12 |
-| [12–18 February 2019](2019-02-18-OÜFaktumAriko.html) | OÜ Faktum & Ariko |  |  |  |  |  |
+| [12–18 February 2019](2019-02-18-OÜFaktumAriko.html) | OÜ Faktum & Ariko | 12 | 10–14 | 10–14 | 10–14 | 9–15 |
 | [11–17 February 2019](2019-02-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 8 | 7–10 | 7–10 | 6–10 | 6–11 |
 | [4–11 February 2019](2019-02-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 9 | 8–10 | 7–11 | 7–11 | 6–12 |
 | [4–7 February 2019](2019-02-07-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 11 | 10–13 | 10–13 | 9–14 | 9–14 |
@@ -125,16 +125,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.1% | 100% |  |
-| 6 | 1.4% | 99.9% |  |
-| 7 | 7% | 98.6% |  |
-| 8 | 16% | 92% |  |
-| 9 | 20% | 75% |  |
-| 10 | 15% | 56% | Median |
-| 11 | 26% | 41% |  |
-| 12 | 14% | 15% |  |
-| 13 | 0.7% | 0.7% |  |
-| 14 | 0% | 0% |  |
-| 15 | 0% | 0% | Last Result |
+| 6 | 1.0% | 100% |  |
+| 7 | 5% | 98.9% |  |
+| 8 | 12% | 94% |  |
+| 9 | 15% | 82% |  |
+| 10 | 14% | 66% |  |
+| 11 | 26% | 52% | Median |
+| 12 | 18% | 26% |  |
+| 13 | 5% | 8% |  |
+| 14 | 3% | 3% |  |
+| 15 | 0.2% | 0.2% | Last Result |
+| 16 | 0% | 0% |  |
 
 

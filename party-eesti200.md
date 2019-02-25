@@ -59,7 +59,7 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0.4% | 100% |  |
 | 1.5–2.5% | 14% | 99.6% |  |
-| 2.5–3.5% | 16% | 86% |  |
+| 2.5–3.5% | 15% | 86% |  |
 | 3.5–4.5% | 40% | 70% | Median |
 | 4.5–5.5% | 16% | 30% |  |
 | 5.5–6.5% | 12% | 14% |  |
@@ -79,7 +79,7 @@ Last result: **0** seats (General Election of 1 March 2015)
 | N/A | [Poll Average](average.html) | 0 | 0–5 | 0–5 | 0–6 | 0–6 |
 | [7–20 February 2019](2019-02-20-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 0 | 0 | 0 | 0 | 0 |
 | [14–20 February 2019](2019-02-20-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 5 | 0–6 | 0–6 | 0–6 | 0–6 |
-| [12–18 February 2019](2019-02-18-OÜFaktumAriko.html) | OÜ Faktum & Ariko |  |  |  |  |  |
+| [12–18 February 2019](2019-02-18-OÜFaktumAriko.html) | OÜ Faktum & Ariko | 0 | 0 | 0–5 | 0–5 | 0–5 |
 | [11–17 February 2019](2019-02-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [4–11 February 2019](2019-02-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [4–7 February 2019](2019-02-07-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 6 | 5–7 | 4–7 | 4–8 | 0–8 |
@@ -124,14 +124,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 71% | 100% | Last Result, Median |
-| 1 | 0% | 29% |  |
-| 2 | 0% | 29% |  |
-| 3 | 0% | 29% |  |
-| 4 | 5% | 29% |  |
-| 5 | 21% | 25% |  |
-| 6 | 4% | 4% |  |
-| 7 | 0.1% | 0.2% |  |
+| 0 | 76% | 100% | Last Result, Median |
+| 1 | 0% | 24% |  |
+| 2 | 0% | 24% |  |
+| 3 | 0% | 24% |  |
+| 4 | 4% | 24% |  |
+| 5 | 17% | 20% |  |
+| 6 | 3% | 3% |  |
+| 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
 
 
