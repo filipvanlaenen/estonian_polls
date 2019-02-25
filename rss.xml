@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riigikogu</title>
     <link>https://filipvanlaenen.github.io/estonian_polls</link>
     <description>All Registered Polls for the Riigikogu</description>
-    <pubDate>Mon, 25 Feb 2019 20:36:06 +0100</pubDate>
+    <pubDate>Mon, 25 Feb 2019 21:13:47 +0100</pubDate>
     <item>
       <title>Opinion Poll by Turu-uuringute AS for ERR, 7–20 February 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/estonian_polls/2019-02-20-Turu-uuringuteAS.html#seats</link>
@@ -70,14 +70,34 @@
       <dc:date>2019-02-23T00:00:57.558107+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by OÜ Faktum &amp; Ariko, 12–18 February 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/estonian_polls/2019-02-18-OÜFaktumAriko.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond: 27–33 seats&lt;/li&gt;&lt;li&gt;Eesti Keskerakond: 23–29 seats&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond: 10–14 seats&lt;/li&gt;&lt;li&gt;Erakond Isamaa: 10–14 seats&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond: 0 seats&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond: 18–24 seats&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised: 0 seats&lt;/li&gt;&lt;li&gt;Eesti 200: 0–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2019-02-18-OÜFaktumAriko-seats.png"
+        length="202890"
+        type="image/png"/>
+      <pubDate>Mon, 25 Feb 2019 21:13:47 +0100</pubDate>
+      <dc:date>2019-02-25T21:13:47.281358+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by OÜ Faktum &amp; Ariko, 12–18 February 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/estonian_polls/2019-02-18-OÜFaktumAriko.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2019-02-18-OÜFaktumAriko-coalitions-seats.png"
+        length="312087"
+        type="image/png"/>
+      <pubDate>Mon, 25 Feb 2019 21:13:47 +0100</pubDate>
+      <dc:date>2019-02-25T21:13:47.281358+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by OÜ Faktum &amp; Ariko, 12–18 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_polls/2019-02-18-OÜFaktumAriko.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond: 22.9–27.9%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond: 19.9–24.7%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond: 9.4–13.0%&lt;/li&gt;&lt;li&gt;Erakond Isamaa: 9.4–13.0%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond: 1.3–3.0%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond: 16.0–20.5%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised: 1.3–3.0%&lt;/li&gt;&lt;li&gt;Eesti 200: 3.0–5.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2019-02-18-OÜFaktumAriko.png"
         length="214234"
         type="image/png"/>
-      <pubDate>Mon, 25 Feb 2019 20:35:27 +0100</pubDate>
-      <dc:date>2019-02-25T20:35:27.603155+01:00</dc:date>
+      <pubDate>Mon, 25 Feb 2019 21:13:47 +0100</pubDate>
+      <dc:date>2019-02-25T21:13:47.281358+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 11–17 February 2019 – Seat Projections for the Parties</title>
@@ -1129,6 +1149,6 @@
       <pubDate>Tue, 09 Oct 2018 22:43:44 +0200</pubDate>
       <dc:date>2018-10-09T22:43:44.13821+02:00</dc:date>
     </item>
-    <dc:date>2019-02-25T20:36:06.429493+01:00</dc:date>
+    <dc:date>2019-02-25T21:13:47.281358+01:00</dc:date>
   </channel>
 </rss>
