@@ -81,7 +81,7 @@ Last result: **14** seats (General Election of 1 March 2015)
 | N/A | [Poll Average](average.html) | 11 | 8–14 | 8–15 | 8–15 | 7–16 |
 | [7–20 February 2019](2019-02-20-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 10 | 10–11 | 9–11 | 9–11 | 9–12 |
 | [14–20 February 2019](2019-02-20-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 8 | 8–10 | 7–11 | 7–11 | 7–11 |
-| [12–18 February 2019](2019-02-18-OÜFaktumAriko.html) | OÜ Faktum & Ariko | 12 | 10–14 | 10–14 | 10–14 | 9–15 |
+| [12–18 February 2019](2019-02-18-OÜFaktumAriko.html) | OÜ Faktum & Ariko | 12 | 10–13 | 10–14 | 10–14 | 9–15 |
 | [11–17 February 2019](2019-02-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 13 | 12–15 | 11–16 | 11–16 | 10–17 |
 | [4–11 February 2019](2019-02-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
 | [4–7 February 2019](2019-02-07-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 8 | 7–9 | 7–10 | 6–10 | 6–11 |
@@ -132,9 +132,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 10% | 87% |  |
 | 10 | 23% | 77% |  |
 | 11 | 16% | 54% | Median |
-| 12 | 14% | 38% |  |
-| 13 | 9% | 24% |  |
-| 14 | 9% | 15% | Last Result |
+| 12 | 15% | 38% |  |
+| 13 | 9% | 23% |  |
+| 14 | 8% | 14% | Last Result |
 | 15 | 5% | 6% |  |
 | 16 | 1.1% | 1.3% |  |
 | 17 | 0.2% | 0.2% |  |
