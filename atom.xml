@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/estonian_polls</id>
   <title>All Registered Polls for the Riigikogu</title>
-  <updated>2019-02-25T21:13:47.281358+01:00</updated>
+  <updated>2019-02-27T21:59:59.956074+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Reformierakond: 27.7–33.4%, 32–39 seats</li><li>Eesti Keskerakond: 19.0–24.1%, 21–27 seats</li><li>Sotsiaaldemokraatlik Erakond: 10.1–14.2%, 10–15 seats</li><li>Erakond Isamaa: 7.6–11.2%, 7–11 seats</li><li>Eesti Vabaerakond: 0.5–1.8%, 0 seats</li><li>Eesti Konservatiivne Rahvaerakond: 16.5–21.3%, 18–23 seats</li><li>Erakond Eestimaa Rohelised: 1.5–3.4%, 0 seats</li><li>Eesti 200: 2.6–4.9%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/estonian_polls/2019-02-24-Norstat.html</id>
+    <link href="https://filipvanlaenen.github.io/estonian_polls/2019-02-24-Norstat.html"/>
+    <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 18–24 February 2019</title>
+    <updated>2019-02-27T21:59:59.956074+01:00</updated>
+    <dc:date>2019-02-27T21:59:59.956074+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Reformierakond: 22.8–25.2%, 26–29 seats</li><li>Eesti Keskerakond: 26.7–29.3%, 31–35 seats</li><li>Sotsiaaldemokraatlik Erakond: 10.1–11.9%, 10–12 seats</li><li>Erakond Isamaa: 9.2–10.9%, 9–11 seats</li><li>Eesti Vabaerakond: 1.6–2.4%, 0 seats</li><li>Eesti Konservatiivne Rahvaerakond: 16.0–18.1%, 18–20 seats</li><li>Erakond Eestimaa Rohelised: 2.5–3.5%, 0 seats</li><li>Eesti 200: 3.5–4.6%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/estonian_polls/2019-02-20-Turu-uuringuteAS.html</id>
@@ -311,5 +319,5 @@
     <updated>2018-10-09T22:43:44.13821+02:00</updated>
     <dc:date>2018-10-09T22:43:44.13821+02:00</dc:date>
   </entry>
-  <dc:date>2019-02-25T21:13:47.281358+01:00</dc:date>
+  <dc:date>2019-02-27T21:59:59.956074+01:00</dc:date>
 </feed>
