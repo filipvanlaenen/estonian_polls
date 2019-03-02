@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Riigikogu</title>
     <link>https://filipvanlaenen.github.io/estonian_polls</link>
     <description>All Registered Polls for the Riigikogu</description>
-    <pubDate>Wed, 27 Feb 2019 21:59:59 +0100</pubDate>
+    <pubDate>Sat, 02 Mar 2019 15:14:35 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Kantar Emor for BNS and Postimees, 26–28 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_polls/2019-02-28-KantarEmor.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond: 24.1–29.2%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond: 22.1–27.1%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond: 10.1–13.9%&lt;/li&gt;&lt;li&gt;Erakond Isamaa: 8.5–12.0%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond: 0.8–2.2%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond: 15.2–19.6%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised: 1.5–3.3%&lt;/li&gt;&lt;li&gt;Eesti 200: 3.2–5.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2019-02-28-KantarEmor.png"
+        length="215036"
+        type="image/png"/>
+      <pubDate>Sat, 02 Mar 2019 15:14:35 +0100</pubDate>
+      <dc:date>2019-03-02T15:14:35.932297+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 18–24 February 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/estonian_polls/2019-02-24-Norstat.html#seats</link>
@@ -1179,6 +1189,6 @@
       <pubDate>Tue, 09 Oct 2018 22:43:44 +0200</pubDate>
       <dc:date>2018-10-09T22:43:44.13821+02:00</dc:date>
     </item>
-    <dc:date>2019-02-27T21:59:59.956074+01:00</dc:date>
+    <dc:date>2019-03-02T15:14:35.932297+01:00</dc:date>
   </channel>
 </rss>
