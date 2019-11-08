@@ -4,7 +4,7 @@
 
 The following resources have been consulted in order to create this site:
 
-+ Wikipedia page about the 2019 parliamentary election, with opinion polls: "[Estonian parliamentary election, 2019](https://en.wikipedia.org/wiki/Estonian_parliamentary_election,_2019)"
++ Wikipedia page about the next parliamentary election, with opinion polls: "[Next Estonian parliamentary election](https://en.wikipedia.org/wiki/Next_Estonian_parliamentary_election)"
 + Detailed results from the 2015 parliamentary election: "[Riigikogu valimised](http://rk2015.vvk.ee/voting-results.html)"
 
 ## Similar Websites
