@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riigikogu</title>
     <link>https://filipvanlaenen.github.io/estonian_polls</link>
     <description>All Registered Polls for the Riigikogu</description>
-    <pubDate>Sat, 21 Dec 2019 15:54:47 +0100</pubDate>
+    <pubDate>Sat, 21 Dec 2019 17:08:55 +0100</pubDate>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 18–25 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_polls/2019-11-25-Norstat.html</link>
@@ -16,9 +16,29 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2019-11-25-Norstat.png"
         length="198451"
         type="image/png"/>
-      <pubDate>Sat, 21 Dec 2019 15:54:47 +0100</pubDate>
-      <dc:date>2019-12-21T15:54:47.434571+01:00</dc:date>
+      <pubDate>Sat, 21 Dec 2019 16:38:59 +0100</pubDate>
+      <dc:date>2019-12-21T16:38:59.605692+01:00</dc:date>
     </item>
-    <dc:date>2019-12-21T15:54:47.434571+01:00</dc:date>
+    <item>
+      <title>Opinion Poll by Kantar Emor for BNS and Postimees, 7–13 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_polls/2019-11-13-KantarEmor.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond: 25.2–29.8%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond: 14.2–18.1%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond: 14.2–18.1%&lt;/li&gt;&lt;li&gt;Erakond Isamaa: 5.0–7.5%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond: 0.6–1.7%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond: 16.4–20.5%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised: 3.1–5.1%&lt;/li&gt;&lt;li&gt;Eesti 200: 8.0–11.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2019-11-13-KantarEmor.png"
+        length="206023"
+        type="image/png"/>
+      <pubDate>Sat, 21 Dec 2019 16:52:42 +0100</pubDate>
+      <dc:date>2019-12-21T16:52:42.738216+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Turu-uuringute AS for ERR, 31 October–12 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_polls/2019-11-12-Turu-uuringuteAS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond: 28.2–33.8%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond: 21.2–26.5%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond: 9.6–13.5%&lt;/li&gt;&lt;li&gt;Erakond Isamaa: 4.0–6.8%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond: 0.6–1.9%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond: 15.3–20.0%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised: 1.4–3.1%&lt;/li&gt;&lt;li&gt;Eesti 200: 5.8–9.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2019-11-12-Turu-uuringuteAS.png"
+        length="206973"
+        type="image/png"/>
+      <pubDate>Sat, 21 Dec 2019 17:08:55 +0100</pubDate>
+      <dc:date>2019-12-21T17:08:55.215443+01:00</dc:date>
+    </item>
+    <dc:date>2019-12-21T17:08:55.215443+01:00</dc:date>
   </channel>
 </rss>
