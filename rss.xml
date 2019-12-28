@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riigikogu</title>
     <link>https://filipvanlaenen.github.io/estonian_polls</link>
     <description>All Registered Polls for the Riigikogu</description>
-    <pubDate>Sat, 21 Dec 2019 17:08:55 +0100</pubDate>
+    <pubDate>Sat, 28 Dec 2019 14:33:31 +0100</pubDate>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 18–25 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_polls/2019-11-25-Norstat.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2019-11-25-Norstat.png"
         length="198451"
         type="image/png"/>
-      <pubDate>Sat, 21 Dec 2019 16:38:59 +0100</pubDate>
-      <dc:date>2019-12-21T16:38:59.605692+01:00</dc:date>
+      <pubDate>Sat, 28 Dec 2019 13:55:37 +0100</pubDate>
+      <dc:date>2019-12-28T13:55:37.082679+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Emor for BNS and Postimees, 7–13 November 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2019-11-13-KantarEmor.png"
         length="206023"
         type="image/png"/>
-      <pubDate>Sat, 21 Dec 2019 16:52:42 +0100</pubDate>
-      <dc:date>2019-12-21T16:52:42.738216+01:00</dc:date>
+      <pubDate>Sat, 28 Dec 2019 14:15:08 +0100</pubDate>
+      <dc:date>2019-12-28T14:15:08.466376+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Turu-uuringute AS for ERR, 31 October–12 November 2019 – Voting Intentions</title>
@@ -36,9 +36,9 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2019-11-12-Turu-uuringuteAS.png"
         length="206973"
         type="image/png"/>
-      <pubDate>Sat, 21 Dec 2019 17:08:55 +0100</pubDate>
-      <dc:date>2019-12-21T17:08:55.215443+01:00</dc:date>
+      <pubDate>Sat, 28 Dec 2019 14:33:31 +0100</pubDate>
+      <dc:date>2019-12-28T14:33:31.709527+01:00</dc:date>
     </item>
-    <dc:date>2019-12-21T17:08:55.215443+01:00</dc:date>
+    <dc:date>2019-12-28T14:33:31.709527+01:00</dc:date>
   </channel>
 </rss>
