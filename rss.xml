@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riigikogu</title>
     <link>https://filipvanlaenen.github.io/estonian_polls</link>
     <description>All Registered Polls for the Riigikogu</description>
-    <pubDate>Tue, 07 Jan 2020 06:56:08 +0100</pubDate>
+    <pubDate>Thu, 20 Feb 2020 23:00:14 +0100</pubDate>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 11–17 December 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_polls/2019-12-17-Norstat.html</link>
@@ -26,8 +26,18 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2019-12-12-KantarEmor.png"
         length="179023"
         type="image/png"/>
-      <pubDate>Tue, 07 Jan 2020 06:56:08 +0100</pubDate>
-      <dc:date>2020-01-07T06:56:08.830739+01:00</dc:date>
+      <pubDate>Thu, 20 Feb 2020 22:50:44 +0100</pubDate>
+      <dc:date>2020-02-20T22:50:44.155542+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Turu-uuringute AS for ERR, 28 November–9 December 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_polls/2019-12-09-Turu-uuringuteAS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond: 26.3–31.9%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond: 22.5–27.8%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond: 8.3–12.0%&lt;/li&gt;&lt;li&gt;Erakond Isamaa: 3.8–6.6%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond: 14.8–19.4%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised: 2.1–4.2%&lt;/li&gt;&lt;li&gt;Eesti 200: 3.8–6.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2019-12-09-Turu-uuringuteAS.png"
+        length="206855"
+        type="image/png"/>
+      <pubDate>Thu, 20 Feb 2020 23:00:14 +0100</pubDate>
+      <dc:date>2020-02-20T23:00:14.316334+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 18–25 November 2019 – Seat Projections for the Parties</title>
@@ -119,6 +129,6 @@
       <pubDate>Tue, 31 Dec 2019 13:16:36 +0100</pubDate>
       <dc:date>2019-12-31T13:16:36.493757+01:00</dc:date>
     </item>
-    <dc:date>2020-01-07T06:56:08.830739+01:00</dc:date>
+    <dc:date>2020-02-20T23:00:14.316334+01:00</dc:date>
   </channel>
 </rss>
