@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Riigikogu</title>
     <link>https://filipvanlaenen.github.io/estonian_polls</link>
     <description>All Registered Polls for the Riigikogu</description>
-    <pubDate>Thu, 20 Feb 2020 23:00:14 +0100</pubDate>
+    <pubDate>Sat, 22 Feb 2020 16:38:45 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 4–11 February 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_polls/2020-02-11-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond: 30.9–36.8%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond: 17.6–22.6%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond: 5.3–8.4%&lt;/li&gt;&lt;li&gt;Erakond Isamaa: 5.8–9.1%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond: 0.2–1.2%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond: 15.3–20.0%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised: 2.4–4.6%&lt;/li&gt;&lt;li&gt;Eesti 200: 7.6–11.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2020-02-11-Norstat.png"
+        length="202594"
+        type="image/png"/>
+      <pubDate>Sat, 22 Feb 2020 16:38:45 +0100</pubDate>
+      <dc:date>2020-02-22T16:38:45.866222+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 11–17 December 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_polls/2019-12-17-Norstat.html</link>
@@ -16,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2019-12-17-Norstat.png"
         length="198806"
         type="image/png"/>
-      <pubDate>Tue, 07 Jan 2020 06:48:46 +0100</pubDate>
-      <dc:date>2020-01-07T06:48:46.497943+01:00</dc:date>
+      <pubDate>Fri, 21 Feb 2020 23:09:31 +0100</pubDate>
+      <dc:date>2020-02-21T23:09:31.254941+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Emor for BNS and Postimees, 5–12 December 2019 – Voting Intentions</title>
@@ -26,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2019-12-12-KantarEmor.png"
         length="179023"
         type="image/png"/>
-      <pubDate>Thu, 20 Feb 2020 22:50:44 +0100</pubDate>
-      <dc:date>2020-02-20T22:50:44.155542+01:00</dc:date>
+      <pubDate>Sat, 22 Feb 2020 11:14:09 +0100</pubDate>
+      <dc:date>2020-02-22T11:14:09.663011+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Turu-uuringute AS for ERR, 28 November–9 December 2019 – Voting Intentions</title>
@@ -36,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2019-12-09-Turu-uuringuteAS.png"
         length="206855"
         type="image/png"/>
-      <pubDate>Thu, 20 Feb 2020 23:00:14 +0100</pubDate>
-      <dc:date>2020-02-20T23:00:14.316334+01:00</dc:date>
+      <pubDate>Sat, 22 Feb 2020 11:32:38 +0100</pubDate>
+      <dc:date>2020-02-22T11:32:38.217171+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 18–25 November 2019 – Seat Projections for the Parties</title>
@@ -129,6 +139,6 @@
       <pubDate>Tue, 31 Dec 2019 13:16:36 +0100</pubDate>
       <dc:date>2019-12-31T13:16:36.493757+01:00</dc:date>
     </item>
-    <dc:date>2020-02-20T23:00:14.316334+01:00</dc:date>
+    <dc:date>2020-02-22T16:38:45.866222+01:00</dc:date>
   </channel>
 </rss>
