@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riigikogu</title>
     <link>https://filipvanlaenen.github.io/estonian_polls</link>
     <description>All Registered Polls for the Riigikogu</description>
-    <pubDate>Sat, 22 Feb 2020 16:38:45 +0100</pubDate>
+    <pubDate>Sun, 23 Feb 2020 14:40:01 +0100</pubDate>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 4–11 February 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_polls/2020-02-11-Norstat.html</link>
@@ -16,8 +16,28 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2020-02-11-Norstat.png"
         length="202594"
         type="image/png"/>
-      <pubDate>Sat, 22 Feb 2020 16:38:45 +0100</pubDate>
-      <dc:date>2020-02-22T16:38:45.866222+01:00</dc:date>
+      <pubDate>Sun, 23 Feb 2020 14:10:02 +0100</pubDate>
+      <dc:date>2020-02-23T14:10:02.136064+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Emor, 1–31 January 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_polls/2020-01-31-KantarEmor.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond: 27.0–33.1%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond: 14.7–19.7%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond: 11.8–16.4%&lt;/li&gt;&lt;li&gt;Erakond Isamaa: 6.4–10.0%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond: 0.5–2.0%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond: 13.7–18.6%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised: 2.0–4.3%&lt;/li&gt;&lt;li&gt;Eesti 200: 7.3–11.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2020-01-31-KantarEmor.png"
+        length="210172"
+        type="image/png"/>
+      <pubDate>Sun, 23 Feb 2020 14:26:19 +0100</pubDate>
+      <dc:date>2020-02-23T14:26:19.35567+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Turu-uuringute AS for ERR, 17–27 January 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_polls/2020-01-27-Turu-uuringuteAS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond: 22.1–28.1%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond: 21.2–27.1%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond: 8.1–12.3%&lt;/li&gt;&lt;li&gt;Erakond Isamaa: 5.5–9.0%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond: 0.5–2.0%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond: 15.5–20.7%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised: 2.0–4.4%&lt;/li&gt;&lt;li&gt;Eesti 200: 6.4–10.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2020-01-27-Turu-uuringuteAS.png"
+        length="220068"
+        type="image/png"/>
+      <pubDate>Sun, 23 Feb 2020 14:40:01 +0100</pubDate>
+      <dc:date>2020-02-23T14:40:01.242379+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 11–17 December 2019 – Voting Intentions</title>
@@ -139,6 +159,6 @@
       <pubDate>Tue, 31 Dec 2019 13:16:36 +0100</pubDate>
       <dc:date>2019-12-31T13:16:36.493757+01:00</dc:date>
     </item>
-    <dc:date>2020-02-22T16:38:45.866222+01:00</dc:date>
+    <dc:date>2020-02-23T14:40:01.242379+01:00</dc:date>
   </channel>
 </rss>
