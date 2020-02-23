@@ -10,11 +10,11 @@ Last result: **9.8%** (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.8% | 5.8–7.8% | 5.5–8.1% | 5.3–8.4% | 4.9–9.0% |
+| N/A | [Poll Average](average.html) | 10.1% | 6.3–14.6% | 6.0–15.3% | 5.7–15.8% | 5.2–16.7% |
 | [4–11 February 2020](2020-02-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 6.7% | 5.8–7.8% | 5.5–8.1% | 5.3–8.4% | 4.9–9.0% |
 | [28 January–3 February 2020](2020-02-03-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 10.2% | N/A | N/A | N/A | N/A |
-| [1–31 January 2020](2020-01-31-KantarEmor.html) | Kantar Emor | 14.0% | N/A | N/A | N/A | N/A |
-| [17–27 January 2020](2020-01-27-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 10.0% | N/A | N/A | N/A | N/A |
+| [1–31 January 2020](2020-01-31-KantarEmor.html) | Kantar Emor | 14.0% | 12.5–15.6% | 12.1–16.0% | 11.8–16.4% | 11.2–17.2% |
+| [17–27 January 2020](2020-01-27-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 10.0% | 8.8–11.5% | 8.4–11.9% | 8.1–12.3% | 7.6–13.0% |
 | [23–27 January 2020](2020-01-27-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 10.7% | N/A | N/A | N/A | N/A |
 | [16–24 January 2020](2020-01-24-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 9.3% | N/A | N/A | N/A | N/A |
 | [8–14 January 2020](2020-01-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 8.5% | N/A | N/A | N/A | N/A |
@@ -86,14 +86,22 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 5% | 99.9% |  |
-| 5.5–6.5% | 35% | 95% |  |
-| 6.5–7.5% | 43% | 60% | Median |
-| 7.5–8.5% | 15% | 17% |  |
-| 8.5–9.5% | 2% | 2% |  |
-| 9.5–10.5% | 0.1% | 0.1% | Last Result |
-| 10.5–11.5% | 0% | 0% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 2% | 100% |  |
+| 5.5–6.5% | 12% | 98% |  |
+| 6.5–7.5% | 15% | 87% |  |
+| 7.5–8.5% | 7% | 72% |  |
+| 8.5–9.5% | 9% | 65% |  |
+| 9.5–10.5% | 12% | 57% | Last Result, Median |
+| 10.5–11.5% | 9% | 44% |  |
+| 11.5–12.5% | 5% | 36% |  |
+| 12.5–13.5% | 9% | 31% |  |
+| 13.5–14.5% | 11% | 22% |  |
+| 14.5–15.5% | 7% | 11% |  |
+| 15.5–16.5% | 3% | 3% |  |
+| 16.5–17.5% | 0.6% | 0.6% |  |
+| 17.5–18.5% | 0.1% | 0.1% |  |
+| 18.5–19.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -104,11 +112,11 @@ Last result: **10** seats (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5 | 5 | 5 | 5 |
-| [4–11 February 2020](2020-02-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 5 | 5 | 5 | 5 | 5 |
+| N/A | [Poll Average](average.html) | 10 | 6–15 | 5–16 | 5–16 | 4–18 |
+| [4–11 February 2020](2020-02-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 6 | 5–7 | 5–7 | 5–8 | 0–8 |
 | [28 January–3 February 2020](2020-02-03-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
-| [1–31 January 2020](2020-01-31-KantarEmor.html) | Kantar Emor |  |  |  |  |  |
-| [17–27 January 2020](2020-01-27-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR |  |  |  |  |  |
+| [1–31 January 2020](2020-01-31-KantarEmor.html) | Kantar Emor | 15 | 13–16 | 13–16 | 12–17 | 11–18 |
+| [17–27 January 2020](2020-01-27-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 10 | 9–12 | 8–12 | 8–13 | 7–14 |
 | [23–27 January 2020](2020-01-27-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [16–24 January 2020](2020-01-24-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [8–14 January 2020](2020-01-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
@@ -182,11 +190,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 100% | 100% | Median |
-| 6 | 0% | 0% |  |
-| 7 | 0% | 0% |  |
-| 8 | 0% | 0% |  |
-| 9 | 0% | 0% |  |
-| 10 | 0% | 0% | Last Result |
+| 0 | 0.5% | 100% |  |
+| 1 | 0% | 99.5% |  |
+| 2 | 0% | 99.5% |  |
+| 3 | 0% | 99.5% |  |
+| 4 | 0.3% | 99.5% |  |
+| 5 | 8% | 99.2% |  |
+| 6 | 17% | 91% |  |
+| 7 | 7% | 74% |  |
+| 8 | 3% | 68% |  |
+| 9 | 10% | 65% |  |
+| 10 | 9% | 55% | Last Result, Median |
+| 11 | 6% | 46% |  |
+| 12 | 7% | 40% |  |
+| 13 | 5% | 33% |  |
+| 14 | 11% | 28% |  |
+| 15 | 7% | 17% |  |
+| 16 | 8% | 9% |  |
+| 17 | 0.9% | 1.4% |  |
+| 18 | 0.4% | 0.5% |  |
+| 19 | 0.1% | 0.1% |  |
+| 20 | 0% | 0% |  |
 
 
