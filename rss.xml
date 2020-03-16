@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Riigikogu</title>
     <link>https://filipvanlaenen.github.io/estonian_polls</link>
     <description>All Registered Polls for the Riigikogu</description>
-    <pubDate>Sun, 01 Mar 2020 22:39:11 +0100</pubDate>
+    <pubDate>Mon, 16 Mar 2020 10:18:34 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 26 February–2 March 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_polls/2020-03-02-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond: 30.3–36.2%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond: 21.6–27.0%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond: 5.6–8.8%&lt;/li&gt;&lt;li&gt;Erakond Isamaa: 4.5–7.4%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond: 0.3–1.4%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond: 14.1–18.7%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised: 1.7–3.7%&lt;/li&gt;&lt;li&gt;Eesti 200: 5.2–8.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2020-03-02-Norstat.png"
+        length="201855"
+        type="image/png"/>
+      <pubDate>Mon, 16 Mar 2020 07:54:40 +0100</pubDate>
+      <dc:date>2020-03-16T07:54:40.571832+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 19–25 February 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_polls/2020-02-25-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond: 30.3–36.2%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond: 17.0–21.9%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond: 8.5–12.2%&lt;/li&gt;&lt;li&gt;Erakond Isamaa: 5.5–8.6%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond: 0.2–1.2%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond: 16.1–20.9%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised: 1.4–3.2%&lt;/li&gt;&lt;li&gt;Eesti 200: 6.0–9.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2020-02-25-Norstat.png"
+        length="203272"
+        type="image/png"/>
+      <pubDate>Mon, 16 Mar 2020 10:18:34 +0100</pubDate>
+      <dc:date>2020-03-16T10:18:34.023545+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 13–18 February 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_polls/2020-02-18-Norstat.html</link>
@@ -209,6 +229,6 @@
       <pubDate>Tue, 31 Dec 2019 13:16:36 +0100</pubDate>
       <dc:date>2019-12-31T13:16:36.493757+01:00</dc:date>
     </item>
-    <dc:date>2020-03-01T22:39:11.484654+01:00</dc:date>
+    <dc:date>2020-03-16T10:18:34.023545+01:00</dc:date>
   </channel>
 </rss>
