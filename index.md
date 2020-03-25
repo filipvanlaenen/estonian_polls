@@ -5,10 +5,10 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | Ref | Kesk | EKRE | I | SDE | E200 | Rohelised | EVA |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 3 March 2019 | General Election | 28.9% <br> 34 | 23.1% <br> 26 | 17.8% <br> 19 | 11.4% <br> 12 | 9.8% <br> 10 | 4.4% <br> 0 | 1.8% <br> 0 | 1.2% <br> 0 |
-| N/A | [Poll Average](average.html) | 25–32% <br> 27–37 | 15–28% <br> 16–32 | 14–20% <br> 15–21 | 4–10% <br> 0–9 | 9–16% <br> 8–16 | 7–12% <br> 7–11 | 2–4% <br> 0 | 0–2% <br> 0 |
-| [4–9 March 2020](2020-03-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 26–32% <br> 28–37 | 19–24% <br> 20–27 | 14–19% <br> 15–20 | 5–8% <br> 0–7 | 8–12% <br> 8–13 | 7–11% <br> 7–11 | 2–4% <br> 0 | 0–1% <br> 0 |
-| [6–17 February 2020](2020-02-17-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 24–30% <br> 27–34 | 23–29% <br> 25–33 | 15–20% <br> 15–21 | 4–7% <br> 0–7 | 9–13% <br> 8–13 | 8–12% <br> 7–12 | 1–4% <br> 0 | N/A <br> N/A |
-| [1–31 January 2020](2020-01-31-KantarEmor.html) | Kantar Emor | 27–33% <br> 31–38 | 15–20% <br> 16–21 | 14–19% <br> 15–20 | 6–10% <br> 6–10 | 12–16% <br> 12–17 | 7–11% <br> 7–11 | 2–4% <br> 0 | 1–2% <br> 0 |
+| N/A | [Poll Average](average.html) | 26–32% <br> 31–36 | 15–19% <br> 16–21 | 19–23% <br> 20–25 | 3–5% <br> 0–5 | 10–14% <br> 10–15 | 11–15% <br> 12–16 | 2–4% <br> 0 | 0–1% <br> 0 |
+| [12–18 March 2020](2020-03-18-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 26–32% <br> 31–36 | 15–19% <br> 16–21 | 19–23% <br> 20–25 | 3–5% <br> 0–5 | 10–14% <br> 10–15 | 11–15% <br> 12–16 | 2–4% <br> 0 | 0–1% <br> 0 |
+| [10–16 March 2020](2020-03-16-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [10–16 March 2020](2020-03-16-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 3 March 2019 | General Election | 28.9% <br> 34 | 23.1% <br> 26 | 17.8% <br> 19 | 11.4% <br> 12 | 9.8% <br> 10 | 4.4% <br> 0 | 1.8% <br> 0 | 1.2% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
