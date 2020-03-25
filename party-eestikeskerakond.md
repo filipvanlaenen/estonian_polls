@@ -10,7 +10,10 @@ Last result: **23.1%** (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.0% | 16.4–27.0% | 15.8–27.8% | 15.3–28.4% | 14.5–29.6% |
+| N/A | [Poll Average](average.html) | 17.0% | 15.6–18.5% | 15.2–18.9% | 14.9–19.3% | 14.3–20.1% |
+| [12–18 March 2020](2020-03-18-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 17.0% | 15.6–18.5% | 15.2–18.9% | 14.9–19.3% | 14.3–20.1% |
+| [10–16 March 2020](2020-03-16-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 22.2% | N/A | N/A | N/A | N/A |
+| [10–16 March 2020](2020-03-16-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 26.3% | N/A | N/A | N/A | N/A |
 | [4–9 March 2020](2020-03-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.6–23.6% | 17.8–24.5% |
 | [26 February–2 March 2020](2020-03-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 24.2% | 22.5–26.0% | 22.1–26.5% | 21.6–27.0% | 20.9–27.8% |
 | [19–26 February 2020](2020-02-26-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 19.3% | 17.8–21.0% | 17.3–21.5% | 17.0–21.9% | 16.3–22.7% |
@@ -92,25 +95,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 0.6% | 100% |  |
-| 14.5–15.5% | 3% | 99.4% |  |
-| 15.5–16.5% | 8% | 96% |  |
-| 16.5–17.5% | 10% | 89% |  |
-| 17.5–18.5% | 8% | 79% |  |
-| 18.5–19.5% | 7% | 70% |  |
-| 19.5–20.5% | 9% | 64% |  |
-| 20.5–21.5% | 10% | 55% | Median |
-| 21.5–22.5% | 8% | 45% |  |
-| 22.5–23.5% | 4% | 37% | Last Result |
-| 23.5–24.5% | 4% | 33% |  |
-| 24.5–25.5% | 7% | 29% |  |
-| 25.5–26.5% | 9% | 22% |  |
-| 26.5–27.5% | 7% | 13% |  |
-| 27.5–28.5% | 4% | 6% |  |
-| 28.5–29.5% | 2% | 2% |  |
-| 29.5–30.5% | 0.4% | 0.5% |  |
-| 30.5–31.5% | 0.1% | 0.1% |  |
-| 31.5–32.5% | 0% | 0% |  |
+| 13.5–14.5% | 1.0% | 100% |  |
+| 14.5–15.5% | 8% | 98.9% |  |
+| 15.5–16.5% | 25% | 91% |  |
+| 16.5–17.5% | 34% | 67% | Median |
+| 17.5–18.5% | 23% | 33% |  |
+| 18.5–19.5% | 8% | 9% |  |
+| 19.5–20.5% | 1.4% | 2% |  |
+| 20.5–21.5% | 0.1% | 0.1% |  |
+| 21.5–22.5% | 0% | 0% |  |
+| 22.5–23.5% | 0% | 0% | Last Result |
 
 
 ## Seats
@@ -121,7 +115,10 @@ Last result: **26** seats (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 17–29 | 17–30 | 16–32 | 15–33 |
+| N/A | [Poll Average](average.html) | 19 | 18–19 | 16–19 | 16–21 | 16–22 |
+| [12–18 March 2020](2020-03-18-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 19 | 18–19 | 16–19 | 16–21 | 16–22 |
+| [10–16 March 2020](2020-03-16-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR |  |  |  |  |  |
+| [10–16 March 2020](2020-03-16-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [4–9 March 2020](2020-03-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 23 | 21–25 | 20–26 | 20–27 | 19–28 |
 | [26 February–2 March 2020](2020-03-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 27 | 25–29 | 25–30 | 24–31 | 23–32 |
 | [19–26 February 2020](2020-02-26-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 21 | 19–22 | 18–23 | 18–24 | 17–25 |
@@ -204,28 +201,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 0.1% | 100% |  |
-| 15 | 0.6% | 99.9% |  |
-| 16 | 2% | 99.4% |  |
-| 17 | 13% | 97% |  |
-| 18 | 7% | 84% |  |
-| 19 | 7% | 77% |  |
-| 20 | 5% | 70% |  |
-| 21 | 7% | 66% |  |
-| 22 | 3% | 58% |  |
-| 23 | 10% | 56% | Median |
-| 24 | 6% | 46% |  |
-| 25 | 5% | 39% |  |
-| 26 | 5% | 34% | Last Result |
-| 27 | 2% | 30% |  |
-| 28 | 6% | 27% |  |
-| 29 | 13% | 21% |  |
-| 30 | 4% | 8% |  |
-| 31 | 1.1% | 4% |  |
-| 32 | 2% | 3% |  |
-| 33 | 2% | 2% |  |
-| 34 | 0.1% | 0.2% |  |
-| 35 | 0% | 0.1% |  |
-| 36 | 0% | 0% |  |
+| 15 | 0.2% | 100% |  |
+| 16 | 8% | 99.8% |  |
+| 17 | 1.2% | 92% |  |
+| 18 | 14% | 91% |  |
+| 19 | 72% | 77% | Median |
+| 20 | 2% | 5% |  |
+| 21 | 1.3% | 3% |  |
+| 22 | 2% | 2% |  |
+| 23 | 0% | 0.1% |  |
+| 24 | 0.1% | 0.1% |  |
+| 25 | 0% | 0% |  |
+| 26 | 0% | 0% | Last Result |
 
 
