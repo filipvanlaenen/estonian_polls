@@ -11,7 +11,8 @@ Last result: **4.4%** (General Election of 3 March 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12.6% | 11.2–14.0% | 10.9–14.4% | 10.5–14.8% | 9.9–15.5% |
-| [18–23 March 2020](2020-03-23-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 7.2% | N/A | N/A | N/A | N/A |
+| [24–30 March 2020](2020-03-30-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 7.7% | N/A | N/A | N/A | N/A |
+| [18–23 March 2020](2020-03-23-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 7.2% | 6.2–8.4% | 6.0–8.7% | 5.7–9.0% | 5.3–9.6% |
 | [12–18 March 2020](2020-03-18-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 13.0% | 11.8–14.3% | 11.4–14.7% | 11.1–15.1% | 10.6–15.8% |
 | [10–16 March 2020](2020-03-16-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 12.1% | 10.9–13.5% | 10.6–13.9% | 10.3–14.2% | 9.7–14.9% |
 | [10–16 March 2020](2020-03-16-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 9.4% | 8.3–10.7% | 8.0–11.1% | 7.7–11.4% | 7.2–12.0% |
@@ -120,7 +121,8 @@ Last result: **0** seats (General Election of 3 March 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 11–15 | 11–15 | 11–15 | 10–16 |
-| [18–23 March 2020](2020-03-23-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [24–30 March 2020](2020-03-30-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [18–23 March 2020](2020-03-23-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 7 | 6–8 | 5–9 | 5–9 | 5–9 |
 | [12–18 March 2020](2020-03-18-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 14 | 13–15 | 12–15 | 11–15 | 11–17 |
 | [10–16 March 2020](2020-03-16-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 11 | 11–13 | 11–14 | 10–15 | 9–15 |
 | [10–16 March 2020](2020-03-16-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 9 | 8–10 | 7–11 | 7–11 | 6–12 |
