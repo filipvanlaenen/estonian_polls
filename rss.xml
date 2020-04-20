@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Riigikogu</title>
     <link>https://filipvanlaenen.github.io/estonian_polls</link>
     <description>All Registered Polls for the Riigikogu</description>
-    <pubDate>Sat, 18 Apr 2020 12:52:55 +0200</pubDate>
+    <pubDate>Sat, 18 Apr 2020 16:39:42 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 7–14 April 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_polls/2020-04-14-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond: 30.1–35.9%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond: 21.0–26.2%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond: 6.5–9.9%&lt;/li&gt;&lt;li&gt;Erakond Isamaa: 5.0–8.0%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond: 0.2–1.0%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond: 14.1–18.7%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised: 1.1–2.8%&lt;/li&gt;&lt;li&gt;Eesti 200: 6.8–10.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2020-04-14-Norstat.png"
+        length="202442"
+        type="image/png"/>
+      <pubDate>Sat, 18 Apr 2020 16:39:42 +0200</pubDate>
+      <dc:date>2020-04-18T16:39:42.606768+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 31 March–6 April 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_polls/2020-04-06-Norstat.html</link>
@@ -299,6 +309,6 @@
       <pubDate>Tue, 31 Dec 2019 13:16:36 +0100</pubDate>
       <dc:date>2019-12-31T13:16:36.493757+01:00</dc:date>
     </item>
-    <dc:date>2020-04-18T12:52:55.98325+02:00</dc:date>
+    <dc:date>2020-04-18T16:39:42.606768+02:00</dc:date>
   </channel>
 </rss>
