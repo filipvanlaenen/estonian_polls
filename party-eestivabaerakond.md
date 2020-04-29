@@ -10,7 +10,9 @@ Last result: **1.2%** (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.4% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.2% |
+| N/A | [Poll Average](average.html) | 0.3% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
+| [20–22 April 2020](2020-04-22-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
+| [15–20 April 2020](2020-04-20-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0.2% | N/A | N/A | N/A | N/A |
 | [7–14 April 2020](2020-04-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.3% |
 | [6–7 April 2020](2020-04-07-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 1.0% | N/A | N/A | N/A | N/A |
 | [31 March–6 April 2020](2020-04-06-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
@@ -99,8 +101,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 75% | 100% | Median |
-| 0.5–1.5% | 25% | 25% | Last Result |
+| 0.0–0.5% | 92% | 100% | Median |
+| 0.5–1.5% | 8% | 8% | Last Result |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -113,6 +115,8 @@ Last result: **0** seats (General Election of 3 March 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [20–22 April 2020](2020-04-22-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 0 | 0 | 0 | 0 | 0 |
+| [15–20 April 2020](2020-04-20-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [7–14 April 2020](2020-04-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [6–7 April 2020](2020-04-07-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR |  |  |  |  |  |
 | [31 March–6 April 2020](2020-04-06-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
