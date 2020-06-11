@@ -40,7 +40,7 @@ Last result: **28.9%** (General Election of 3 March 2019)
 | [16–24 January 2020](2020-01-24-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 35.0% | 33.1–37.0% | 32.6–37.5% | 32.1–38.0% | 31.2–39.0% |
 | [8–14 January 2020](2020-01-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 32.3% | 30.4–34.2% | 29.9–34.8% | 29.5–35.3% | 28.6–36.2% |
 | [3–7 January 2020](2020-01-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 34.1% | 32.2–36.1% | 31.7–36.6% | 31.2–37.1% | 30.3–38.0% |
-| [18–23 December 2019](2019-12-23-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 30.3% | N/A | N/A | N/A | N/A |
+| [18–23 December 2019](2019-12-23-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 30.3% | 28.5–32.2% | 28.0–32.8% | 27.5–33.2% | 26.7–34.2% |
 | [11–17 December 2019](2019-12-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 34.3% | 32.4–36.3% | 31.9–36.8% | 31.4–37.3% | 30.5–38.3% |
 | [5–12 December 2019](2019-12-12-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 34.8% | 33.2–36.5% | 32.8–36.9% | 32.4–37.4% | 31.6–38.2% |
 | [28 November–9 December 2019](2019-12-09-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 29.0% | 27.2–30.9% | 26.7–31.4% | 26.3–31.9% | 25.4–32.8% |
@@ -165,7 +165,7 @@ Last result: **34** seats (General Election of 3 March 2019)
 | [16–24 January 2020](2020-01-24-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 41 | 38–43 | 37–45 | 37–45 | 35–46 |
 | [8–14 January 2020](2020-01-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 37 | 35–40 | 35–41 | 34–42 | 32–42 |
 | [3–7 January 2020](2020-01-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 39 | 37–41 | 36–42 | 36–43 | 34–44 |
-| [18–23 December 2019](2019-12-23-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [18–23 December 2019](2019-12-23-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 35 | 33–38 | 32–39 | 32–40 | 30–41 |
 | [11–17 December 2019](2019-12-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 40 | 38–43 | 37–43 | 37–44 | 35–45 |
 | [5–12 December 2019](2019-12-12-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 40 | 38–42 | 37–42 | 37–43 | 36–44 |
 | [28 November–9 December 2019](2019-12-09-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 34 | 32–37 | 31–38 | 30–39 | 29–41 |
