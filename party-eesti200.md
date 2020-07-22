@@ -10,7 +10,8 @@ Last result: **4.4%** (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.0% | 8.4–13.5% | 8.1–14.0% | 7.8–14.4% | 7.2–15.1% |
+| N/A | [Poll Average](average.html) | 9.2% | 7.1–13.5% | 6.7–14.0% | 6.4–14.4% | 5.9–15.1% |
+| [7–13 July 2020](2020-07-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 7.5% | 6.5–8.7% | 6.2–9.0% | 6.0–9.3% | 5.6–9.9% |
 | [29–6 July 2020](2020-07-06-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 9.6% | 8.5–10.9% | 8.2–11.3% | 7.9–11.6% | 7.4–12.2% |
 | [1–30 June 2020](2020-06-30-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 12.9% | 11.8–14.2% | 11.5–14.6% | 11.2–14.9% | 10.7–15.5% |
 | [16–22 June 2020](2020-06-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 9.2% | 8.1–10.5% | 7.8–10.8% | 7.6–11.2% | 7.1–11.8% |
@@ -60,8 +61,8 @@ Last result: **4.4%** (General Election of 3 March 2019)
 | [31 October–12 November 2019](2019-11-12-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 7.3% | 6.3–8.4% | 6.1–8.7% | 5.8–9.0% | 5.4–9.6% |
 | [5–11 November 2019](2019-11-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
 | [28 October–5 November 2019](2019-11-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
-| [22–28 October 2019](2019-10-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 5.1% | N/A | N/A | N/A | N/A |
-| [15–21 October 2019](2019-10-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 4.5% | N/A | N/A | N/A | N/A |
+| [22–28 October 2019](2019-10-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.6–7.2% |
+| [15–21 October 2019](2019-10-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 4.5% | 3.8–5.5% | 3.6–5.7% | 3.4–6.0% | 3.0–6.5% |
 | [10–16 October 2019](2019-10-16-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 9.5% | N/A | N/A | N/A | N/A |
 | [9–14 October 2019](2019-10-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 5.6% | N/A | N/A | N/A | N/A |
 | [3–13 October 2019](2019-10-13-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 7.0% | N/A | N/A | N/A | N/A |
@@ -116,15 +117,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% | Last Result |
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 1.3% | 100% |  |
-| 7.5–8.5% | 11% | 98.6% |  |
-| 8.5–9.5% | 26% | 88% |  |
-| 9.5–10.5% | 21% | 62% | Median |
-| 10.5–11.5% | 9% | 41% |  |
-| 11.5–12.5% | 10% | 32% |  |
-| 12.5–13.5% | 14% | 23% |  |
+| 4.5–5.5% | 0.1% | 100% |  |
+| 5.5–6.5% | 3% | 99.9% |  |
+| 6.5–7.5% | 14% | 96% |  |
+| 7.5–8.5% | 20% | 82% |  |
+| 8.5–9.5% | 18% | 62% | Median |
+| 9.5–10.5% | 9% | 44% |  |
+| 10.5–11.5% | 4% | 35% |  |
+| 11.5–12.5% | 9% | 32% |  |
+| 12.5–13.5% | 13% | 23% |  |
 | 13.5–14.5% | 7% | 9% |  |
 | 14.5–15.5% | 2% | 2% |  |
 | 15.5–16.5% | 0.2% | 0.2% |  |
@@ -139,7 +140,8 @@ Last result: **0** seats (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 8–14 | 7–15 | 7–16 | 7–16 |
+| N/A | [Poll Average](average.html) | 9 | 7–14 | 7–15 | 6–16 | 5–16 |
+| [7–13 July 2020](2020-07-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
 | [29–6 July 2020](2020-07-06-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 9 | 8–11 | 8–11 | 7–12 | 7–13 |
 | [1–30 June 2020](2020-06-30-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 14 | 12–16 | 12–16 | 12–16 | 10–17 |
 | [16–22 June 2020](2020-06-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 9 | 8–10 | 7–10 | 7–11 | 6–12 |
@@ -189,7 +191,7 @@ Last result: **0** seats (General Election of 3 March 2019)
 | [31 October–12 November 2019](2019-11-12-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 7 | 6–8 | 5–8 | 5–9 | 5–9 |
 | [5–11 November 2019](2019-11-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [28 October–5 November 2019](2019-11-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 5 | 0–5 | 0–5 | 0–7 | 0–7 |
-| [22–28 October 2019](2019-10-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [22–28 October 2019](2019-10-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 4 | 0–6 | 0–6 | 0–6 | 0–7 |
 | [15–21 October 2019](2019-10-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [10–16 October 2019](2019-10-16-KantarEmor.html) | Kantar Emor <br> BNS and Postimees |  |  |  |  |  |
 | [9–14 October 2019](2019-10-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
@@ -251,14 +253,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0% | 100% |  |
-| 6 | 0.3% | 100% |  |
-| 7 | 6% | 99.7% |  |
-| 8 | 19% | 94% |  |
-| 9 | 22% | 75% |  |
-| 10 | 14% | 53% | Median |
-| 11 | 5% | 39% |  |
-| 12 | 5% | 34% |  |
+| 5 | 0.6% | 100% |  |
+| 6 | 3% | 99.4% |  |
+| 7 | 23% | 96% |  |
+| 8 | 20% | 73% |  |
+| 9 | 14% | 54% | Median |
+| 10 | 5% | 40% |  |
+| 11 | 2% | 35% |  |
+| 12 | 4% | 33% |  |
 | 13 | 12% | 29% |  |
 | 14 | 8% | 17% |  |
 | 15 | 5% | 9% |  |
