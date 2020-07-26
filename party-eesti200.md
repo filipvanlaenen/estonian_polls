@@ -145,7 +145,7 @@ Last result: **0** seats (General Election of 3 March 2019)
 | [14–20 July 2020](2020-07-20-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
 | [7–13 July 2020](2020-07-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
 | [29–6 July 2020](2020-07-06-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 9 | 8–11 | 8–11 | 7–11 | 7–12 |
-| [1–30 June 2020](2020-06-30-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 14 | 12–16 | 12–16 | 12–16 | 10–17 |
+| [1–30 June 2020](2020-06-30-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 14 | 12–15 | 12–16 | 11–16 | 11–17 |
 | [16–22 June 2020](2020-06-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 9 | 8–10 | 7–10 | 7–11 | 6–12 |
 | [9–16 June 2020](2020-06-16-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 6 | 5–8 | 5–8 | 5–9 | 5–10 |
 | [9–15 June 2020](2020-06-15-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 9 | 7–10 | 7–10 | 7–11 | 6–11 |
@@ -262,11 +262,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 11% | 51% | Median |
 | 10 | 5% | 40% |  |
 | 11 | 2% | 35% |  |
-| 12 | 4% | 33% |  |
-| 13 | 12% | 29% |  |
-| 14 | 8% | 17% |  |
-| 15 | 5% | 9% |  |
-| 16 | 4% | 4% |  |
+| 12 | 5% | 32% |  |
+| 13 | 10% | 27% |  |
+| 14 | 9% | 17% |  |
+| 15 | 6% | 8% |  |
+| 16 | 2% | 3% |  |
 | 17 | 0.4% | 0.4% |  |
 | 18 | 0% | 0% |  |
 

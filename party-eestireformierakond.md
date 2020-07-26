@@ -145,9 +145,9 @@ Last result: **34** seats (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 37 | 32–40 | 31–42 | 30–43 | 29–43 |
+| N/A | [Poll Average](average.html) | 37 | 31–40 | 31–42 | 30–43 | 29–43 |
 | [14–20 July 2020](2020-07-20-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 39 | 37–42 | 36–43 | 35–43 | 34–44 |
-| [7–13 July 2020](2020-07-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 40 | 37–41 | 36–42 | 35–43 | 34–43 |
+| [7–13 July 2020](2020-07-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 39 | 36–41 | 35–42 | 35–42 | 33–43 |
 | [29–6 July 2020](2020-07-06-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 37 | 35–39 | 34–40 | 33–41 | 32–42 |
 | [1–30 June 2020](2020-06-30-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 33 | 30–35 | 30–36 | 29–36 | 28–37 |
 | [16–22 June 2020](2020-06-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 34 | 31–36 | 31–37 | 31–37 | 29–39 |
@@ -254,15 +254,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 28 | 0.2% | 100% |  |
-| 29 | 1.1% | 99.7% |  |
+| 27 | 0% | 100% |  |
+| 28 | 0.2% | 99.9% |  |
+| 29 | 1.1% | 99.8% |  |
 | 30 | 2% | 98.7% |  |
-| 31 | 4% | 96% |  |
-| 32 | 6% | 92% |  |
-| 33 | 4% | 86% |  |
-| 34 | 13% | 82% | Last Result |
-| 35 | 4% | 70% |  |
-| 36 | 8% | 65% |  |
+| 31 | 7% | 96% |  |
+| 32 | 4% | 90% |  |
+| 33 | 8% | 85% |  |
+| 34 | 6% | 77% | Last Result |
+| 35 | 6% | 71% |  |
+| 36 | 8% | 66% |  |
 | 37 | 13% | 58% | Median |
 | 38 | 14% | 45% |  |
 | 39 | 10% | 31% |  |
