@@ -70,7 +70,7 @@ Last result: **11.4%** (General Election of 3 March 2019)
 | [10–16 October 2019](2019-10-16-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 6.3% | 5.4–7.3% | 5.2–7.5% | 5.0–7.8% | 4.6–8.3% |
 | [9–14 October 2019](2019-10-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 7.2% | 6.2–8.4% | 6.0–8.7% | 5.7–9.0% | 5.3–9.6% |
 | [3–13 October 2019](2019-10-13-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 6.0% | 5.1–7.0% | 4.9–7.3% | 4.7–7.6% | 4.3–8.1% |
-| [1–8 October 2019](2019-10-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 6.5% | N/A | N/A | N/A | N/A |
+| [1–8 October 2019](2019-10-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 6.5% | 5.6–7.6% | 5.3–7.9% | 5.1–8.2% | 4.7–8.8% |
 | [25–30 September 2019](2019-09-30-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 7.4% | N/A | N/A | N/A | N/A |
 | [18–23 September 2019](2019-09-23-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 5.4% | N/A | N/A | N/A | N/A |
 | [11–19 September 2019](2019-09-19-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 7.1% | N/A | N/A | N/A | N/A |
@@ -142,9 +142,9 @@ Last result: **12** seats (General Election of 3 March 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 0–6 | 0–6 | 0–7 | 0–7 |
-| [27 July–3 August 2020](2020-08-03-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 5 | 0–6 | 0–6 | 0–7 | 0–7 |
-| [21–28 July 2020](2020-07-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 6 | 5–7 | 4–7 | 4–8 | 0–8 |
-| [16–22 July 2020](2020-07-22-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 5 | 4–6 | 0–7 | 0–7 | 0–7 |
+| [27 July–3 August 2020](2020-08-03-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 5 | 0–6 | 0–7 | 0–7 | 0–7 |
+| [21–28 July 2020](2020-07-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 6 | 5–7 | 4–7 | 4–7 | 0–8 |
+| [16–22 July 2020](2020-07-22-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 5 | 5–6 | 0–7 | 0–7 | 0–7 |
 | [14–20 July 2020](2020-07-20-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 5 | 0–6 | 0–6 | 0–7 | 0–7 |
 | [7–13 July 2020](2020-07-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [29–6 July 2020](2020-07-06-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 5 | 5–7 | 0–7 | 0–7 | 0–8 |
@@ -201,7 +201,7 @@ Last result: **12** seats (General Election of 3 March 2019)
 | [10–16 October 2019](2019-10-16-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 5 | 5–7 | 4–7 | 4–7 | 0–8 |
 | [9–14 October 2019](2019-10-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 7 | 6–8 | 5–8 | 5–9 | 5–9 |
 | [3–13 October 2019](2019-10-13-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 5 | 5–6 | 0–7 | 0–7 | 0–8 |
-| [1–8 October 2019](2019-10-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [1–8 October 2019](2019-10-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 6 | 5–7 | 5–8 | 0–8 | 0–8 |
 | [25–30 September 2019](2019-09-30-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [18–23 September 2019](2019-09-23-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [11–19 September 2019](2019-09-19-KantarEmor.html) | Kantar Emor <br> BNS and Postimees |  |  |  |  |  |
@@ -257,11 +257,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 61% |  |
 | 2 | 0% | 61% |  |
 | 3 | 0% | 61% |  |
-| 4 | 3% | 61% |  |
+| 4 | 4% | 61% |  |
 | 5 | 33% | 57% | Median |
 | 6 | 20% | 24% |  |
 | 7 | 4% | 4% |  |
-| 8 | 0.2% | 0.2% |  |
+| 8 | 0.2% | 0.3% |  |
 | 9 | 0% | 0% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
