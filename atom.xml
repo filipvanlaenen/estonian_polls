@@ -6,7 +6,31 @@
   </author>
   <id>https://filipvanlaenen.github.io/estonian_polls</id>
   <title>All Registered Polls for the Riigikogu</title>
-  <updated>2020-07-27T23:05:58.996739+02:00</updated>
+  <updated>2020-08-10T18:08:25.671644+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Reformierakond: 30.1–36.0%, 34–42 seats</li><li>Eesti Keskerakond: 20.0–25.2%, 21–28 seats</li><li>Sotsiaaldemokraatlik Erakond: 7.2–10.7%, 6–10 seats</li><li>Erakond Isamaa: 4.6–7.5%, 0–7 seats</li><li>Eesti Vabaerakond: 0.5–1.7%, 0 seats</li><li>Eesti Konservatiivne Rahvaerakond: 16.1–20.9%, 17–22 seats</li><li>Erakond Eestimaa Rohelised: 1.8–3.8%, 0 seats</li><li>Eesti 200: 5.4–8.5%, 5–8 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/estonian_polls/2020-08-03-Norstat.html</id>
+    <link href="https://filipvanlaenen.github.io/estonian_polls/2020-08-03-Norstat.html"/>
+    <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 27 July–3 August 2020</title>
+    <updated>2020-08-09T21:54:54.641843+02:00</updated>
+    <dc:date>2020-08-09T21:54:54.641843+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Reformierakond: 28.4–34.1%, 32–39 seats</li><li>Eesti Keskerakond: 21.6–26.9%, 23–30 seats</li><li>Sotsiaaldemokraatlik Erakond: 7.1–10.6%, 6–10 seats</li><li>Erakond Isamaa: 5.0–8.1%, 4–7 seats</li><li>Eesti Vabaerakond: 0.3–1.3%, 0 seats</li><li>Eesti Konservatiivne Rahvaerakond: 16.3–21.1%, 17–22 seats</li><li>Erakond Eestimaa Rohelised: 1.4–3.3%, 0 seats</li><li>Eesti 200: 5.4–8.5%, 5–8 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/estonian_polls/2020-07-28-Norstat.html</id>
+    <link href="https://filipvanlaenen.github.io/estonian_polls/2020-07-28-Norstat.html"/>
+    <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 21–28 July 2020</title>
+    <updated>2020-08-09T21:34:36.577034+02:00</updated>
+    <dc:date>2020-08-09T21:34:36.577034+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Reformierakond: 28.4–33.5%, 32–39 seats</li><li>Eesti Keskerakond: 15.0–19.1%, 16–21 seats</li><li>Sotsiaaldemokraatlik Erakond: 7.5–10.7%, 7–11 seats</li><li>Erakond Isamaa: 4.8–7.4%, 0–7 seats</li><li>Eesti Vabaerakond: 0.1–0.7%, 0 seats</li><li>Eesti Konservatiivne Rahvaerakond: 16.0–20.2%, 17–22 seats</li><li>Erakond Eestimaa Rohelised: 2.2–4.1%, 0 seats</li><li>Eesti 200: 12.2–16.0%, 12–17 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/estonian_polls/2020-07-22-KantarEmor.html</id>
+    <link href="https://filipvanlaenen.github.io/estonian_polls/2020-07-22-KantarEmor.html"/>
+    <title>Opinion Poll by Kantar Emor for BNS and Postimees, 16–22 July 2020</title>
+    <updated>2020-08-10T18:08:25.671644+02:00</updated>
+    <dc:date>2020-08-10T18:08:25.671644+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Reformierakond: 31.1–37.0%, 35–43 seats</li><li>Eesti Keskerakond: 21.0–26.2%, 22–29 seats</li><li>Sotsiaaldemokraatlik Erakond: 7.1–10.6%, 6–10 seats</li><li>Erakond Isamaa: 4.3–7.2%, 0–7 seats</li><li>Eesti Vabaerakond: 0.1–0.9%, 0 seats</li><li>Eesti Konservatiivne Rahvaerakond: 14.6–19.3%, 15–21 seats</li><li>Erakond Eestimaa Rohelised: 1.5–3.4%, 0 seats</li><li>Eesti 200: 5.5–8.6%, 5–8 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/estonian_polls/2020-07-20-Norstat.html</id>
@@ -63,5 +87,5 @@
     <updated>2019-12-31T13:16:36.493757+01:00</updated>
     <dc:date>2019-12-31T13:16:36.493757+01:00</dc:date>
   </entry>
-  <dc:date>2020-07-27T23:05:58.996739+02:00</dc:date>
+  <dc:date>2020-08-10T18:08:25.671644+02:00</dc:date>
 </feed>
