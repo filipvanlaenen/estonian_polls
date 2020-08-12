@@ -71,7 +71,7 @@ Last result: **28.9%** (General Election of 3 March 2019)
 | [9–14 October 2019](2019-10-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 30.9% | 29.1–32.8% | 28.5–33.4% | 28.1–33.8% | 27.3–34.8% |
 | [3–13 October 2019](2019-10-13-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 32.0% | 30.2–33.9% | 29.7–34.5% | 29.2–34.9% | 28.4–35.8% |
 | [1–8 October 2019](2019-10-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 35.6% | 33.7–37.6% | 33.2–38.1% | 32.7–38.6% | 31.8–39.6% |
-| [25–30 September 2019](2019-09-30-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 32.7% | N/A | N/A | N/A | N/A |
+| [25–30 September 2019](2019-09-30-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 32.7% | 30.8–34.6% | 30.3–35.2% | 29.9–35.7% | 29.0–36.6% |
 | [18–23 September 2019](2019-09-23-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 37.1% | N/A | N/A | N/A | N/A |
 | [11–19 September 2019](2019-09-19-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 33.1% | N/A | N/A | N/A | N/A |
 | [10–17 September 2019](2019-09-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 33.7% | N/A | N/A | N/A | N/A |
@@ -205,7 +205,7 @@ Last result: **34** seats (General Election of 3 March 2019)
 | [9–14 October 2019](2019-10-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 35 | 33–38 | 32–38 | 31–39 | 30–40 |
 | [3–13 October 2019](2019-10-13-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 38 | 35–40 | 34–40 | 34–41 | 33–42 |
 | [1–8 October 2019](2019-10-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 40 | 38–43 | 38–45 | 37–45 | 37–48 |
-| [25–30 September 2019](2019-09-30-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [25–30 September 2019](2019-09-30-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 38 | 35–40 | 34–40 | 34–41 | 33–43 |
 | [18–23 September 2019](2019-09-23-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [11–19 September 2019](2019-09-19-KantarEmor.html) | Kantar Emor <br> BNS and Postimees |  |  |  |  |  |
 | [10–17 September 2019](2019-09-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
