@@ -10,7 +10,8 @@ Last result: **17.8%** (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.8% | 15.5–19.9% | 15.0–20.4% | 14.5–20.9% | 13.8–21.8% |
+| N/A | [Poll Average](average.html) | 16.5% | 14.6–18.7% | 14.1–19.2% | 13.7–19.6% | 13.0–20.4% |
+| [10–17 August 2020](2020-08-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 15.4% | 14.0–16.9% | 13.6–17.4% | 13.3–17.8% | 12.7–18.5% |
 | [4–10 August 2020](2020-08-10-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 19.0% | 17.5–20.7% | 17.1–21.1% | 16.7–21.6% | 16.0–22.4% |
 | [27 July–3 August 2020](2020-08-03-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 18.4% | 16.9–20.1% | 16.5–20.5% | 16.1–20.9% | 15.4–21.7% |
 | [21–28 July 2020](2020-07-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 18.6% | 17.1–20.3% | 16.7–20.7% | 16.3–21.1% | 15.6–21.9% |
@@ -121,19 +122,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.3% | 100% |  |
-| 13.5–14.5% | 2% | 99.7% |  |
-| 14.5–15.5% | 8% | 97% |  |
-| 15.5–16.5% | 14% | 90% |  |
-| 16.5–17.5% | 20% | 76% |  |
-| 17.5–18.5% | 23% | 56% | Last Result, Median |
-| 18.5–19.5% | 19% | 33% |  |
-| 19.5–20.5% | 10% | 14% |  |
-| 20.5–21.5% | 3% | 4% |  |
-| 21.5–22.5% | 0.7% | 0.9% |  |
-| 22.5–23.5% | 0.1% | 0.1% |  |
-| 23.5–24.5% | 0% | 0% |  |
+| 10.5–11.5% | 0% | 100% |  |
+| 11.5–12.5% | 0.1% | 100% |  |
+| 12.5–13.5% | 2% | 99.9% |  |
+| 13.5–14.5% | 8% | 98% |  |
+| 14.5–15.5% | 18% | 90% |  |
+| 15.5–16.5% | 23% | 72% | Median |
+| 16.5–17.5% | 21% | 49% |  |
+| 17.5–18.5% | 16% | 28% | Last Result |
+| 18.5–19.5% | 9% | 11% |  |
+| 19.5–20.5% | 2% | 3% |  |
+| 20.5–21.5% | 0.4% | 0.4% |  |
+| 21.5–22.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -144,7 +144,8 @@ Last result: **19** seats (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 16–21 | 15–22 | 15–23 | 14–24 |
+| N/A | [Poll Average](average.html) | 17 | 15–20 | 15–21 | 14–21 | 13–22 |
+| [10–17 August 2020](2020-08-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 16 | 14–18 | 14–18 | 13–19 | 13–20 |
 | [4–10 August 2020](2020-08-10-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 20 | 19–22 | 18–23 | 18–24 | 17–25 |
 | [27 July–3 August 2020](2020-08-03-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 20 | 18–21 | 17–22 | 17–22 | 16–23 |
 | [21–28 July 2020](2020-07-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 19 | 18–21 | 17–22 | 17–22 | 16–24 |
@@ -257,19 +258,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.2% | 100% |  |
-| 14 | 0.7% | 99.8% |  |
-| 15 | 9% | 99.1% |  |
-| 16 | 9% | 90% |  |
-| 17 | 8% | 81% |  |
-| 18 | 15% | 73% |  |
-| 19 | 17% | 58% | Last Result, Median |
-| 20 | 21% | 41% |  |
-| 21 | 11% | 20% |  |
-| 22 | 6% | 9% |  |
-| 23 | 2% | 3% |  |
-| 24 | 0.7% | 0.9% |  |
-| 25 | 0.2% | 0.2% |  |
-| 26 | 0% | 0% |  |
+| 12 | 0.1% | 100% |  |
+| 13 | 1.1% | 99.9% |  |
+| 14 | 3% | 98.8% |  |
+| 15 | 21% | 96% |  |
+| 16 | 14% | 75% |  |
+| 17 | 15% | 61% | Median |
+| 18 | 17% | 46% |  |
+| 19 | 13% | 29% | Last Result |
+| 20 | 11% | 16% |  |
+| 21 | 4% | 5% |  |
+| 22 | 1.2% | 2% |  |
+| 23 | 0.3% | 0.3% |  |
+| 24 | 0.1% | 0.1% |  |
+| 25 | 0% | 0% |  |
 
 
