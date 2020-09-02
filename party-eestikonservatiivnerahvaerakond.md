@@ -79,14 +79,14 @@ Last result: **17.8%** (General Election of 3 March 2019)
 | [10–17 September 2019](2019-09-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 17.1% | 15.7–18.7% | 15.2–19.2% | 14.9–19.6% | 14.2–20.4% |
 | [5–16 September 2019](2019-09-16-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 19.9% | 18.4–21.6% | 18.0–22.0% | 17.6–22.5% | 16.9–23.3% |
 | [3–9 September 2019](2019-09-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 15.1% | 13.7–16.6% | 13.3–17.1% | 13.0–17.5% | 12.4–18.2% |
-| [27 August–2 September 2019](2019-09-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 14.8% | N/A | N/A | N/A | N/A |
-| [21–26 August 2019](2019-08-26-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 15.2% | N/A | N/A | N/A | N/A |
-| [15–21 August 2019](2019-08-21-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 17.4% | N/A | N/A | N/A | N/A |
-| [9–20 August 2019](2019-08-20-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 16.5% | N/A | N/A | N/A | N/A |
-| [13–19 August 2019](2019-08-19-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 16.9% | N/A | N/A | N/A | N/A |
-| [5–12 August 2019](2019-08-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 16.4% | N/A | N/A | N/A | N/A |
-| [30 July–5 August 2019](2019-08-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 12.8% | N/A | N/A | N/A | N/A |
-| [22–30 July 2019](2019-07-30-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 17.7% | N/A | N/A | N/A | N/A |
+| [27 August–2 September 2019](2019-09-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 14.8% | 13.4–16.3% | 13.1–16.8% | 12.7–17.1% | 12.1–17.9% |
+| [21–26 August 2019](2019-08-26-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 15.2% | 13.8–16.8% | 13.4–17.2% | 13.1–17.6% | 12.5–18.3% |
+| [15–21 August 2019](2019-08-21-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 17.4% | 16.0–18.9% | 15.7–19.3% | 15.3–19.7% | 14.7–20.4% |
+| [9–20 August 2019](2019-08-20-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 16.5% | 15.1–18.1% | 14.7–18.5% | 14.3–18.9% | 13.7–19.7% |
+| [13–19 August 2019](2019-08-19-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 16.9% | 15.5–18.5% | 15.0–19.0% | 14.7–19.4% | 14.0–20.1% |
+| [5–12 August 2019](2019-08-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 16.4% | 15.0–18.0% | 14.6–18.4% | 14.2–18.8% | 13.6–19.6% |
+| [30 July–5 August 2019](2019-08-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 12.8% | 11.5–14.3% | 11.2–14.7% | 10.9–15.0% | 10.3–15.7% |
+| [22–30 July 2019](2019-07-30-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 17.7% | 16.2–19.3% | 15.8–19.8% | 15.5–20.2% | 14.8–21.0% |
 | [18–24 July 2019](2019-07-24-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 19.4% | N/A | N/A | N/A | N/A |
 | [15–22 July 2019](2019-07-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 16.6% | N/A | N/A | N/A | N/A |
 | [8–15 July 2019](2019-07-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 15.8% | N/A | N/A | N/A | N/A |
@@ -213,13 +213,13 @@ Last result: **19** seats (General Election of 3 March 2019)
 | [10–17 September 2019](2019-09-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 19 | 17–21 | 16–21 | 16–22 | 15–23 |
 | [5–16 September 2019](2019-09-16-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 21 | 19–23 | 18–23 | 18–24 | 17–25 |
 | [3–9 September 2019](2019-09-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 16 | 14–17 | 14–18 | 13–19 | 13–20 |
-| [27 August–2 September 2019](2019-09-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
-| [21–26 August 2019](2019-08-26-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
-| [15–21 August 2019](2019-08-21-KantarEmor.html) | Kantar Emor <br> BNS and Postimees |  |  |  |  |  |
-| [9–20 August 2019](2019-08-20-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR |  |  |  |  |  |
-| [13–19 August 2019](2019-08-19-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
-| [5–12 August 2019](2019-08-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
-| [30 July–5 August 2019](2019-08-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [27 August–2 September 2019](2019-09-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 15 | 13–15 | 13–15 | 13–15 | 13–15 |
+| [21–26 August 2019](2019-08-26-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 16 | 16 | 16 | 16 | 12–16 |
+| [15–21 August 2019](2019-08-21-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 19 | 18–21 | 17–21 | 17–21 | 17–21 |
+| [9–20 August 2019](2019-08-20-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 17 | 17 | 17 | 17 | 17–18 |
+| [13–19 August 2019](2019-08-19-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 18 | 18 | 15–18 | 15–20 | 15–21 |
+| [5–12 August 2019](2019-08-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 18 | 18 | 18 | 18 | 18 |
+| [30 July–5 August 2019](2019-08-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 13 | 12–15 | 11–15 | 11–16 | 10–17 |
 | [22–30 July 2019](2019-07-30-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [18–24 July 2019](2019-07-24-KantarEmor.html) | Kantar Emor <br> BNS and Postimees |  |  |  |  |  |
 | [15–22 July 2019](2019-07-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
