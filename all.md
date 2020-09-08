@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Ref | Kesk | EKRE | I | SDE | E200 | Rohelised | EVA |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 3 March 2019 | General Election | 28.9% <br> 34 | 23.1% <br> 26 | 17.8% <br> 19 | 11.4% <br> 12 | 9.8% <br> 10 | 4.4% <br> 0 | 1.8% <br> 0 | 1.2% <br> 0 |
-| [25–31 August 2020](2020-08-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [25–31 August 2020](2020-08-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 31–36% <br> 35–43 | 22–28% <br> 24–32 | 14–19% <br> 15–21 | 3–6% <br> 0–5 | 7–11% <br> 7–11 | 6–10% <br> 5–10 | 2–5% <br> 0 | N/A <br> N/A |
 | [1–31 August 2020](2020-08-31-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 27–32% <br> 31–38 | 15–19% <br> 15–21 | 15–19% <br> 16–21 | 4–6% <br> 0–5 | 11–15% <br> 11–15 | 12–16% <br> 12–17 | 1–3% <br> 0 | 1–2% <br> 0 |
 | [17–25 August 2020](2020-08-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 33–39% <br> 37–46 | 18–24% <br> 19–26 | 14–19% <br> 14–20 | 5–7% <br> 0–7 | 5–8% <br> 4–8 | 8–12% <br> 7–12 | 1–2% <br> 0 | 0–1% <br> 0 |
 | [12–24 August 2020](2020-08-24-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 21–27% <br> 23–30 | 24–30% <br> 27–34 | 18–23% <br> 19–26 | 4–7% <br> 0–6 | 9–12% <br> 8–13 | 8–11% <br> 7–11 | 1–3% <br> 0 | 0–1% <br> 0 |
