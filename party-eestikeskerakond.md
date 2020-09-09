@@ -91,8 +91,8 @@ Last result: **23.1%** (General Election of 3 March 2019)
 | [5–12 August 2019](2019-08-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 22.0% | 20.4–23.7% | 19.9–24.2% | 19.5–24.7% | 18.8–25.5% |
 | [30 July–5 August 2019](2019-08-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 19.0% | 17.5–20.7% | 17.1–21.1% | 16.7–21.6% | 16.0–22.4% |
 | [22–30 July 2019](2019-07-30-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 17.8% | 16.3–19.4% | 15.9–19.9% | 15.5–20.3% | 14.9–21.1% |
-| [18–24 July 2019](2019-07-24-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 15.3% | N/A | N/A | N/A | N/A |
-| [15–22 July 2019](2019-07-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 18.3% | N/A | N/A | N/A | N/A |
+| [18–24 July 2019](2019-07-24-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 15.3% | 14.1–16.7% | 13.8–17.1% | 13.5–17.4% | 12.9–18.0% |
+| [15–22 July 2019](2019-07-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 18.3% | 16.8–20.0% | 16.4–20.4% | 16.0–20.8% | 15.3–21.6% |
 | [8–15 July 2019](2019-07-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 16.4% | N/A | N/A | N/A | N/A |
 | [2–8 July 2019](2019-07-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 22.3% | N/A | N/A | N/A | N/A |
 | [26 June–1 July 2019](2019-07-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 20.8% | N/A | N/A | N/A | N/A |
@@ -157,9 +157,9 @@ Last result: **26** seats (General Election of 3 March 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 28 | 18–32 | 16–32 | 16–33 | 15–34 |
-| [25–31 August 2020](2020-08-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 28 | 26–31 | 25–31 | 24–32 | 23–32 |
+| [25–31 August 2020](2020-08-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 28 | 26–30 | 25–31 | 25–31 | 23–32 |
 | [1–31 August 2020](2020-08-31-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 19 | 16–20 | 16–20 | 15–21 | 15–22 |
-| [17–25 August 2020](2020-08-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 22 | 20–25 | 20–26 | 19–26 | 19–27 |
+| [17–25 August 2020](2020-08-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 22 | 20–25 | 20–25 | 20–26 | 19–27 |
 | [12–24 August 2020](2020-08-24-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 30 | 28–33 | 27–33 | 27–34 | 26–35 |
 | [10–17 August 2020](2020-08-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 25 | 23–27 | 22–28 | 22–28 | 21–29 |
 | [4–10 August 2020](2020-08-10-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 21 | 19–23 | 18–23 | 18–24 | 17–25 |
@@ -237,8 +237,8 @@ Last result: **26** seats (General Election of 3 March 2019)
 | [5–12 August 2019](2019-08-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 25 | 25 | 25 | 22–25 | 22–25 |
 | [30 July–5 August 2019](2019-08-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 21 | 19–23 | 18–24 | 18–24 | 17–25 |
 | [22–30 July 2019](2019-07-30-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 20 | 18–21 | 17–22 | 16–22 | 16–24 |
-| [18–24 July 2019](2019-07-24-KantarEmor.html) | Kantar Emor <br> BNS and Postimees |  |  |  |  |  |
-| [15–22 July 2019](2019-07-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [18–24 July 2019](2019-07-24-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 15 | 14–17 | 14–17 | 13–18 | 13–19 |
+| [15–22 July 2019](2019-07-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 20 | 18–21 | 18–22 | 17–23 | 16–24 |
 | [8–15 July 2019](2019-07-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [2–8 July 2019](2019-07-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [26 June–1 July 2019](2019-07-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
@@ -284,17 +284,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 0.6% | 68% |  |
 | 22 | 0.2% | 67% |  |
 | 23 | 0.2% | 67% |  |
-| 24 | 0.7% | 66% |  |
+| 24 | 0.5% | 66% |  |
 | 25 | 2% | 66% |  |
-| 26 | 3% | 63% | Last Result |
-| 27 | 8% | 60% |  |
-| 28 | 11% | 52% | Median |
-| 29 | 11% | 41% |  |
-| 30 | 11% | 30% |  |
-| 31 | 9% | 19% |  |
-| 32 | 7% | 10% |  |
+| 26 | 5% | 64% | Last Result |
+| 27 | 8% | 59% |  |
+| 28 | 11% | 51% | Median |
+| 29 | 12% | 40% |  |
+| 30 | 10% | 28% |  |
+| 31 | 8% | 18% |  |
+| 32 | 6% | 10% |  |
 | 33 | 2% | 4% |  |
-| 34 | 1.0% | 1.3% |  |
+| 34 | 0.9% | 1.3% |  |
 | 35 | 0.2% | 0.3% |  |
 | 36 | 0.1% | 0.1% |  |
 | 37 | 0% | 0% |  |
