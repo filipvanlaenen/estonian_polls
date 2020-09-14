@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Ref | Kesk | EKRE | I | SDE | E200 | Rohelised | EVA |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 3 March 2019 | General Election | 28.9% <br> 34 | 23.1% <br> 26 | 17.8% <br> 19 | 11.4% <br> 12 | 9.8% <br> 10 | 4.4% <br> 0 | 1.8% <br> 0 | 1.2% <br> 0 |
+| [2–9 September 2020](2020-09-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [25–31 August 2020](2020-08-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 31–36% <br> 35–43 | 22–28% <br> 25–31 | 14–19% <br> 15–20 | 3–6% <br> 0–5 | 7–11% <br> 7–11 | 6–10% <br> 6–9 | 2–5% <br> 0 | N/A <br> N/A |
 | [1–31 August 2020](2020-08-31-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 27–32% <br> 31–38 | 15–19% <br> 16–21 | 15–19% <br> 16–21 | 4–6% <br> 0–6 | 11–15% <br> 11–16 | 12–16% <br> 12–17 | 1–3% <br> 0 | 1–2% <br> 0 |
 | [17–25 August 2020](2020-08-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 33–39% <br> 37–45 | 18–24% <br> 20–26 | 14–19% <br> 14–20 | 5–7% <br> 0–7 | 5–8% <br> 5–8 | 8–12% <br> 8–12 | 1–2% <br> 0 | 0–1% <br> 0 |
@@ -21,8 +22,8 @@ The table below lists all polls registered and analyzed so far.
 | [16–22 June 2020](2020-06-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 27–33% <br> 30–37 | 23–29% <br> 25–32 | 14–18% <br> 14–19 | 5–8% <br> 0–7 | 8–11% <br> 7–11 | 8–11% <br> 7–11 | 1–2% <br> 0 | 0–2% <br> 0 |
 | [9–16 June 2020](2020-06-16-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 29–35% <br> 33–40 | 24–30% <br> 27–33 | 14–19% <br> 14–20 | 5–8% <br> 0–7 | 6–9% <br> 5–9 | 6–9% <br> 5–9 | 2–4% <br> 0 | 0–1% <br> 0 |
 | [9–15 June 2020](2020-06-15-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 30–36% <br> 35–41 | 25–30% <br> 27–34 | 14–19% <br> 14–20 | 2–4% <br> 0 | 7–10% <br> 6–9 | 7–11% <br> 7–11 | 1–3% <br> 0 | 0–1% <br> 0 |
-| [1–8 June 2020](2020-06-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 28–33% <br> 35–39 | 20–26% <br> 22–27 | 18–23% <br> 22–24 | 4–6% <br> 0–6 | 6–9% <br> 7–9 | 6–9% <br> 5–7 | 2–5% <br> 0 | 0–1% <br> 0 |
-| [25 May–1 June 2020](2020-06-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 28–34% <br> 35–38 | 22–27% <br> 26–27 | 15–19% <br> 17–18 | 4–7% <br> 5–6 | 8–11% <br> 8–9 | 6–10% <br> 6–8 | 1–2% <br> 0 | 0–1% <br> 0 |
+| [1–8 June 2020](2020-06-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 28–33% <br> 32–40 | 20–26% <br> 23–30 | 18–23% <br> 20–27 | 4–6% <br> 0–6 | 6–9% <br> 6–9 | 6–9% <br> 5–9 | 2–5% <br> 0 | 0–1% <br> 0 |
+| [25 May–1 June 2020](2020-06-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 28–34% <br> 31–39 | 22–27% <br> 25–31 | 15–19% <br> 15–21 | 4–7% <br> 0–6 | 8–11% <br> 8–11 | 6–10% <br> 5–9 | 1–2% <br> 0 | 0–1% <br> 0 |
 | [18–25 May 2020](2020-05-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 30–35% <br> 34–40 | 24–30% <br> 27–34 | 11–15% <br> 11–16 | 5–8% <br> 4–8 | 6–9% <br> 6–9 | 6–9% <br> 5–8 | 3–5% <br> 0 | 0–1% <br> 0 |
 | [14–20 May 2020](2020-05-20-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 22–26% <br> 24–30 | 18–22% <br> 20–25 | 20–24% <br> 21–27 | 3–5% <br> 0–5 | 10–14% <br> 10–15 | 12–16% <br> 13–17 | 1–3% <br> 0 | 0–1% <br> 0 |
 | [12–18 May 2020](2020-05-18-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 28–34% <br> 32–40 | 23–29% <br> 26–34 | 15–19% <br> 16–21 | 3–6% <br> 0–5 | 6–9% <br> 5–8 | 7–10% <br> 7–11 | 1–3% <br> 0 | 1–2% <br> 0 |
