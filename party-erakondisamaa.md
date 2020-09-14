@@ -10,7 +10,8 @@ Last result: **11.4%** (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.8% | 3.8–5.8% | 3.5–6.1% | 3.3–6.4% | 2.9–6.9% |
+| N/A | [Poll Average](average.html) | 5.1% | 4.3–6.0% | 4.1–6.3% | 3.9–6.5% | 3.6–7.1% |
+| [2–9 September 2020](2020-09-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 4.6% | N/A | N/A | N/A | N/A |
 | [25–31 August 2020](2020-08-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
 | [1–31 August 2020](2020-08-31-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 4.9% | 4.2–5.8% | 4.0–6.0% | 3.8–6.2% | 3.5–6.7% |
 | [17–25 August 2020](2020-08-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 5.8% | 5.0–6.9% | 4.7–7.2% | 4.5–7.4% | 4.1–8.0% |
@@ -127,10 +128,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 5% | 100% |  |
-| 3.5–4.5% | 33% | 95% |  |
-| 4.5–5.5% | 44% | 62% | Median |
-| 5.5–6.5% | 16% | 17% |  |
+| 2.5–3.5% | 0.5% | 100% |  |
+| 3.5–4.5% | 20% | 99.5% |  |
+| 4.5–5.5% | 54% | 79% | Median |
+| 5.5–6.5% | 23% | 25% |  |
 | 6.5–7.5% | 2% | 2% |  |
 | 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
@@ -146,7 +147,8 @@ Last result: **12** seats (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–5 | 0–5 | 0–6 | 0–6 |
+| N/A | [Poll Average](average.html) | 0 | 0–5 | 0–6 | 0–6 | 0–6 |
+| [2–9 September 2020](2020-09-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [25–31 August 2020](2020-08-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [1–31 August 2020](2020-08-31-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 0 | 0–5 | 0–5 | 0–6 | 0–6 |
 | [17–25 August 2020](2020-08-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 5 | 0–6 | 0–7 | 0–7 | 0–7 |
@@ -163,8 +165,8 @@ Last result: **12** seats (General Election of 3 March 2019)
 | [16–22 June 2020](2020-06-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 5 | 0–6 | 0–6 | 0–7 | 0–7 |
 | [9–16 June 2020](2020-06-16-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 5 | 4–6 | 0–7 | 0–7 | 0–8 |
 | [9–15 June 2020](2020-06-15-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 0 | 0 | 0 | 0 | 0 |
-| [1–8 June 2020](2020-06-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0–6 | 0–6 | 0–6 |
-| [25 May–1 June 2020](2020-06-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 5 | 5–6 | 5–6 | 5–6 | 0–6 |
+| [1–8 June 2020](2020-06-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0–5 | 0–5 | 0–6 | 0–6 |
+| [25 May–1 June 2020](2020-06-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 5 | 0–6 | 0–6 | 0–6 | 0–7 |
 | [18–25 May 2020](2020-05-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 6 | 5–7 | 5–7 | 4–8 | 0–8 |
 | [14–20 May 2020](2020-05-20-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 0 | 0 | 0 | 0–5 | 0–5 |
 | [12–18 May 2020](2020-05-18-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
@@ -264,14 +266,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 67% | 100% | Median |
-| 1 | 0% | 33% |  |
-| 2 | 0% | 33% |  |
-| 3 | 0% | 33% |  |
-| 4 | 9% | 33% |  |
-| 5 | 19% | 24% |  |
-| 6 | 4% | 4% |  |
-| 7 | 0.3% | 0.3% |  |
+| 0 | 55% | 100% | Median |
+| 1 | 0% | 45% |  |
+| 2 | 0% | 45% |  |
+| 3 | 0% | 45% |  |
+| 4 | 11% | 45% |  |
+| 5 | 27% | 33% |  |
+| 6 | 6% | 6% |  |
+| 7 | 0.5% | 0.5% |  |
 | 8 | 0% | 0% |  |
 | 9 | 0% | 0% |  |
 | 10 | 0% | 0% |  |
