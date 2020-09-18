@@ -6,12 +6,28 @@
     <description>All Registered Polls for the Riigikogu</description>
     <pubDate>Fri, 17 Jul 2020 21:31:09 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 2–9 September 2020 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/estonian_polls/2020-09-09-Norstat.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the Riigikogu<br/>51 seats needed for a majority<br/>Opinion poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 2–9 September 2020<br/>Details on https://filipvanlaenen.github.io/estonian_polls/2020-09-09-Norstat.html<br/><img src="https://filipvanlaenen.github.io/estonian_polls/2020-09-09-Norstat-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2020-09-09-Norstat-seating-plan.png" length="495007" type="image/png"/>
+      <pubDate>Fri, 18 Sep 2020 09:51:57 +0200</pubDate>
+      <dc:date>2020-09-18T09:51:57.418985+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 2–9 September 2020 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/estonian_polls/2020-09-09-Norstat.html#seats</link>
+      <description><![CDATA[Seat projections for the Riigikogu<br/>51 seats needed for a majority<br/>Opinion poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 2–9 September 2020<br/>Details on https://filipvanlaenen.github.io/estonian_polls/2020-09-09-Norstat.html<br/><img src="https://filipvanlaenen.github.io/estonian_polls/2020-09-09-Norstat-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2020-09-09-Norstat-seats.png" length="208547" type="image/png"/>
+      <pubDate>Fri, 18 Sep 2020 09:51:57 +0200</pubDate>
+      <dc:date>2020-09-18T09:51:57.418985+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 2–9 September 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_polls/2020-09-09-Norstat.html</link>
       <description><![CDATA[Voting intentions for the Riigikogu<br/>Opinion poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 2–9 September 2020<br/>Details on https://filipvanlaenen.github.io/estonian_polls/2020-09-09-Norstat.html<br/><img src="https://filipvanlaenen.github.io/estonian_polls/2020-09-09-Norstat.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2020-09-09-Norstat.png" length="254200" type="image/png"/>
-      <pubDate>Tue, 15 Sep 2020 07:27:26 +0200</pubDate>
-      <dc:date>2020-09-15T07:27:26.880846+02:00</dc:date>
+      <pubDate>Fri, 18 Sep 2020 09:51:57 +0200</pubDate>
+      <dc:date>2020-09-18T09:51:57.418985+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 25–31 August 2020 – Seating Plan Projection</title>
@@ -204,30 +220,6 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2020-07-28-Norstat.png" length="270955" type="image/png"/>
       <pubDate>Sun, 9 Aug 2020 21:34:36 +0200</pubDate>
       <dc:date>2020-08-09T21:34:36.577034+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar Emor for BNS and Postimees, 16–22 July 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/estonian_polls/2020-07-22-KantarEmor.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Riigikogu<br/>51 seats needed for a majority<br/>Opinion poll by Kantar Emor for BNS and Postimees, 16–22 July 2020<br/>Details on https://filipvanlaenen.github.io/estonian_polls/2020-07-22-KantarEmor.html<br/><img src="https://filipvanlaenen.github.io/estonian_polls/2020-07-22-KantarEmor-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2020-07-22-KantarEmor-seating-plan.png" length="491256" type="image/png"/>
-      <pubDate>Mon, 10 Aug 2020 18:08:25 +0200</pubDate>
-      <dc:date>2020-08-10T18:08:25.671644+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar Emor for BNS and Postimees, 16–22 July 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/estonian_polls/2020-07-22-KantarEmor.html#seats</link>
-      <description><![CDATA[Seat projections for the Riigikogu<br/>51 seats needed for a majority<br/>Opinion poll by Kantar Emor for BNS and Postimees, 16–22 July 2020<br/>Details on https://filipvanlaenen.github.io/estonian_polls/2020-07-22-KantarEmor.html<br/><img src="https://filipvanlaenen.github.io/estonian_polls/2020-07-22-KantarEmor-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2020-07-22-KantarEmor-seats.png" length="223604" type="image/png"/>
-      <pubDate>Mon, 10 Aug 2020 18:08:25 +0200</pubDate>
-      <dc:date>2020-08-10T18:08:25.671644+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar Emor for BNS and Postimees, 16–22 July 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/estonian_polls/2020-07-22-KantarEmor.html</link>
-      <description><![CDATA[Voting intentions for the Riigikogu<br/>Opinion poll by Kantar Emor for BNS and Postimees, 16–22 July 2020<br/>Details on https://filipvanlaenen.github.io/estonian_polls/2020-07-22-KantarEmor.html<br/><img src="https://filipvanlaenen.github.io/estonian_polls/2020-07-22-KantarEmor.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2020-07-22-KantarEmor.png" length="265733" type="image/png"/>
-      <pubDate>Mon, 10 Aug 2020 18:08:25 +0200</pubDate>
-      <dc:date>2020-08-10T18:08:25.671644+02:00</dc:date>
     </item>
   </channel>
 </rss>
