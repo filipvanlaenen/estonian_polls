@@ -10,7 +10,8 @@ Last result: **28.9%** (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30.8% | 26.3–33.2% | 25.6–33.8% | 25.1–34.3% | 24.1–35.2% |
+| N/A | [Poll Average](average.html) | 32.0% | 26.3–35.9% | 25.6–36.7% | 25.1–37.3% | 24.1–38.4% |
+| [28 September–5 October 2020](2020-10-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 35.1% | 33.2–37.1% | 32.7–37.6% | 32.2–38.1% | 31.3–39.1% |
 | [1–30 September 2020](2020-09-30-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 32.0% | 30.4–33.7% | 29.9–34.2% | 29.5–34.6% | 28.7–35.5% |
 | [23–28 September 2020](2020-09-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 31.4% | 29.6–33.3% | 29.0–33.9% | 28.6–34.4% | 27.7–35.3% |
 | [15–21 September 2020](2020-09-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 34.7% | 32.8–36.7% | 32.3–37.2% | 31.8–37.7% | 30.9–38.7% |
@@ -138,16 +139,20 @@ The following table shows the probability mass function per percentage block of 
 | 24.5–25.5% | 3% | 98.9% |  |
 | 25.5–26.5% | 7% | 95% |  |
 | 26.5–27.5% | 9% | 88% |  |
-| 27.5–28.5% | 8% | 79% |  |
-| 28.5–29.5% | 7% | 71% | Last Result |
-| 29.5–30.5% | 10% | 64% |  |
-| 30.5–31.5% | 17% | 54% | Median |
-| 31.5–32.5% | 18% | 37% |  |
-| 32.5–33.5% | 12% | 19% |  |
-| 33.5–34.5% | 5% | 7% |  |
-| 34.5–35.5% | 1.3% | 2% |  |
-| 35.5–36.5% | 0.2% | 0.2% |  |
-| 36.5–37.5% | 0% | 0% |  |
+| 27.5–28.5% | 7% | 79% |  |
+| 28.5–29.5% | 4% | 71% | Last Result |
+| 29.5–30.5% | 4% | 67% |  |
+| 30.5–31.5% | 8% | 63% |  |
+| 31.5–32.5% | 11% | 55% | Median |
+| 32.5–33.5% | 11% | 43% |  |
+| 33.5–34.5% | 10% | 33% |  |
+| 34.5–35.5% | 9% | 23% |  |
+| 35.5–36.5% | 7% | 13% |  |
+| 36.5–37.5% | 4% | 6% |  |
+| 37.5–38.5% | 1.4% | 2% |  |
+| 38.5–39.5% | 0.4% | 0.4% |  |
+| 39.5–40.5% | 0.1% | 0.1% |  |
+| 40.5–41.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -158,7 +163,8 @@ Last result: **34** seats (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 36 | 31–39 | 30–40 | 29–41 | 28–42 |
+| N/A | [Poll Average](average.html) | 37 | 31–42 | 30–43 | 29–43 | 28–45 |
+| [28 September–5 October 2020](2020-10-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 40 | 38–43 | 37–44 | 37–44 | 36–46 |
 | [1–30 September 2020](2020-09-30-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 37 | 35–39 | 35–40 | 34–41 | 33–42 |
 | [23–28 September 2020](2020-09-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 38 | 35–40 | 34–41 | 34–42 | 32–43 |
 | [15–21 September 2020](2020-09-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 42 | 39–45 | 39–46 | 38–47 | 37–48 |
@@ -290,17 +296,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 31 | 7% | 92% |  |
 | 32 | 7% | 85% |  |
 | 33 | 5% | 78% |  |
-| 34 | 7% | 73% | Last Result |
-| 35 | 8% | 66% |  |
-| 36 | 12% | 58% | Median |
-| 37 | 15% | 46% |  |
-| 38 | 13% | 32% |  |
-| 39 | 9% | 19% |  |
-| 40 | 5% | 9% |  |
-| 41 | 3% | 4% |  |
-| 42 | 1.0% | 1.5% |  |
-| 43 | 0.3% | 0.4% |  |
-| 44 | 0.1% | 0.2% |  |
-| 45 | 0% | 0% |  |
+| 34 | 5% | 74% | Last Result |
+| 35 | 5% | 68% |  |
+| 36 | 7% | 63% |  |
+| 37 | 10% | 55% | Median |
+| 38 | 12% | 45% |  |
+| 39 | 8% | 33% |  |
+| 40 | 8% | 25% |  |
+| 41 | 7% | 17% |  |
+| 42 | 5% | 10% |  |
+| 43 | 3% | 5% |  |
+| 44 | 2% | 2% |  |
+| 45 | 0.4% | 0.7% |  |
+| 46 | 0.2% | 0.3% |  |
+| 47 | 0% | 0.1% |  |
+| 48 | 0% | 0% |  |
 
 
