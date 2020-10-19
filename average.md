@@ -9,8 +9,8 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | Ref | Kesk | EKRE | I | SDE | E200 | Rohelised | EVA |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 3 March 2019 | General Election | 28.9% <br> 34 | 23.1% <br> 26 | 17.8% <br> 19 | 11.4% <br> 12 | 9.8% <br> 10 | 4.4% <br> 0 | 1.8% <br> 0 | 1.2% <br> 0 |
-| N/A | Poll Average | 25–37% <br> 29–43 | 16–26% <br> 18–31 | 12–18% <br> 12–20 | 4–7% <br> 0–7 | 8–14% <br> 8–14 | 7–14% <br> 6–15 | 2–4% <br> 0 | 1–4% <br> 0 |
-| [28 September–5 October 2020](2020-10-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 32–38% <br> 37–44 | 19–24% <br> 20–26 | 14–18% <br> 14–19 | 4–7% <br> 0–7 | 8–12% <br> 7–11 | 7–10% <br> 6–10 | 1–3% <br> 0 | 1–2% <br> 0 |
+| N/A | Poll Average | 25–35% <br> 29–41 | 16–26% <br> 18–31 | 12–20% <br> 12–22 | 4–7% <br> 0–7 | 8–14% <br> 8–14 | 7–14% <br> 6–15 | 2–4% <br> 0 | 0–4% <br> 0 |
+| [6–13 October 2020](2020-10-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 29–35% <br> 34–42 | 20–25% <br> 22–29 | 16–21% <br> 17–23 | 3–6% <br> 0–5 | 7–11% <br> 7–11 | 6–10% <br> 6–9 | 3–5% <br> 0 | 0–1% <br> 0 |
 | [1–30 September 2020](2020-09-30-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 30–35% <br> 34–41 | 16–20% <br> 17–22 | 11–15% <br> 11–16 | 5–7% <br> 0–7 | 10–14% <br> 10–15 | 11–15% <br> 11–16 | 2–4% <br> 0 | 1–3% <br> 0 |
 | [7–17 September 2020](2020-09-17-Turu-uuringuteAS.html) | Turu-uuringute AS | 24–30% <br> 28–36 | 21–27% <br> 24–32 | 14–18% <br> 15–21 | 4–7% <br> 0–6 | 9–13% <br> 9–14 | 7–11% <br> 7–11 | 2–4% <br> 0 | 2–4% <br> 0 |
 | 3 March 2019 | General Election | 28.9% <br> 34 | 23.1% <br> 26 | 17.8% <br> 19 | 11.4% <br> 12 | 9.8% <br> 10 | 4.4% <br> 0 | 1.8% <br> 0 | 1.2% <br> 0 |
@@ -39,14 +39,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#eesti-reformierakond">Eesti Reformierakond</a> | 28.9% | 32.0% | 26.3–35.9% |25.6–36.7% | 25.1–37.3% | 24.1–38.4% |
-| <a href="#eesti-keskerakond">Eesti Keskerakond</a> | 23.1% | 21.2% | 17.4–24.7% |16.9–25.4% | 16.5–26.0% | 15.8–27.0% |
-| <a href="#eesti-konservatiivne-rahvaerakond">Eesti Konservatiivne Rahvaerakond</a> | 17.8% | 15.2% | 12.6–17.1% |12.1–17.6% | 11.7–18.1% | 11.1–18.9% |
-| <a href="#erakond-isamaa">Erakond Isamaa</a> | 11.4% | 5.7% | 4.6–6.7% |4.4–7.0% | 4.1–7.3% | 3.7–7.8% |
-| <a href="#sotsiaaldemokraatlik-erakond">Sotsiaaldemokraatlik Erakond</a> | 9.8% | 11.0% | 9.1–12.7% |8.7–13.1% | 8.4–13.5% | 7.8–14.2% |
-| <a href="#eesti-200">Eesti 200</a> | 4.4% | 9.3% | 7.6–13.6% |7.2–14.0% | 6.9–14.5% | 6.4–15.2% |
-| <a href="#erakond-eestimaa-rohelised">Erakond Eestimaa Rohelised</a> | 1.8% | 2.8% | 2.0–3.6% |1.8–3.8% | 1.7–4.0% | 1.4–4.5% |
-| <a href="#eesti-vabaerakond">Eesti Vabaerakond</a> | 1.2% | 2.1% | 1.3–3.3% |1.1–3.6% | 1.0–3.9% | 0.8–4.4% |
+| <a href="#eesti-reformierakond">Eesti Reformierakond</a> | 28.9% | 31.2% | 26.3–33.6% |25.6–34.2% | 25.1–34.7% | 24.1–35.6% |
+| <a href="#eesti-keskerakond">Eesti Keskerakond</a> | 23.1% | 22.1% | 17.5–24.8% |16.9–25.5% | 16.5–26.0% | 15.8–27.0% |
+| <a href="#eesti-konservatiivne-rahvaerakond">Eesti Konservatiivne Rahvaerakond</a> | 17.8% | 16.0% | 12.6–18.8% |12.1–19.4% | 11.7–19.9% | 11.1–20.9% |
+| <a href="#erakond-isamaa">Erakond Isamaa</a> | 11.4% | 5.2% | 4.0–6.5% |3.8–6.8% | 3.6–7.1% | 3.2–7.6% |
+| <a href="#sotsiaaldemokraatlik-erakond">Sotsiaaldemokraatlik Erakond</a> | 9.8% | 10.9% | 8.6–12.7% |8.1–13.1% | 7.8–13.5% | 7.2–14.2% |
+| <a href="#eesti-200">Eesti 200</a> | 4.4% | 9.2% | 7.3–13.6% |6.9–14.0% | 6.6–14.5% | 6.1–15.2% |
+| <a href="#erakond-eestimaa-rohelised">Erakond Eestimaa Rohelised</a> | 1.8% | 3.2% | 2.5–4.0% |2.3–4.3% | 2.2–4.5% | 1.9–5.0% |
+| <a href="#eesti-vabaerakond">Eesti Vabaerakond</a> | 1.2% | 2.0% | 0.5–3.3% |0.4–3.6% | 0.4–3.9% | 0.3–4.4% |
 
 ### Eesti Reformierakond
 
@@ -61,19 +61,16 @@ Only polls for which at least the sample size has been published are included in
 | 25.5–26.5% | 7% | 95% |  |
 | 26.5–27.5% | 9% | 88% |  |
 | 27.5–28.5% | 7% | 79% |  |
-| 28.5–29.5% | 4% | 71% | Last Result |
-| 29.5–30.5% | 4% | 67% |  |
-| 30.5–31.5% | 8% | 63% |  |
-| 31.5–32.5% | 11% | 55% | Median |
-| 32.5–33.5% | 11% | 43% |  |
-| 33.5–34.5% | 10% | 33% |  |
-| 34.5–35.5% | 9% | 23% |  |
-| 35.5–36.5% | 7% | 13% |  |
-| 36.5–37.5% | 4% | 6% |  |
-| 37.5–38.5% | 1.4% | 2% |  |
-| 38.5–39.5% | 0.4% | 0.4% |  |
-| 39.5–40.5% | 0.1% | 0.1% |  |
-| 40.5–41.5% | 0% | 0% |  |
+| 28.5–29.5% | 5% | 71% | Last Result |
+| 29.5–30.5% | 7% | 66% |  |
+| 30.5–31.5% | 14% | 59% | Median |
+| 31.5–32.5% | 19% | 44% |  |
+| 32.5–33.5% | 15% | 25% |  |
+| 33.5–34.5% | 7% | 10% |  |
+| 34.5–35.5% | 2% | 3% |  |
+| 35.5–36.5% | 0.5% | 0.6% |  |
+| 36.5–37.5% | 0.1% | 0.1% |  |
+| 37.5–38.5% | 0% | 0% |  |
 
 ### Eesti Keskerakond
 
@@ -86,16 +83,16 @@ Only polls for which at least the sample size has been published are included in
 | 15.5–16.5% | 2% | 99.7% |  |
 | 16.5–17.5% | 8% | 97% |  |
 | 17.5–18.5% | 12% | 89% |  |
-| 18.5–19.5% | 10% | 77% |  |
-| 19.5–20.5% | 9% | 66% |  |
-| 20.5–21.5% | 11% | 57% | Median |
-| 21.5–22.5% | 12% | 46% |  |
-| 22.5–23.5% | 12% | 34% | Last Result |
-| 23.5–24.5% | 11% | 22% |  |
-| 24.5–25.5% | 7% | 12% |  |
-| 25.5–26.5% | 3% | 4% |  |
-| 26.5–27.5% | 0.9% | 1.0% |  |
-| 27.5–28.5% | 0.1% | 0.2% |  |
+| 18.5–19.5% | 8% | 77% |  |
+| 19.5–20.5% | 5% | 69% |  |
+| 20.5–21.5% | 8% | 64% |  |
+| 21.5–22.5% | 13% | 57% | Median |
+| 22.5–23.5% | 16% | 43% | Last Result |
+| 23.5–24.5% | 14% | 27% |  |
+| 24.5–25.5% | 8% | 13% |  |
+| 25.5–26.5% | 3% | 5% |  |
+| 26.5–27.5% | 0.9% | 1.1% |  |
+| 27.5–28.5% | 0.2% | 0.2% |  |
 | 28.5–29.5% | 0% | 0% |  |
 
 ### Eesti Konservatiivne Rahvaerakond
@@ -108,15 +105,17 @@ Only polls for which at least the sample size has been published are included in
 | 9.5–10.5% | 0.1% | 100% |  |
 | 10.5–11.5% | 2% | 99.9% |  |
 | 11.5–12.5% | 8% | 98% |  |
-| 12.5–13.5% | 15% | 90% |  |
-| 13.5–14.5% | 15% | 76% |  |
-| 14.5–15.5% | 19% | 61% | Median |
-| 15.5–16.5% | 22% | 42% |  |
-| 16.5–17.5% | 14% | 20% |  |
-| 17.5–18.5% | 5% | 6% | Last Result |
-| 18.5–19.5% | 0.9% | 1.0% |  |
-| 19.5–20.5% | 0.1% | 0.1% |  |
-| 20.5–21.5% | 0% | 0% |  |
+| 12.5–13.5% | 14% | 90% |  |
+| 13.5–14.5% | 11% | 76% |  |
+| 14.5–15.5% | 10% | 66% |  |
+| 15.5–16.5% | 14% | 56% | Median |
+| 16.5–17.5% | 15% | 42% |  |
+| 17.5–18.5% | 14% | 27% | Last Result |
+| 18.5–19.5% | 9% | 13% |  |
+| 19.5–20.5% | 3% | 4% |  |
+| 20.5–21.5% | 0.8% | 0.9% |  |
+| 21.5–22.5% | 0.1% | 0.1% |  |
+| 22.5–23.5% | 0% | 0% |  |
 
 ### Erakond Isamaa
 
@@ -125,12 +124,12 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.2% | 100% |  |
-| 3.5–4.5% | 8% | 99.8% |  |
-| 4.5–5.5% | 36% | 92% |  |
-| 5.5–6.5% | 42% | 55% | Median |
-| 6.5–7.5% | 12% | 13% |  |
-| 7.5–8.5% | 1.0% | 1.1% |  |
+| 2.5–3.5% | 2% | 100% |  |
+| 3.5–4.5% | 23% | 98% |  |
+| 4.5–5.5% | 38% | 74% | Median |
+| 5.5–6.5% | 28% | 37% |  |
+| 6.5–7.5% | 8% | 9% |  |
+| 7.5–8.5% | 0.6% | 0.6% |  |
 | 8.5–9.5% | 0% | 0% |  |
 | 9.5–10.5% | 0% | 0% |  |
 | 10.5–11.5% | 0% | 0% | Last Result |
@@ -142,11 +141,11 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.2% | 100% |  |
-| 7.5–8.5% | 4% | 99.7% |  |
-| 8.5–9.5% | 13% | 96% |  |
-| 9.5–10.5% | 22% | 83% | Last Result |
-| 10.5–11.5% | 26% | 61% | Median |
+| 6.5–7.5% | 1.3% | 100% |  |
+| 7.5–8.5% | 8% | 98.7% |  |
+| 8.5–9.5% | 16% | 90% |  |
+| 9.5–10.5% | 18% | 74% | Last Result |
+| 10.5–11.5% | 23% | 57% | Median |
 | 11.5–12.5% | 22% | 34% |  |
 | 12.5–13.5% | 10% | 12% |  |
 | 13.5–14.5% | 2% | 2% |  |
@@ -160,13 +159,13 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% | Last Result |
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.8% | 100% |  |
-| 6.5–7.5% | 8% | 99.2% |  |
-| 7.5–8.5% | 23% | 91% |  |
-| 8.5–9.5% | 23% | 68% | Median |
-| 9.5–10.5% | 10% | 45% |  |
-| 10.5–11.5% | 4% | 35% |  |
+| 4.5–5.5% | 0.1% | 100% |  |
+| 5.5–6.5% | 2% | 99.9% |  |
+| 6.5–7.5% | 12% | 98% |  |
+| 7.5–8.5% | 22% | 85% |  |
+| 8.5–9.5% | 19% | 63% | Median |
+| 9.5–10.5% | 9% | 44% |  |
+| 10.5–11.5% | 3% | 35% |  |
 | 11.5–12.5% | 8% | 32% |  |
 | 12.5–13.5% | 14% | 24% |  |
 | 13.5–14.5% | 8% | 10% |  |
@@ -180,13 +179,13 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 1.5% | 100% |  |
-| 1.5–2.5% | 33% | 98.5% | Last Result |
-| 2.5–3.5% | 54% | 66% | Median |
-| 3.5–4.5% | 11% | 12% |  |
-| 4.5–5.5% | 0.3% | 0.3% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 11% | 100% | Last Result |
+| 2.5–3.5% | 61% | 89% | Median |
+| 3.5–4.5% | 26% | 28% |  |
+| 4.5–5.5% | 2% | 2% |  |
+| 5.5–6.5% | 0.1% | 0.1% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 ### Eesti Vabaerakond
 
@@ -194,10 +193,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 23% | 100% | Last Result |
-| 1.5–2.5% | 45% | 77% | Median |
-| 2.5–3.5% | 26% | 32% |  |
+| 0.0–0.5% | 10% | 100% |  |
+| 0.5–1.5% | 26% | 90% | Last Result |
+| 1.5–2.5% | 32% | 64% | Median |
+| 2.5–3.5% | 25% | 31% |  |
 | 3.5–4.5% | 6% | 6% |  |
 | 4.5–5.5% | 0.2% | 0.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
@@ -213,13 +212,13 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#eesti-reformierakond">Eesti Reformierakond</a> | 34 | 37 | 31–42 |30–43 | 29–43 | 28–45 |
-| <a href="#eesti-keskerakond">Eesti Keskerakond</a> | 26 | 23 | 19–29 |18–30 | 18–31 | 17–32 |
-| <a href="#eesti-konservatiivne-rahvaerakond">Eesti Konservatiivne Rahvaerakond</a> | 19 | 16 | 13–19 |12–19 | 12–20 | 11–21 |
+| <a href="#eesti-reformierakond">Eesti Reformierakond</a> | 34 | 37 | 31–40 |30–40 | 29–41 | 28–42 |
+| <a href="#eesti-keskerakond">Eesti Keskerakond</a> | 26 | 25 | 19–29 |18–30 | 18–31 | 17–32 |
+| <a href="#eesti-konservatiivne-rahvaerakond">Eesti Konservatiivne Rahvaerakond</a> | 19 | 18 | 13–21 |12–21 | 12–22 | 11–23 |
 | <a href="#erakond-isamaa">Erakond Isamaa</a> | 12 | 5 | 0–6 |0–6 | 0–7 | 0–7 |
-| <a href="#sotsiaaldemokraatlik-erakond">Sotsiaaldemokraatlik Erakond</a> | 10 | 11 | 9–13 |8–14 | 8–14 | 7–15 |
-| <a href="#eesti-200">Eesti 200</a> | 0 | 9 | 7–14 |7–15 | 6–15 | 6–16 |
-| <a href="#erakond-eestimaa-rohelised">Erakond Eestimaa Rohelised</a> | 0 | 0 | 0 |0 | 0 | 0 |
+| <a href="#sotsiaaldemokraatlik-erakond">Sotsiaaldemokraatlik Erakond</a> | 10 | 11 | 8–13 |8–14 | 8–14 | 7–15 |
+| <a href="#eesti-200">Eesti 200</a> | 0 | 9 | 7–14 |7–15 | 6–15 | 5–16 |
+| <a href="#erakond-eestimaa-rohelised">Erakond Eestimaa Rohelised</a> | 0 | 0 | 0 |0 | 0 | 0–4 |
 | <a href="#eesti-vabaerakond">Eesti Vabaerakond</a> | 0 | 0 | 0 |0 | 0 | 0 |
 
 ### Eesti Reformierakond
@@ -238,21 +237,18 @@ Only polls for which at least the sample size has been published are included in
 | 31 | 7% | 92% |  |
 | 32 | 7% | 85% |  |
 | 33 | 5% | 78% |  |
-| 34 | 5% | 74% | Last Result |
-| 35 | 5% | 68% |  |
-| 36 | 7% | 63% |  |
-| 37 | 10% | 55% | Median |
-| 38 | 12% | 45% |  |
-| 39 | 8% | 33% |  |
-| 40 | 8% | 25% |  |
-| 41 | 7% | 17% |  |
-| 42 | 5% | 10% |  |
-| 43 | 3% | 5% |  |
-| 44 | 2% | 2% |  |
-| 45 | 0.4% | 0.7% |  |
-| 46 | 0.2% | 0.3% |  |
-| 47 | 0% | 0.1% |  |
-| 48 | 0% | 0% |  |
+| 34 | 6% | 74% | Last Result |
+| 35 | 6% | 67% |  |
+| 36 | 9% | 61% |  |
+| 37 | 16% | 52% | Median |
+| 38 | 20% | 36% |  |
+| 39 | 4% | 16% |  |
+| 40 | 8% | 12% |  |
+| 41 | 2% | 4% |  |
+| 42 | 0.8% | 1.2% |  |
+| 43 | 0.2% | 0.3% |  |
+| 44 | 0.2% | 0.2% |  |
+| 45 | 0% | 0% |  |
 
 ### Eesti Keskerakond
 
@@ -264,18 +260,18 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 16 | 0.3% | 100% |  |
 | 17 | 2% | 99.7% |  |
-| 18 | 6% | 98% |  |
-| 19 | 12% | 92% |  |
-| 20 | 9% | 80% |  |
-| 21 | 10% | 71% |  |
-| 22 | 6% | 61% |  |
-| 23 | 4% | 54% | Median |
-| 24 | 11% | 50% |  |
-| 25 | 8% | 39% |  |
-| 26 | 5% | 31% | Last Result |
-| 27 | 9% | 26% |  |
-| 28 | 5% | 18% |  |
-| 29 | 5% | 13% |  |
+| 18 | 5% | 98% |  |
+| 19 | 11% | 92% |  |
+| 20 | 8% | 81% |  |
+| 21 | 5% | 73% |  |
+| 22 | 3% | 69% |  |
+| 23 | 4% | 66% |  |
+| 24 | 3% | 61% |  |
+| 25 | 14% | 58% | Median |
+| 26 | 8% | 45% | Last Result |
+| 27 | 16% | 36% |  |
+| 28 | 6% | 20% |  |
+| 29 | 7% | 14% |  |
 | 30 | 4% | 7% |  |
 | 31 | 2% | 3% |  |
 | 32 | 0.8% | 1.1% |  |
@@ -295,16 +291,19 @@ Only polls for which at least the sample size has been published are included in
 | 11 | 1.1% | 99.9% |  |
 | 12 | 6% | 98.8% |  |
 | 13 | 11% | 93% |  |
-| 14 | 12% | 82% |  |
-| 15 | 13% | 69% |  |
-| 16 | 16% | 57% | Median |
-| 17 | 13% | 41% |  |
-| 18 | 17% | 28% |  |
-| 19 | 7% | 11% | Last Result |
-| 20 | 3% | 4% |  |
-| 21 | 1.1% | 1.4% |  |
-| 22 | 0.3% | 0.3% |  |
-| 23 | 0% | 0% |  |
+| 14 | 10% | 82% |  |
+| 15 | 7% | 73% |  |
+| 16 | 6% | 65% |  |
+| 17 | 7% | 60% |  |
+| 18 | 15% | 52% | Median |
+| 19 | 18% | 37% | Last Result |
+| 20 | 6% | 20% |  |
+| 21 | 10% | 13% |  |
+| 22 | 2% | 4% |  |
+| 23 | 1.0% | 1.4% |  |
+| 24 | 0.3% | 0.4% |  |
+| 25 | 0.1% | 0.1% |  |
+| 26 | 0% | 0% |  |
 
 ### Erakond Isamaa
 
@@ -314,15 +313,15 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 23% | 100% |  |
-| 1 | 0% | 77% |  |
-| 2 | 0% | 77% |  |
-| 3 | 0% | 77% |  |
-| 4 | 5% | 77% |  |
-| 5 | 46% | 72% | Median |
-| 6 | 22% | 26% |  |
-| 7 | 4% | 4% |  |
-| 8 | 0.2% | 0.2% |  |
+| 0 | 41% | 100% |  |
+| 1 | 0% | 59% |  |
+| 2 | 0% | 59% |  |
+| 3 | 0% | 59% |  |
+| 4 | 8% | 59% |  |
+| 5 | 34% | 52% | Median |
+| 6 | 15% | 18% |  |
+| 7 | 3% | 3% |  |
+| 8 | 0.1% | 0.2% |  |
 | 9 | 0% | 0% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
@@ -336,12 +335,12 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.1% | 100% |  |
-| 7 | 1.3% | 99.9% |  |
-| 8 | 8% | 98.6% |  |
-| 9 | 13% | 91% |  |
-| 10 | 16% | 78% | Last Result |
-| 11 | 21% | 62% | Median |
+| 6 | 0.2% | 100% |  |
+| 7 | 2% | 99.8% |  |
+| 8 | 14% | 98% |  |
+| 9 | 10% | 84% |  |
+| 10 | 14% | 73% | Last Result |
+| 11 | 20% | 60% | Median |
 | 12 | 19% | 40% |  |
 | 13 | 15% | 21% |  |
 | 14 | 4% | 6% |  |
@@ -362,12 +361,12 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.3% | 100% |  |
-| 6 | 3% | 99.7% |  |
-| 7 | 12% | 96% |  |
-| 8 | 20% | 84% |  |
-| 9 | 18% | 64% | Median |
-| 10 | 9% | 46% |  |
+| 5 | 0.8% | 100% |  |
+| 6 | 3% | 99.2% |  |
+| 7 | 18% | 96% |  |
+| 8 | 14% | 78% |  |
+| 9 | 19% | 65% | Median |
+| 10 | 8% | 45% |  |
 | 11 | 4% | 37% |  |
 | 12 | 4% | 33% |  |
 | 13 | 12% | 29% |  |
@@ -385,7 +384,13 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 99.4% | 100% | Last Result, Median |
+| 1 | 0% | 0.6% |  |
+| 2 | 0% | 0.6% |  |
+| 3 | 0% | 0.6% |  |
+| 4 | 0.1% | 0.6% |  |
+| 5 | 0.5% | 0.5% |  |
+| 6 | 0% | 0% |  |
 
 ### Eesti Vabaerakond
 
@@ -406,19 +411,19 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Eesti Reformierakond – Eesti Keskerakond – Eesti Konservatiivne Rahvaerakond | 79 | 77 | 100% | 69–81 | 68–83 | 68–84 | 67–86 |
-| Eesti Reformierakond – Eesti Keskerakond | 60 | 60 | 100% | 55–65 | 55–66 | 54–67 | 53–68 |
-| Eesti Reformierakond – Eesti Konservatiivne Rahvaerakond – Erakond Isamaa | 65 | 56 | 93% | 51–62 | 50–63 | 49–64 | 47–65 |
-| Eesti Reformierakond – Eesti Konservatiivne Rahvaerakond | 53 | 51 | 61% | 48–58 | 47–59 | 46–60 | 45–62 |
-| Eesti Reformierakond – Erakond Isamaa – Sotsiaaldemokraatlik Erakond – Eesti Vabaerakond | 56 | 53 | 66% | 45–56 | 43–57 | 43–58 | 41–59 |
-| Eesti Reformierakond – Erakond Isamaa – Sotsiaaldemokraatlik Erakond | 56 | 53 | 66% | 45–56 | 43–57 | 43–58 | 41–59 |
-| Eesti Reformierakond – Sotsiaaldemokraatlik Erakond | 44 | 48 | 20% | 42–52 | 41–52 | 40–53 | 39–55 |
-| Eesti Keskerakond – Eesti Konservatiivne Rahvaerakond – Erakond Isamaa | 57 | 44 | 6% | 37–50 | 36–51 | 35–52 | 33–53 |
-| Eesti Keskerakond – Eesti Konservatiivne Rahvaerakond | 45 | 40 | 0.6% | 32–47 | 31–48 | 31–49 | 29–51 |
-| Eesti Reformierakond – Erakond Isamaa | 46 | 42 | 0.1% | 33–46 | 32–47 | 31–48 | 29–49 |
-| Eesti Keskerakond – Erakond Isamaa – Sotsiaaldemokraatlik Erakond | 48 | 38 | 0% | 34–43 | 33–45 | 33–46 | 31–47 |
-| Eesti Keskerakond – Sotsiaaldemokraatlik Erakond | 36 | 33 | 0% | 30–41 | 29–42 | 29–43 | 28–44 |
-| Eesti Konservatiivne Rahvaerakond – Sotsiaaldemokraatlik Erakond | 29 | 27 | 0% | 24–30 | 23–31 | 23–32 | 22–33 |
+| Eesti Reformierakond – Eesti Keskerakond – Eesti Konservatiivne Rahvaerakond | 79 | 77 | 100% | 69–84 | 68–86 | 68–86 | 67–87 |
+| Eesti Reformierakond – Eesti Keskerakond | 60 | 60 | 100% | 55–64 | 55–66 | 54–67 | 53–68 |
+| Eesti Reformierakond – Eesti Konservatiivne Rahvaerakond – Erakond Isamaa | 65 | 56 | 93% | 51–61 | 50–61 | 49–62 | 47–64 |
+| Eesti Reformierakond – Eesti Konservatiivne Rahvaerakond | 53 | 51 | 61% | 48–59 | 47–60 | 46–61 | 45–63 |
+| Eesti Reformierakond – Erakond Isamaa – Sotsiaaldemokraatlik Erakond – Eesti Vabaerakond | 56 | 49 | 39% | 45–56 | 43–56 | 43–57 | 41–58 |
+| Eesti Reformierakond – Erakond Isamaa – Sotsiaaldemokraatlik Erakond | 56 | 49 | 39% | 45–56 | 43–56 | 43–57 | 41–58 |
+| Eesti Reformierakond – Sotsiaaldemokraatlik Erakond | 44 | 47 | 10% | 42–50 | 41–51 | 40–52 | 39–54 |
+| Eesti Keskerakond – Eesti Konservatiivne Rahvaerakond – Erakond Isamaa | 57 | 46 | 7% | 37–50 | 36–51 | 35–52 | 33–53 |
+| Eesti Keskerakond – Eesti Konservatiivne Rahvaerakond | 45 | 44 | 0.6% | 32–48 | 31–48 | 31–49 | 29–51 |
+| Eesti Keskerakond – Erakond Isamaa – Sotsiaaldemokraatlik Erakond | 48 | 37 | 0% | 34–43 | 33–45 | 32–46 | 31–47 |
+| Eesti Reformierakond – Erakond Isamaa | 46 | 39 | 0% | 33–44 | 32–44 | 31–45 | 29–46 |
+| Eesti Keskerakond – Sotsiaaldemokraatlik Erakond | 36 | 34 | 0% | 31–41 | 30–42 | 29–43 | 28–44 |
+| Eesti Konservatiivne Rahvaerakond – Sotsiaaldemokraatlik Erakond | 29 | 28 | 0% | 25–31 | 24–32 | 24–32 | 22–34 |
 
 ### Eesti Reformierakond – Eesti Keskerakond – Eesti Konservatiivne Rahvaerakond
 
@@ -437,18 +442,20 @@ Only polls for which at least the sample size has been published are included in
 | 73 | 2% | 69% |  |
 | 74 | 4% | 67% |  |
 | 75 | 4% | 63% |  |
-| 76 | 6% | 59% | Median |
-| 77 | 8% | 53% |  |
-| 78 | 10% | 45% |  |
-| 79 | 9% | 35% | Last Result |
-| 80 | 10% | 26% |  |
-| 81 | 8% | 16% |  |
-| 82 | 3% | 9% |  |
-| 83 | 2% | 5% |  |
-| 84 | 1.3% | 3% |  |
-| 85 | 0.7% | 1.3% |  |
-| 86 | 0.5% | 0.6% |  |
-| 87 | 0% | 0% |  |
+| 76 | 5% | 59% |  |
+| 77 | 5% | 54% |  |
+| 78 | 4% | 49% |  |
+| 79 | 5% | 45% | Last Result |
+| 80 | 6% | 40% | Median |
+| 81 | 5% | 35% |  |
+| 82 | 8% | 30% |  |
+| 83 | 5% | 23% |  |
+| 84 | 8% | 18% |  |
+| 85 | 3% | 10% |  |
+| 86 | 4% | 6% |  |
+| 87 | 2% | 2% |  |
+| 88 | 0.2% | 0.2% |  |
+| 89 | 0% | 0% |  |
 
 ### Eesti Reformierakond – Eesti Keskerakond
 
@@ -461,20 +468,20 @@ Only polls for which at least the sample size has been published are included in
 | 54 | 2% | 98.6% |  |
 | 55 | 7% | 96% |  |
 | 56 | 10% | 89% |  |
-| 57 | 9% | 79% |  |
+| 57 | 10% | 79% |  |
 | 58 | 9% | 70% |  |
 | 59 | 9% | 61% |  |
-| 60 | 8% | 52% | Last Result, Median |
-| 61 | 6% | 43% |  |
-| 62 | 11% | 37% |  |
-| 63 | 7% | 26% |  |
-| 64 | 8% | 19% |  |
-| 65 | 4% | 11% |  |
-| 66 | 3% | 6% |  |
-| 67 | 2% | 4% |  |
-| 68 | 1.1% | 2% |  |
-| 69 | 0.3% | 0.4% |  |
-| 70 | 0.1% | 0.2% |  |
+| 60 | 8% | 52% | Last Result |
+| 61 | 7% | 44% |  |
+| 62 | 7% | 38% | Median |
+| 63 | 15% | 31% |  |
+| 64 | 7% | 16% |  |
+| 65 | 3% | 10% |  |
+| 66 | 2% | 7% |  |
+| 67 | 4% | 5% |  |
+| 68 | 0.8% | 1.0% |  |
+| 69 | 0.1% | 0.2% |  |
+| 70 | 0.1% | 0.1% |  |
 | 71 | 0% | 0% |  |
 
 ### Eesti Reformierakond – Eesti Konservatiivne Rahvaerakond – Erakond Isamaa
@@ -493,19 +500,17 @@ Only polls for which at least the sample size has been published are included in
 | 53 | 7% | 83% |  |
 | 54 | 8% | 75% |  |
 | 55 | 12% | 67% |  |
-| 56 | 9% | 56% |  |
-| 57 | 9% | 46% |  |
-| 58 | 6% | 38% | Median |
-| 59 | 6% | 32% |  |
-| 60 | 5% | 25% |  |
-| 61 | 6% | 20% |  |
-| 62 | 7% | 14% |  |
-| 63 | 3% | 8% |  |
-| 64 | 3% | 4% |  |
-| 65 | 1.1% | 1.4% | Last Result |
-| 66 | 0.3% | 0.3% |  |
-| 67 | 0% | 0.1% |  |
-| 68 | 0% | 0% |  |
+| 56 | 13% | 55% |  |
+| 57 | 9% | 41% |  |
+| 58 | 9% | 32% |  |
+| 59 | 9% | 23% |  |
+| 60 | 3% | 14% | Median |
+| 61 | 7% | 11% |  |
+| 62 | 2% | 4% |  |
+| 63 | 0.8% | 2% |  |
+| 64 | 0.7% | 0.8% |  |
+| 65 | 0.1% | 0.1% | Last Result |
+| 66 | 0% | 0% |  |
 
 ### Eesti Reformierakond – Eesti Konservatiivne Rahvaerakond
 
@@ -523,18 +528,18 @@ Only polls for which at least the sample size has been published are included in
 | 50 | 16% | 77% |  |
 | 51 | 11% | 61% | Majority |
 | 52 | 9% | 50% |  |
-| 53 | 6% | 40% | Last Result, Median |
-| 54 | 5% | 35% |  |
-| 55 | 6% | 30% |  |
-| 56 | 6% | 24% |  |
-| 57 | 7% | 18% |  |
-| 58 | 3% | 11% |  |
-| 59 | 4% | 8% |  |
-| 60 | 2% | 4% |  |
-| 61 | 1.0% | 2% |  |
-| 62 | 0.5% | 0.7% |  |
-| 63 | 0.1% | 0.2% |  |
-| 64 | 0.1% | 0.1% |  |
+| 53 | 4% | 41% | Last Result |
+| 54 | 3% | 37% |  |
+| 55 | 3% | 34% | Median |
+| 56 | 5% | 31% |  |
+| 57 | 6% | 25% |  |
+| 58 | 6% | 19% |  |
+| 59 | 8% | 13% |  |
+| 60 | 2% | 6% |  |
+| 61 | 2% | 4% |  |
+| 62 | 0.9% | 1.5% |  |
+| 63 | 0.3% | 0.5% |  |
+| 64 | 0.3% | 0.3% |  |
 | 65 | 0% | 0% |  |
 
 ### Eesti Reformierakond – Erakond Isamaa – Sotsiaaldemokraatlik Erakond – Eesti Vabaerakond
@@ -547,22 +552,22 @@ Only polls for which at least the sample size has been published are included in
 | 41 | 0.6% | 99.8% |  |
 | 42 | 1.2% | 99.2% |  |
 | 43 | 3% | 98% |  |
-| 44 | 2% | 95% |  |
-| 45 | 5% | 93% |  |
-| 46 | 5% | 88% |  |
-| 47 | 6% | 83% |  |
-| 48 | 4% | 77% |  |
-| 49 | 3% | 72% |  |
-| 50 | 3% | 69% |  |
-| 51 | 4% | 66% | Majority |
-| 52 | 9% | 62% |  |
-| 53 | 11% | 53% | Median |
-| 54 | 10% | 42% |  |
-| 55 | 14% | 32% |  |
-| 56 | 10% | 18% | Last Result |
-| 57 | 6% | 9% |  |
-| 58 | 2% | 3% |  |
-| 59 | 0.7% | 0.8% |  |
+| 44 | 3% | 95% |  |
+| 45 | 9% | 91% |  |
+| 46 | 9% | 83% |  |
+| 47 | 9% | 73% |  |
+| 48 | 12% | 64% |  |
+| 49 | 6% | 52% |  |
+| 50 | 7% | 46% |  |
+| 51 | 4% | 39% | Majority |
+| 52 | 5% | 35% |  |
+| 53 | 6% | 31% | Median |
+| 54 | 6% | 25% |  |
+| 55 | 8% | 19% |  |
+| 56 | 6% | 10% | Last Result |
+| 57 | 3% | 4% |  |
+| 58 | 1.1% | 1.4% |  |
+| 59 | 0.3% | 0.4% |  |
 | 60 | 0.1% | 0.1% |  |
 | 61 | 0% | 0% |  |
 
@@ -576,22 +581,22 @@ Only polls for which at least the sample size has been published are included in
 | 41 | 0.6% | 99.8% |  |
 | 42 | 1.2% | 99.2% |  |
 | 43 | 3% | 98% |  |
-| 44 | 2% | 95% |  |
-| 45 | 5% | 93% |  |
-| 46 | 5% | 88% |  |
-| 47 | 6% | 83% |  |
-| 48 | 4% | 77% |  |
-| 49 | 3% | 72% |  |
-| 50 | 3% | 69% |  |
-| 51 | 4% | 66% | Majority |
-| 52 | 9% | 62% |  |
-| 53 | 11% | 53% | Median |
-| 54 | 10% | 42% |  |
-| 55 | 14% | 32% |  |
-| 56 | 10% | 18% | Last Result |
-| 57 | 6% | 9% |  |
-| 58 | 2% | 3% |  |
-| 59 | 0.7% | 0.8% |  |
+| 44 | 3% | 95% |  |
+| 45 | 9% | 91% |  |
+| 46 | 9% | 83% |  |
+| 47 | 9% | 73% |  |
+| 48 | 12% | 64% |  |
+| 49 | 6% | 52% |  |
+| 50 | 7% | 46% |  |
+| 51 | 4% | 39% | Majority |
+| 52 | 5% | 35% |  |
+| 53 | 6% | 31% | Median |
+| 54 | 6% | 25% |  |
+| 55 | 8% | 19% |  |
+| 56 | 6% | 10% | Last Result |
+| 57 | 3% | 4% |  |
+| 58 | 1.1% | 1.4% |  |
+| 59 | 0.3% | 0.4% |  |
 | 60 | 0.1% | 0.1% |  |
 | 61 | 0% | 0% |  |
 
@@ -606,23 +611,22 @@ Only polls for which at least the sample size has been published are included in
 | 39 | 0.7% | 99.7% |  |
 | 40 | 2% | 99.0% |  |
 | 41 | 4% | 97% |  |
-| 42 | 6% | 94% |  |
-| 43 | 6% | 87% |  |
-| 44 | 4% | 81% | Last Result |
-| 45 | 5% | 77% |  |
-| 46 | 5% | 71% |  |
-| 47 | 8% | 66% |  |
-| 48 | 13% | 58% | Median |
-| 49 | 13% | 45% |  |
-| 50 | 12% | 32% |  |
-| 51 | 10% | 20% | Majority |
-| 52 | 6% | 11% |  |
-| 53 | 3% | 5% |  |
-| 54 | 0.9% | 2% |  |
-| 55 | 0.6% | 0.8% |  |
-| 56 | 0.2% | 0.2% |  |
-| 57 | 0.1% | 0.1% |  |
-| 58 | 0% | 0% |  |
+| 42 | 6% | 93% |  |
+| 43 | 7% | 87% |  |
+| 44 | 5% | 80% | Last Result |
+| 45 | 9% | 75% |  |
+| 46 | 13% | 65% |  |
+| 47 | 9% | 53% |  |
+| 48 | 15% | 44% | Median |
+| 49 | 10% | 28% |  |
+| 50 | 8% | 18% |  |
+| 51 | 6% | 10% | Majority |
+| 52 | 2% | 4% |  |
+| 53 | 1.3% | 2% |  |
+| 54 | 0.3% | 0.7% |  |
+| 55 | 0.3% | 0.4% |  |
+| 56 | 0.1% | 0.1% |  |
+| 57 | 0% | 0% |  |
 
 ### Eesti Keskerakond – Eesti Konservatiivne Rahvaerakond – Erakond Isamaa
 
@@ -635,22 +639,22 @@ Only polls for which at least the sample size has been published are included in
 | 33 | 0.5% | 99.8% |  |
 | 34 | 0.6% | 99.4% |  |
 | 35 | 1.3% | 98.8% |  |
-| 36 | 4% | 97% |  |
-| 37 | 7% | 94% |  |
-| 38 | 7% | 87% |  |
-| 39 | 8% | 80% |  |
-| 40 | 7% | 72% |  |
-| 41 | 4% | 66% |  |
-| 42 | 5% | 61% |  |
-| 43 | 5% | 56% |  |
-| 44 | 6% | 51% | Median |
-| 45 | 8% | 45% |  |
-| 46 | 7% | 37% |  |
-| 47 | 7% | 31% |  |
-| 48 | 6% | 24% |  |
-| 49 | 5% | 18% |  |
-| 50 | 7% | 13% |  |
-| 51 | 3% | 6% | Majority |
+| 36 | 3% | 97% |  |
+| 37 | 6% | 94% |  |
+| 38 | 7% | 88% |  |
+| 39 | 8% | 81% |  |
+| 40 | 4% | 73% |  |
+| 41 | 2% | 69% |  |
+| 42 | 1.2% | 67% |  |
+| 43 | 2% | 66% |  |
+| 44 | 2% | 63% |  |
+| 45 | 4% | 61% |  |
+| 46 | 14% | 57% |  |
+| 47 | 11% | 43% |  |
+| 48 | 12% | 32% | Median |
+| 49 | 6% | 20% |  |
+| 50 | 7% | 14% |  |
+| 51 | 4% | 7% | Majority |
 | 52 | 2% | 3% |  |
 | 53 | 0.7% | 1.1% |  |
 | 54 | 0.3% | 0.4% |  |
@@ -671,25 +675,53 @@ Only polls for which at least the sample size has been published are included in
 | 32 | 8% | 93% |  |
 | 33 | 8% | 85% |  |
 | 34 | 6% | 78% |  |
-| 35 | 4% | 72% |  |
-| 36 | 3% | 68% |  |
-| 37 | 5% | 64% |  |
-| 38 | 5% | 60% |  |
-| 39 | 4% | 55% | Median |
-| 40 | 7% | 51% |  |
-| 41 | 7% | 44% |  |
-| 42 | 5% | 37% |  |
-| 43 | 4% | 32% |  |
-| 44 | 4% | 28% |  |
-| 45 | 7% | 24% | Last Result |
-| 46 | 5% | 16% |  |
-| 47 | 4% | 12% |  |
-| 48 | 4% | 8% |  |
-| 49 | 2% | 4% |  |
-| 50 | 0.8% | 1.3% |  |
-| 51 | 0.4% | 0.6% | Majority |
+| 35 | 3% | 72% |  |
+| 36 | 1.1% | 68% |  |
+| 37 | 0.5% | 67% |  |
+| 38 | 0.1% | 67% |  |
+| 39 | 0.2% | 67% |  |
+| 40 | 0.6% | 67% |  |
+| 41 | 2% | 66% |  |
+| 42 | 4% | 64% |  |
+| 43 | 5% | 60% | Median |
+| 44 | 10% | 55% |  |
+| 45 | 10% | 45% | Last Result |
+| 46 | 15% | 35% |  |
+| 47 | 10% | 20% |  |
+| 48 | 6% | 11% |  |
+| 49 | 3% | 5% |  |
+| 50 | 1.1% | 2% |  |
+| 51 | 0.5% | 0.6% | Majority |
 | 52 | 0.1% | 0.1% |  |
 | 53 | 0% | 0% |  |
+
+### Eesti Keskerakond – Erakond Isamaa – Sotsiaaldemokraatlik Erakond
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-kesk–i–sde.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 30 | 0.3% | 100% |  |
+| 31 | 0.7% | 99.6% |  |
+| 32 | 2% | 98.9% |  |
+| 33 | 3% | 97% |  |
+| 34 | 7% | 94% |  |
+| 35 | 11% | 87% |  |
+| 36 | 14% | 77% |  |
+| 37 | 15% | 63% |  |
+| 38 | 10% | 48% |  |
+| 39 | 6% | 37% |  |
+| 40 | 4% | 31% |  |
+| 41 | 6% | 27% | Median |
+| 42 | 5% | 21% |  |
+| 43 | 7% | 16% |  |
+| 44 | 4% | 9% |  |
+| 45 | 2% | 5% |  |
+| 46 | 2% | 3% |  |
+| 47 | 0.7% | 1.2% |  |
+| 48 | 0.4% | 0.5% | Last Result |
+| 49 | 0.1% | 0.1% |  |
+| 50 | 0% | 0% |  |
 
 ### Eesti Reformierakond – Erakond Isamaa
 
@@ -703,54 +735,21 @@ Only polls for which at least the sample size has been published are included in
 | 31 | 2% | 98% |  |
 | 32 | 3% | 96% |  |
 | 33 | 4% | 93% |  |
-| 34 | 4% | 90% |  |
+| 34 | 4% | 89% |  |
 | 35 | 5% | 85% |  |
-| 36 | 6% | 81% |  |
-| 37 | 4% | 75% |  |
-| 38 | 3% | 71% |  |
-| 39 | 3% | 68% |  |
-| 40 | 4% | 65% |  |
-| 41 | 7% | 61% |  |
-| 42 | 9% | 54% | Median |
-| 43 | 13% | 45% |  |
-| 44 | 11% | 32% |  |
-| 45 | 6% | 20% |  |
-| 46 | 6% | 14% | Last Result |
-| 47 | 5% | 8% |  |
-| 48 | 2% | 3% |  |
-| 49 | 1.1% | 1.4% |  |
-| 50 | 0.2% | 0.3% |  |
-| 51 | 0.1% | 0.1% | Majority |
-| 52 | 0% | 0% |  |
-
-### Eesti Keskerakond – Erakond Isamaa – Sotsiaaldemokraatlik Erakond
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-kesk–i–sde.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 29 | 0% | 100% |  |
-| 30 | 0.2% | 99.9% |  |
-| 31 | 0.5% | 99.8% |  |
-| 32 | 1.1% | 99.3% |  |
-| 33 | 4% | 98% |  |
-| 34 | 5% | 95% |  |
-| 35 | 7% | 90% |  |
-| 36 | 13% | 83% |  |
-| 37 | 13% | 70% |  |
-| 38 | 15% | 57% |  |
-| 39 | 8% | 42% | Median |
-| 40 | 6% | 34% |  |
-| 41 | 6% | 28% |  |
-| 42 | 5% | 22% |  |
-| 43 | 7% | 16% |  |
-| 44 | 4% | 9% |  |
-| 45 | 2% | 5% |  |
-| 46 | 2% | 3% |  |
-| 47 | 0.7% | 1.2% |  |
-| 48 | 0.4% | 0.5% | Last Result |
-| 49 | 0.1% | 0.1% |  |
-| 50 | 0% | 0% |  |
+| 36 | 8% | 80% |  |
+| 37 | 11% | 72% |  |
+| 38 | 8% | 61% |  |
+| 39 | 4% | 53% |  |
+| 40 | 10% | 49% |  |
+| 41 | 8% | 39% |  |
+| 42 | 11% | 31% | Median |
+| 43 | 9% | 20% |  |
+| 44 | 7% | 10% |  |
+| 45 | 2% | 4% |  |
+| 46 | 1.0% | 1.3% | Last Result |
+| 47 | 0.3% | 0.3% |  |
+| 48 | 0% | 0% |  |
 
 ### Eesti Keskerakond – Sotsiaaldemokraatlik Erakond
 
@@ -758,19 +757,19 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 27 | 0.2% | 100% |  |
-| 28 | 0.9% | 99.7% |  |
-| 29 | 5% | 98.8% |  |
-| 30 | 7% | 94% |  |
-| 31 | 16% | 87% |  |
-| 32 | 11% | 71% |  |
-| 33 | 12% | 59% |  |
-| 34 | 8% | 47% | Median |
-| 35 | 5% | 38% |  |
-| 36 | 3% | 34% | Last Result |
-| 37 | 4% | 30% |  |
-| 38 | 7% | 26% |  |
-| 39 | 4% | 19% |  |
+| 27 | 0.1% | 100% |  |
+| 28 | 0.6% | 99.9% |  |
+| 29 | 3% | 99.3% |  |
+| 30 | 4% | 97% |  |
+| 31 | 12% | 93% |  |
+| 32 | 10% | 80% |  |
+| 33 | 11% | 71% |  |
+| 34 | 10% | 59% |  |
+| 35 | 9% | 50% |  |
+| 36 | 7% | 40% | Last Result, Median |
+| 37 | 6% | 33% |  |
+| 38 | 8% | 28% |  |
+| 39 | 4% | 20% |  |
 | 40 | 4% | 15% |  |
 | 41 | 4% | 11% |  |
 | 42 | 3% | 7% |  |
@@ -786,20 +785,20 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 21 | 0.2% | 100% |  |
-| 22 | 1.3% | 99.7% |  |
-| 23 | 5% | 98% |  |
-| 24 | 10% | 94% |  |
-| 25 | 18% | 84% |  |
-| 26 | 15% | 66% |  |
-| 27 | 15% | 51% | Median |
-| 28 | 12% | 36% |  |
-| 29 | 10% | 25% | Last Result |
-| 30 | 7% | 15% |  |
-| 31 | 4% | 8% |  |
-| 32 | 2% | 4% |  |
-| 33 | 1.2% | 2% |  |
-| 34 | 0.3% | 0.4% |  |
+| 21 | 0.1% | 100% |  |
+| 22 | 0.5% | 99.9% |  |
+| 23 | 1.4% | 99.5% |  |
+| 24 | 7% | 98% |  |
+| 25 | 9% | 91% |  |
+| 26 | 10% | 83% |  |
+| 27 | 20% | 72% |  |
+| 28 | 14% | 52% |  |
+| 29 | 14% | 38% | Last Result, Median |
+| 30 | 10% | 24% |  |
+| 31 | 9% | 14% |  |
+| 32 | 4% | 6% |  |
+| 33 | 2% | 2% |  |
+| 34 | 0.4% | 0.6% |  |
 | 35 | 0.1% | 0.1% |  |
 | 36 | 0% | 0% |  |
 
@@ -807,6 +806,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 3
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 3,145,728
++ **Lowest number of simulations done in a poll included in this average:** 131,072
++ **Total number of simulations done in the polls included in this average:** 2,228,224
 + **Error estimate:** 1.54%
