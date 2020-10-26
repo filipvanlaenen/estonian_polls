@@ -10,7 +10,10 @@ Last result: **23.1%** (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.1% | 17.5–24.8% | 16.9–25.5% | 16.5–26.0% | 15.8–27.0% |
+| N/A | [Poll Average](average.html) | 20.7% | 16.2–26.1% | 15.8–26.8% | 15.4–27.4% | 14.7–28.3% |
+| [1–31 October 2020](2020-10-31-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 17.0% | 15.7–18.5% | 15.4–18.9% | 15.1–19.2% | 14.5–19.9% |
+| [14–20 October 2020](2020-10-20-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 25.0% | 23.3–26.8% | 22.8–27.3% | 22.4–27.8% | 21.6–28.7% |
+| [1–15 October 2020](2020-10-15-Turu-uuringuteAS.html) | Turu-uuringute AS | 25.0% | N/A | N/A | N/A | N/A |
 | [6–13 October 2020](2020-10-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 22.3% | 20.7–24.1% | 20.2–24.6% | 19.8–25.0% | 19.1–25.8% |
 | [28 September–5 October 2020](2020-10-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 21.2% | 19.6–22.9% | 19.2–23.4% | 18.8–23.9% | 18.0–24.7% |
 | [1–30 September 2020](2020-09-30-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 18.0% | 16.7–19.4% | 16.3–19.8% | 16.0–20.2% | 15.3–20.9% |
@@ -134,22 +137,24 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.3% | 100% |  |
-| 15.5–16.5% | 2% | 99.7% |  |
-| 16.5–17.5% | 8% | 97% |  |
-| 17.5–18.5% | 12% | 89% |  |
-| 18.5–19.5% | 8% | 77% |  |
-| 19.5–20.5% | 5% | 69% |  |
-| 20.5–21.5% | 8% | 64% |  |
-| 21.5–22.5% | 13% | 57% | Median |
-| 22.5–23.5% | 16% | 43% | Last Result |
-| 23.5–24.5% | 14% | 27% |  |
-| 24.5–25.5% | 8% | 13% |  |
-| 25.5–26.5% | 3% | 5% |  |
-| 26.5–27.5% | 0.9% | 1.1% |  |
-| 27.5–28.5% | 0.2% | 0.2% |  |
-| 28.5–29.5% | 0% | 0% |  |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 0.3% | 100% |  |
+| 14.5–15.5% | 3% | 99.7% |  |
+| 15.5–16.5% | 12% | 97% |  |
+| 16.5–17.5% | 18% | 84% |  |
+| 17.5–18.5% | 12% | 66% |  |
+| 18.5–19.5% | 4% | 54% |  |
+| 19.5–20.5% | 0.5% | 51% |  |
+| 20.5–21.5% | 0.2% | 50% | Median |
+| 21.5–22.5% | 1.2% | 50% |  |
+| 22.5–23.5% | 6% | 49% | Last Result |
+| 23.5–24.5% | 11% | 43% |  |
+| 24.5–25.5% | 14% | 32% |  |
+| 25.5–26.5% | 12% | 18% |  |
+| 26.5–27.5% | 5% | 6% |  |
+| 27.5–28.5% | 1.4% | 2% |  |
+| 28.5–29.5% | 0.3% | 0.3% |  |
+| 29.5–30.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -160,7 +165,10 @@ Last result: **26** seats (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 19–29 | 18–30 | 18–31 | 17–32 |
+| N/A | [Poll Average](average.html) | 19 | 17–20 | 16–21 | 16–21 | 15–22 |
+| [1–31 October 2020](2020-10-31-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 19 | 17–20 | 16–21 | 16–21 | 15–22 |
+| [14–20 October 2020](2020-10-20-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [1–15 October 2020](2020-10-15-Turu-uuringuteAS.html) | Turu-uuringute AS |  |  |  |  |  |
 | [6–13 October 2020](2020-10-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 25 | 23–28 | 23–28 | 22–29 | 21–30 |
 | [28 September–5 October 2020](2020-10-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 24 | 21–25 | 20–25 | 20–26 | 19–27 |
 | [1–30 September 2020](2020-09-30-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 19 | 18–21 | 17–22 | 17–22 | 16–23 |
@@ -286,25 +294,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 16 | 0.3% | 100% |  |
-| 17 | 2% | 99.7% |  |
-| 18 | 5% | 98% |  |
-| 19 | 11% | 92% |  |
-| 20 | 8% | 81% |  |
-| 21 | 5% | 73% |  |
-| 22 | 3% | 68% |  |
-| 23 | 3% | 65% |  |
-| 24 | 8% | 62% |  |
-| 25 | 9% | 54% | Median |
-| 26 | 10% | 45% | Last Result |
-| 27 | 13% | 34% |  |
-| 28 | 8% | 21% |  |
-| 29 | 6% | 14% |  |
-| 30 | 4% | 7% |  |
-| 31 | 2% | 3% |  |
-| 32 | 0.8% | 1.1% |  |
-| 33 | 0.2% | 0.3% |  |
-| 34 | 0.1% | 0.1% |  |
-| 35 | 0% | 0% |  |
+| 14 | 0.1% | 100% |  |
+| 15 | 1.1% | 99.9% |  |
+| 16 | 7% | 98.8% |  |
+| 17 | 18% | 92% |  |
+| 18 | 17% | 75% |  |
+| 19 | 27% | 57% | Median |
+| 20 | 22% | 30% |  |
+| 21 | 7% | 8% |  |
+| 22 | 1.1% | 2% |  |
+| 23 | 0.3% | 0.4% |  |
+| 24 | 0.1% | 0.1% |  |
+| 25 | 0% | 0% |  |
+| 26 | 0% | 0% | Last Result |
 
 
