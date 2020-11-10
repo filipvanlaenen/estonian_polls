@@ -165,7 +165,7 @@ Last result: **19** seats (General Election of 3 March 2019)
 | N/A | [Poll Average](average.html) | 18 | 15–21 | 15–22 | 14–23 | 13–24 |
 | [27 October–2 November 2020](2020-11-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 20 | 18–22 | 17–23 | 17–23 | 16–25 |
 | [1–31 October 2020](2020-10-31-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 16 | 14–17 | 14–18 | 14–19 | 13–19 |
-| [22–26 October 2020](2020-10-26-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 15 | 13–17 | 13–17 | 12–18 | 12–19 |
+| [22–26 October 2020](2020-10-26-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 15 | 13–17 | 12–17 | 12–18 | 12–19 |
 | [14–20 October 2020](2020-10-20-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 18 | 16–20 | 16–20 | 15–21 | 15–22 |
 | [1–15 October 2020](2020-10-15-Turu-uuringuteAS.html) | Turu-uuringute AS | 19 | 16–21 | 16–21 | 15–22 | 15–23 |
 | [6–13 October 2020](2020-10-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 20 | 18–22 | 17–23 | 17–23 | 16–24 |
