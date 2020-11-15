@@ -5,8 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Ref | Kesk | EKRE | I | SDE | E200 | Rohelised | EVA |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 3 March 2019 | General Election | 28.9% <br> 34 | 23.1% <br> 26 | 17.8% <br> 19 | 11.4% <br> 12 | 9.8% <br> 10 | 4.4% <br> 0 | 1.8% <br> 0 | 1.2% <br> 0 |
-| [30 October–9 November 2020](2020-11-09-Turu-uuringuteAS.html) | Turu-uuringute AS | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [3–9 November 2020](2020-11-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 27–33% <br> 30–39 | 22–27% <br> 24–31 | 14–19% <br> 14–21 | 3–6% <br> 0–5 | 7–11% <br> 7–12 | 10–14% <br> 9–15 | 2–4% <br> 0 | 0–1% <br> 0 |
+| [30 October–9 November 2020](2020-11-09-Turu-uuringuteAS.html) | Turu-uuringute AS | 20–26% <br> 23–30 | 21–27% <br> 24–32 | 13–18% <br> 14–20 | 5–8% <br> 0–8 | 8–12% <br> 8–13 | 11–15% <br> 11–17 | 3–6% <br> 0–5 | 1–2% <br> 0 |
+| [3–9 November 2020](2020-11-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 27–33% <br> 30–38 | 22–27% <br> 24–31 | 14–19% <br> 15–21 | 3–6% <br> 0–5 | 7–11% <br> 7–11 | 10–14% <br> 9–14 | 2–4% <br> 0 | 0–1% <br> 0 |
 | [27 October–2 November 2020](2020-11-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 29–34% <br> 33–41 | 19–24% <br> 20–27 | 16–21% <br> 17–23 | 4–6% <br> 0–6 | 6–9% <br> 5–9 | 8–12% <br> 8–13 | 2–4% <br> 0 | 0–1% <br> 0 |
 | [1–31 October 2020](2020-10-31-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 30–36% <br> 36–43 | 15–19% <br> 16–21 | 13–17% <br> 14–19 | 4–6% <br> 0–6 | 9–13% <br> 9–13 | 11–15% <br> 11–16 | 2–4% <br> 0 | 1–3% <br> 0 |
 | [22–26 October 2020](2020-10-26-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 32–38% <br> 37–45 | 18–23% <br> 19–26 | 12–17% <br> 12–18 | 5–9% <br> 5–8 | 7–11% <br> 6–10 | 7–11% <br> 7–11 | 2–4% <br> 0 | 0–1% <br> 0 |
