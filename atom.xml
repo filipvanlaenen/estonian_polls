@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/estonian_polls</id>
   <title>All Registered Polls for the Riigikogu</title>
-  <updated>2020-11-15T15:40:22.497364+01:00</updated>
+  <updated>2020-11-23T18:29:19.215008+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Reformierakond: 25.6–30.5%, 29–35 seats</li><li>Eesti Keskerakond: 15.0–19.2%, 16–21 seats</li><li>Sotsiaaldemokraatlik Erakond: 8.5–11.8%, 8–12 seats</li><li>Erakond Isamaa: 4.8–7.5%, 0–7 seats</li><li>Eesti Vabaerakond: 1.4–3.0%, 0 seats</li><li>Eesti Konservatiivne Rahvaerakond: 14.1–18.1%, 14–20 seats</li><li>Erakond Eestimaa Rohelised: 2.2–4.1%, 0 seats</li><li>Eesti 200: 16.0–20.2%, 16–22 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/estonian_polls/2020-11-18-KantarEmor.html</id>
+    <link href="https://filipvanlaenen.github.io/estonian_polls/2020-11-18-KantarEmor.html"/>
+    <title>Opinion Poll by Kantar Emor for BNS and Postimees, 13–18 November 2020</title>
+    <updated>2020-11-23T18:29:19.215008+01:00</updated>
+    <dc:date>2020-11-23T18:29:19.215008+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Reformierakond: 20.3–25.9%, 23–30 seats</li><li>Eesti Keskerakond: 21.3–27.0%, 24–32 seats</li><li>Sotsiaaldemokraatlik Erakond: 8.1–12.1%, 8–13 seats</li><li>Erakond Isamaa: 4.6–7.8%, 0–8 seats</li><li>Eesti Vabaerakond: 0.5–2.0%, 0 seats</li><li>Eesti Konservatiivne Rahvaerakond: 12.7–17.5%, 14–20 seats</li><li>Erakond Eestimaa Rohelised: 2.9–5.5%, 0–5 seats</li><li>Eesti 200: 10.9–15.4%, 11–17 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/estonian_polls/2020-11-09-Turu-uuringuteAS.html</id>
@@ -263,5 +271,5 @@
     <updated>2019-12-31T13:16:36.493757+01:00</updated>
     <dc:date>2019-12-31T13:16:36.493757+01:00</dc:date>
   </entry>
-  <dc:date>2020-11-15T15:40:22.497364+01:00</dc:date>
+  <dc:date>2020-11-23T18:29:19.215008+01:00</dc:date>
 </feed>
