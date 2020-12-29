@@ -180,7 +180,7 @@ Last result: **26** seats (General Election of 3 March 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22 | 16–30 | 16–31 | 15–31 | 14–33 |
-| [16–21 December 2020](2020-12-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 22 | 21–24 | 20–25 | 19–26 | 19–26 |
+| [16–21 December 2020](2020-12-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 22 | 20–25 | 20–25 | 20–26 | 19–27 |
 | [9–14 December 2020](2020-12-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 24 | 22–26 | 21–26 | 21–27 | 20–28 |
 | [3–9 December 2020](2020-12-09-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
 | [27 November–7 December 2020](2020-12-07-Turu-uuringuteAS.html) | Turu-uuringute AS | 29 | 26–31 | 25–32 | 25–33 | 24–34 |
@@ -326,14 +326,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 9% | 96% |  |
 | 17 | 14% | 88% |  |
 | 18 | 5% | 74% |  |
-| 19 | 3% | 69% |  |
-| 20 | 2% | 66% |  |
-| 21 | 6% | 64% |  |
-| 22 | 10% | 58% | Median |
-| 23 | 7% | 48% |  |
+| 19 | 2% | 69% |  |
+| 20 | 3% | 66% |  |
+| 21 | 6% | 63% |  |
+| 22 | 8% | 58% | Median |
+| 23 | 8% | 49% |  |
 | 24 | 6% | 42% |  |
-| 25 | 2% | 36% |  |
-| 26 | 5% | 33% | Last Result |
+| 25 | 4% | 36% |  |
+| 26 | 4% | 33% | Last Result |
 | 27 | 5% | 28% |  |
 | 28 | 4% | 23% |  |
 | 29 | 6% | 18% |  |
