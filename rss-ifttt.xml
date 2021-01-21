@@ -14,6 +14,14 @@
       <dc:date>2021-01-15T20:19:36.112816+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 29 December 2020–4 January 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_polls/2021-01-04-Norstat.html</link>
+      <description><![CDATA[Voting intentions for the Riigikogu<br/>Opinion poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 29 December 2020–4 January 2021<br/>Details on https://filipvanlaenen.github.io/estonian_polls/2021-01-04-Norstat.html<br/><img src="https://filipvanlaenen.github.io/estonian_polls/2021-01-04-Norstat.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2021-01-04-Norstat.png" length="262874" type="image/png"/>
+      <pubDate>Wed, 20 Jan 2021 19:49:22 +0100</pubDate>
+      <dc:date>2021-01-20T19:49:22.481172+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 16–21 December 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/estonian_polls/2020-12-21-Norstat.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Riigikogu<br/>51 seats needed for a majority<br/>Opinion poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 16–21 December 2020<br/>Details on https://filipvanlaenen.github.io/estonian_polls/2020-12-21-Norstat.html<br/><img src="https://filipvanlaenen.github.io/estonian_polls/2020-12-21-Norstat-seating-plan.png"/>]]></description>
@@ -180,30 +188,6 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2020-11-23-Norstat.png" length="277785" type="image/png"/>
       <pubDate>Sun, 29 Nov 2020 13:29:53 +0100</pubDate>
       <dc:date>2020-11-29T13:29:53.090857+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar Emor for BNS and Postimees, 13–18 November 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/estonian_polls/2020-11-18-KantarEmor.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Riigikogu<br/>51 seats needed for a majority<br/>Opinion poll by Kantar Emor for BNS and Postimees, 13–18 November 2020<br/>Details on https://filipvanlaenen.github.io/estonian_polls/2020-11-18-KantarEmor.html<br/><img src="https://filipvanlaenen.github.io/estonian_polls/2020-11-18-KantarEmor-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2020-11-18-KantarEmor-seating-plan.png" length="499388" type="image/png"/>
-      <pubDate>Mon, 23 Nov 2020 18:29:19 +0100</pubDate>
-      <dc:date>2020-11-23T18:29:19.215008+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar Emor for BNS and Postimees, 13–18 November 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/estonian_polls/2020-11-18-KantarEmor.html#seats</link>
-      <description><![CDATA[Seat projections for the Riigikogu<br/>51 seats needed for a majority<br/>Opinion poll by Kantar Emor for BNS and Postimees, 13–18 November 2020<br/>Details on https://filipvanlaenen.github.io/estonian_polls/2020-11-18-KantarEmor.html<br/><img src="https://filipvanlaenen.github.io/estonian_polls/2020-11-18-KantarEmor-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2020-11-18-KantarEmor-seats.png" length="237783" type="image/png"/>
-      <pubDate>Mon, 23 Nov 2020 18:29:19 +0100</pubDate>
-      <dc:date>2020-11-23T18:29:19.215008+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar Emor for BNS and Postimees, 13–18 November 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/estonian_polls/2020-11-18-KantarEmor.html</link>
-      <description><![CDATA[Voting intentions for the Riigikogu<br/>Opinion poll by Kantar Emor for BNS and Postimees, 13–18 November 2020<br/>Details on https://filipvanlaenen.github.io/estonian_polls/2020-11-18-KantarEmor.html<br/><img src="https://filipvanlaenen.github.io/estonian_polls/2020-11-18-KantarEmor.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2020-11-18-KantarEmor.png" length="269851" type="image/png"/>
-      <pubDate>Mon, 23 Nov 2020 18:29:19 +0100</pubDate>
-      <dc:date>2020-11-23T18:29:19.215008+01:00</dc:date>
     </item>
   </channel>
 </rss>
