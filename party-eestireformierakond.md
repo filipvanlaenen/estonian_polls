@@ -183,10 +183,10 @@ Last result: **34** seats (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30 | 23–33 | 22–35 | 21–35 | 20–36 |
+| N/A | [Poll Average](average.html) | 30 | 23–33 | 22–34 | 21–35 | 20–36 |
 | [14–19 January 2021](2021-01-19-KantarEmor.html) | Kantar Emor <br> BNS and PostimeesA | 31 | 29–33 | 28–33 | 28–34 | 27–35 |
-| [12–18 January 2021](2021-01-18-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 32 | 30–35 | 29–36 | 29–36 | 28–37 |
-| [5–11 January 2021](2021-01-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 34 | 31–37 | 31–37 | 30–38 | 29–39 |
+| [12–18 January 2021](2021-01-18-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 32 | 30–35 | 29–35 | 29–36 | 28–37 |
+| [5–11 January 2021](2021-01-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 34 | 32–37 | 31–38 | 30–38 | 29–39 |
 | [29 December 2020–4 January 2021](2021-01-04-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 34 | 32–36 | 31–37 | 30–37 | 29–38 |
 | [16–21 December 2020](2020-12-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 31 | 29–34 | 29–34 | 28–35 | 27–36 |
 | [9–14 December 2020](2020-12-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 30 | 28–32 | 27–33 | 26–33 | 25–35 |
@@ -340,15 +340,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 27 | 2% | 69% |  |
 | 28 | 3% | 66% |  |
 | 29 | 8% | 63% |  |
-| 30 | 9% | 56% | Median |
-| 31 | 12% | 46% |  |
-| 32 | 16% | 35% |  |
-| 33 | 9% | 18% |  |
-| 34 | 4% | 9% | Last Result |
-| 35 | 4% | 5% |  |
-| 36 | 2% | 2% |  |
-| 37 | 0.2% | 0.2% |  |
-| 38 | 0% | 0.1% |  |
+| 30 | 10% | 56% | Median |
+| 31 | 13% | 46% |  |
+| 32 | 14% | 33% |  |
+| 33 | 10% | 19% |  |
+| 34 | 5% | 9% | Last Result |
+| 35 | 3% | 4% |  |
+| 36 | 1.2% | 2% |  |
+| 37 | 0.3% | 0.4% |  |
+| 38 | 0.1% | 0.1% |  |
 | 39 | 0% | 0% |  |
 
 

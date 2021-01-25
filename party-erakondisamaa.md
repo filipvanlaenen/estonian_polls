@@ -177,7 +177,7 @@ Last result: **12** seats (General Election of 3 March 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 0–8 | 0–9 | 0–9 | 0–10 |
 | [14–19 January 2021](2021-01-19-KantarEmor.html) | Kantar Emor <br> BNS and PostimeesA | 8 | 7–9 | 6–9 | 6–10 | 6–10 |
-| [12–18 January 2021](2021-01-18-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 6 | 6–7 | 5–8 | 5–8 | 4–9 |
+| [12–18 January 2021](2021-01-18-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 6 | 5–8 | 5–8 | 5–8 | 4–9 |
 | [5–11 January 2021](2021-01-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 4 | 0–6 | 0–6 | 0–6 | 0–7 |
 | [29 December 2020–4 January 2021](2021-01-04-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 5 | 0–5 | 0–6 | 0–6 | 0–7 |
 | [16–21 December 2020](2020-12-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 7 | 6–8 | 5–8 | 5–9 | 5–9 |
@@ -326,11 +326,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 85% |  |
 | 3 | 0% | 85% |  |
 | 4 | 4% | 85% |  |
-| 5 | 14% | 80% |  |
-| 6 | 21% | 67% | Median |
-| 7 | 25% | 46% |  |
-| 8 | 15% | 22% |  |
-| 9 | 6% | 7% |  |
+| 5 | 16% | 81% |  |
+| 6 | 20% | 64% | Median |
+| 7 | 20% | 44% |  |
+| 8 | 17% | 24% |  |
+| 9 | 5% | 6% |  |
 | 10 | 0.9% | 1.0% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% | Last Result |
