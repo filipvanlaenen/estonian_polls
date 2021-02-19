@@ -5,8 +5,9 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Ref | Kesk | EKRE | I | SDE | E200 | Rohelised | EVA |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 3 March 2019 | General Election | 28.9% <br> 34 | 23.1% <br> 26 | 17.8% <br> 19 | 11.4% <br> 12 | 9.8% <br> 10 | 4.4% <br> 0 | 1.8% <br> 0 | 1.2% <br> 0 |
+| [17 February 2021](2021-02-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 30–36% <br> 34–42 | 17–22% <br> 17–24 | 16–21% <br> 17–23 | 4–7% <br> 0–6 | 5–8% <br> 0–7 | 12–16% <br> 11–17 | N/A <br> N/A | N/A <br> N/A |
 | [2–8 February 2021](2021-02-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 32–38% <br> 35–43 | 18–23% <br> 19–26 | 17–22% <br> 17–24 | 5–8% <br> 0–7 | 4–7% <br> 0–6 | 10–14% <br> 9–14 | 1–3% <br> 0 | N/A <br> N/A |
-| [26 January–1 February 2021](2021-02-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [26 January–1 February 2021](2021-02-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 26–31% <br> 30–37 | 14–19% <br> 15–21 | 13–17% <br> 13–19 | 3–6% <br> 0–5 | 5–9% <br> 5–8 | 12–16% <br> 12–16 | 1–3% <br> 0 | 1–2% <br> 0 |
 | [18–25 January 2021](2021-01-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [12–21 January 2021](2021-01-21-Turu-uuringuteAS.html) | Turu-uuringute AS | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [14–19 January 2021](2021-01-19-KantarEmor.html) | Kantar Emor <br> BNS and PostimeesA | 25–30% <br> 28–34 | 17–21% <br> 18–23 | 12–16% <br> 12–17 | 7–10% <br> 6–10 | 8–11% <br> 7–11 | 15–19% <br> 16–21 | 3–5% <br> 0–4 | 1–2% <br> 0 |
