@@ -189,11 +189,11 @@ Last result: **34** seats (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 35 | 31–39 | 30–40 | 29–41 | 28–43 |
+| N/A | [Poll Average](average.html) | 34 | 31–39 | 30–40 | 29–41 | 28–43 |
 | [17 February 2021](2021-02-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 37 | 35–41 | 35–41 | 34–42 | 33–44 |
 | [10–15 February 2021](2021-02-15-Turu-uuringuteAS.html) | Turu-uuringute AS | 32 | 30–34 | 29–35 | 28–36 | 27–37 |
 | [9–15 February 2021](2021-02-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 40 | 38–43 | 37–44 | 36–45 | 35–46 |
-| [11–15 February 2021](2021-02-15-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 34 | 32–37 | 32–38 | 31–38 | 30–39 |
+| [11–15 February 2021](2021-02-15-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 34 | 32–37 | 31–38 | 31–38 | 30–39 |
 | [2–8 February 2021](2021-02-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 40 | 37–42 | 36–43 | 35–44 | 34–45 |
 | [26 January–1 February 2021](2021-02-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 33 | 30–35 | 30–36 | 29–37 | 28–38 |
 | [18–25 January 2021](2021-01-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 34 | 31–36 | 30–37 | 29–38 | 28–39 |
@@ -347,14 +347,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 28 | 0.7% | 99.7% |  |
 | 29 | 2% | 99.0% |  |
 | 30 | 4% | 97% |  |
-| 31 | 8% | 93% |  |
+| 31 | 9% | 93% |  |
 | 32 | 11% | 84% |  |
-| 33 | 12% | 74% |  |
-| 34 | 11% | 62% | Last Result |
-| 35 | 10% | 50% | Median |
-| 36 | 11% | 40% |  |
-| 37 | 10% | 29% |  |
-| 38 | 7% | 19% |  |
+| 33 | 12% | 73% |  |
+| 34 | 11% | 61% | Last Result, Median |
+| 35 | 11% | 50% |  |
+| 36 | 11% | 39% |  |
+| 37 | 10% | 28% |  |
+| 38 | 7% | 18% |  |
 | 39 | 5% | 11% |  |
 | 40 | 3% | 7% |  |
 | 41 | 2% | 3% |  |

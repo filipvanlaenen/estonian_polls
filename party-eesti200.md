@@ -190,11 +190,11 @@ Last result: **0** seats (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 13–18 | 13–19 | 12–19 | 12–20 |
+| N/A | [Poll Average](average.html) | 16 | 13–18 | 13–19 | 12–19 | 12–20 |
 | [17 February 2021](2021-02-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 14 | 13–16 | 12–17 | 12–17 | 11–18 |
 | [10–15 February 2021](2021-02-15-Turu-uuringuteAS.html) | Turu-uuringute AS | 17 | 15–19 | 15–19 | 14–20 | 14–21 |
 | [9–15 February 2021](2021-02-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 14 | 12–15 | 12–16 | 11–17 | 11–17 |
-| [11–15 February 2021](2021-02-15-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 15 | 14–17 | 13–18 | 13–18 | 12–19 |
+| [11–15 February 2021](2021-02-15-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 16 | 14–17 | 14–18 | 13–18 | 12–19 |
 | [2–8 February 2021](2021-02-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 11 | 10–13 | 10–14 | 9–14 | 9–15 |
 | [26 January–1 February 2021](2021-02-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 14 | 12–16 | 12–16 | 12–17 | 11–18 |
 | [18–25 January 2021](2021-01-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 15 | 13–16 | 12–17 | 12–17 | 11–18 |
@@ -357,12 +357,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0.5% | 100% |  |
 | 12 | 3% | 99.5% |  |
-| 13 | 9% | 97% |  |
-| 14 | 14% | 88% |  |
-| 15 | 25% | 74% | Median |
-| 16 | 20% | 49% |  |
-| 17 | 14% | 29% |  |
-| 18 | 9% | 15% |  |
+| 13 | 8% | 97% |  |
+| 14 | 16% | 89% |  |
+| 15 | 20% | 73% |  |
+| 16 | 22% | 53% | Median |
+| 17 | 16% | 31% |  |
+| 18 | 10% | 15% |  |
 | 19 | 4% | 6% |  |
 | 20 | 1.4% | 2% |  |
 | 21 | 0.3% | 0.3% |  |
