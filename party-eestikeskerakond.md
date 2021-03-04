@@ -194,7 +194,7 @@ Last result: **26** seats (General Election of 3 March 2019)
 | [2–8 February 2021](2021-02-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 22 | 20–24 | 19–25 | 19–26 | 18–27 |
 | [26 January–1 February 2021](2021-02-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 18 | 16–20 | 15–20 | 15–21 | 14–22 |
 | [18–25 January 2021](2021-01-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 21 | 19–23 | 18–24 | 18–24 | 17–25 |
-| [12–21 January 2021](2021-01-21-Turu-uuringuteAS.html) | Turu-uuringute AS | 21 | 19–23 | 18–23 | 17–24 | 17–25 |
+| [12–21 January 2021](2021-01-21-Turu-uuringuteAS.html) | Turu-uuringute AS | 21 | 19–23 | 18–24 | 18–24 | 17–25 |
 | [14–19 January 2021](2021-01-19-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 21 | 19–23 | 18–23 | 18–23 | 17–24 |
 | [12–18 January 2021](2021-01-18-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 24 | 22–26 | 21–26 | 21–27 | 20–28 |
 | [5–11 January 2021](2021-01-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 23 | 21–25 | 20–26 | 20–26 | 19–28 |
