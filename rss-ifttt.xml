@@ -6,6 +6,14 @@
     <description>All Registered Polls for the Riigikogu</description>
     <pubDate>Fri, 17 Jul 2020 21:31:09 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 17–22 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_polls/2021-03-22-Norstat.html</link>
+      <description><![CDATA[Voting intentions for the Riigikogu<br/>Opinion poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 17–22 March 2021<br/>Details on https://filipvanlaenen.github.io/estonian_polls/2021-03-22-Norstat.html<br/><img src="https://filipvanlaenen.github.io/estonian_polls/2021-03-22-Norstat.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2021-03-22-Norstat.png" length="254020" type="image/png"/>
+      <pubDate>Sat, 27 Mar 2021 21:15:08 +0100</pubDate>
+      <dc:date>2021-03-27T21:15:08.213422+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Kantar Emor for BNS and Postimees, 11–16 March 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_polls/2021-03-16-KantarEmor.html</link>
       <description><![CDATA[Voting intentions for the Riigikogu<br/>Opinion poll by Kantar Emor for BNS and Postimees, 11–16 March 2021<br/>Details on https://filipvanlaenen.github.io/estonian_polls/2021-03-16-KantarEmor.html<br/><img src="https://filipvanlaenen.github.io/estonian_polls/2021-03-16-KantarEmor.png"/>]]></description>
@@ -124,30 +132,6 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2021-02-15-Turu-uuringuteAS.png" length="253800" type="image/png"/>
       <pubDate>Sun, 21 Feb 2021 20:10:29 +0100</pubDate>
       <dc:date>2021-02-21T20:10:29.317529+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 9–15 February 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/estonian_polls/2021-02-15-Norstat.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Riigikogu<br/>51 seats needed for a majority<br/>Opinion poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 9–15 February 2021<br/>Details on https://filipvanlaenen.github.io/estonian_polls/2021-02-15-Norstat.html<br/><img src="https://filipvanlaenen.github.io/estonian_polls/2021-02-15-Norstat-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2021-02-15-Norstat-seating-plan.png" length="486873" type="image/png"/>
-      <pubDate>Mon, 1 Mar 2021 20:49:29 +0100</pubDate>
-      <dc:date>2021-03-01T20:49:29.94391+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 9–15 February 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/estonian_polls/2021-02-15-Norstat.html#seats</link>
-      <description><![CDATA[Seat projections for the Riigikogu<br/>51 seats needed for a majority<br/>Opinion poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 9–15 February 2021<br/>Details on https://filipvanlaenen.github.io/estonian_polls/2021-02-15-Norstat.html<br/><img src="https://filipvanlaenen.github.io/estonian_polls/2021-02-15-Norstat-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2021-02-15-Norstat-seats.png" length="211921" type="image/png"/>
-      <pubDate>Mon, 1 Mar 2021 20:49:29 +0100</pubDate>
-      <dc:date>2021-03-01T20:49:29.94391+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 9–15 February 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/estonian_polls/2021-02-15-Norstat.html</link>
-      <description><![CDATA[Voting intentions for the Riigikogu<br/>Opinion poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 9–15 February 2021<br/>Details on https://filipvanlaenen.github.io/estonian_polls/2021-02-15-Norstat.html<br/><img src="https://filipvanlaenen.github.io/estonian_polls/2021-02-15-Norstat.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/estonian_polls/2021-02-15-Norstat.png" length="249781" type="image/png"/>
-      <pubDate>Mon, 1 Mar 2021 20:49:29 +0100</pubDate>
-      <dc:date>2021-03-01T20:49:29.94391+01:00</dc:date>
     </item>
   </channel>
 </rss>
