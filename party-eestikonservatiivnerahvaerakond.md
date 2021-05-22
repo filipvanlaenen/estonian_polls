@@ -10,9 +10,10 @@ Last result: **17.8%** (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.0% | 19.5–22.6% | 19.1–23.1% | 18.7–23.5% | 18.0–24.3% |
-| [6–11 May 2021](2021-05-11-Turu-uuringuteAS.html) | Turu-uuringute AS | 21.0% | N/A | N/A | N/A | N/A |
-| [4–10 May 2021](2021-05-10-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 20.5% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 20.8% | 19.1–22.5% | 18.7–23.0% | 18.3–23.4% | 17.6–24.2% |
+| [12–18 May 2021](2021-05-18-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 18.7% | N/A | N/A | N/A | N/A |
+| [6–11 May 2021](2021-05-11-Turu-uuringuteAS.html) | Turu-uuringute AS | 21.0% | 19.4–22.7% | 18.9–23.2% | 18.5–23.6% | 17.8–24.4% |
+| [4–10 May 2021](2021-05-10-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 20.5% | 18.9–22.2% | 18.5–22.7% | 18.1–23.1% | 17.4–24.0% |
 | [27 April–3 May 2021](2021-05-03-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 23.9% | 22.2–25.7% | 21.8–26.2% | 21.4–26.6% | 20.6–27.5% |
 | [20–26 April 2021](2021-04-26-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 15.6% | N/A | N/A | N/A | N/A |
 | [15–21 April 2021](2021-04-21-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 21.0% | 19.5–22.6% | 19.1–23.1% | 18.7–23.5% | 18.0–24.3% |
@@ -180,13 +181,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.1% | 100% |  |
-| 17.5–18.5% | 2% | 99.9% | Last Result |
-| 18.5–19.5% | 9% | 98% |  |
-| 19.5–20.5% | 24% | 89% |  |
-| 20.5–21.5% | 32% | 65% | Median |
-| 21.5–22.5% | 23% | 33% |  |
-| 22.5–23.5% | 9% | 11% |  |
+| 16.5–17.5% | 0.5% | 100% |  |
+| 17.5–18.5% | 3% | 99.5% | Last Result |
+| 18.5–19.5% | 13% | 96% |  |
+| 19.5–20.5% | 26% | 83% |  |
+| 20.5–21.5% | 29% | 57% | Median |
+| 21.5–22.5% | 19% | 28% |  |
+| 22.5–23.5% | 7% | 9% |  |
 | 23.5–24.5% | 2% | 2% |  |
 | 24.5–25.5% | 0.2% | 0.3% |  |
 | 25.5–26.5% | 0% | 0% |  |
@@ -200,9 +201,10 @@ Last result: **19** seats (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 21–26 | 21–26 | 20–27 | 19–28 |
-| [6–11 May 2021](2021-05-11-Turu-uuringuteAS.html) | Turu-uuringute AS |  |  |  |  |  |
-| [4–10 May 2021](2021-05-10-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 23 | 20–26 | 20–26 | 19–26 | 18–27 |
+| [12–18 May 2021](2021-05-18-KantarEmor.html) | Kantar Emor <br> BNS and Postimees |  |  |  |  |  |
+| [6–11 May 2021](2021-05-11-Turu-uuringuteAS.html) | Turu-uuringute AS | 24 | 21–26 | 20–26 | 20–26 | 19–28 |
+| [4–10 May 2021](2021-05-10-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 22 | 20–24 | 20–25 | 19–26 | 18–26 |
 | [27 April–3 May 2021](2021-05-03-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 26 | 24–29 | 23–30 | 23–30 | 22–31 |
 | [20–26 April 2021](2021-04-26-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [15–21 April 2021](2021-04-21-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 23 | 21–26 | 21–26 | 20–27 | 19–28 |
@@ -371,18 +373,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 18 | 0.1% | 100% |  |
-| 19 | 0.5% | 99.9% | Last Result |
-| 20 | 2% | 99.5% |  |
-| 21 | 8% | 97% |  |
-| 22 | 18% | 90% |  |
-| 23 | 23% | 72% | Median |
-| 24 | 22% | 49% |  |
-| 25 | 15% | 27% |  |
-| 26 | 8% | 11% |  |
-| 27 | 2% | 3% |  |
-| 28 | 0.6% | 0.8% |  |
-| 29 | 0.2% | 0.2% |  |
+| 17 | 0.1% | 100% |  |
+| 18 | 0.4% | 99.9% |  |
+| 19 | 3% | 99.5% | Last Result |
+| 20 | 8% | 97% |  |
+| 21 | 13% | 89% |  |
+| 22 | 23% | 76% |  |
+| 23 | 13% | 53% | Median |
+| 24 | 11% | 40% |  |
+| 25 | 14% | 29% |  |
+| 26 | 14% | 15% |  |
+| 27 | 0.9% | 1.3% |  |
+| 28 | 0.3% | 0.4% |  |
+| 29 | 0% | 0.1% |  |
 | 30 | 0% | 0% |  |
 
 
