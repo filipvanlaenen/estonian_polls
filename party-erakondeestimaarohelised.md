@@ -10,7 +10,9 @@ Last result: **1.8%** (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.4% | 1.7–3.4% | 1.5–3.7% | 1.4–3.9% | 1.2–4.4% |
+| N/A | [Poll Average](average.html) | 2.0% | 0.7–3.4% | 0.6–3.7% | 0.5–3.9% | 0.4–4.4% |
+| [6–12 July 2021](2021-07-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.9% |
+| [28 June–4 July 2021](2021-07-04-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 2.5% | N/A | N/A | N/A | N/A |
 | [15–21 June 2021](2021-06-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
 | [10–16 June 2021](2021-06-16-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.5% |
 | [8–14 June 2021](2021-06-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1.7% | N/A | N/A | N/A | N/A |
@@ -188,11 +190,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 6% | 100% |  |
-| 1.5–2.5% | 53% | 94% | Last Result, Median |
-| 2.5–3.5% | 34% | 41% |  |
-| 3.5–4.5% | 7% | 7% |  |
+| 0.0–0.5% | 3% | 100% |  |
+| 0.5–1.5% | 32% | 97% |  |
+| 1.5–2.5% | 31% | 64% | Last Result, Median |
+| 2.5–3.5% | 27% | 34% |  |
+| 3.5–4.5% | 6% | 7% |  |
 | 4.5–5.5% | 0.3% | 0.3% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
@@ -206,6 +208,8 @@ Last result: **0** seats (General Election of 3 March 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [6–12 July 2021](2021-07-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
+| [28 June–4 July 2021](2021-07-04-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [15–21 June 2021](2021-06-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [10–16 June 2021](2021-06-16-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 0 | 0 | 0 | 0 | 0 |
 | [8–14 June 2021](2021-06-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
