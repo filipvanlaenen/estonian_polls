@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Ref | Kesk | EKRE | I | SDE | E200 | Rohelised | EVA |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 3 March 2019 | General Election | 28.9% <br> 34 | 23.1% <br> 26 | 17.8% <br> 19 | 11.4% <br> 12 | 9.8% <br> 10 | 4.4% <br> 0 | 1.8% <br> 0 | 1.2% <br> 0 |
+| [20–27 July 2021](2021-07-27-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 30–36% <br> 33–41 | 13–17% <br> 12–17 | 20–26% <br> 21–27 | 6–9% <br> 5–8 | 6–9% <br> 5–8 | 11–15% <br> 10–15 | 1–2% <br> 0 | N/A <br> N/A |
 | [13–19 July 2021](2021-07-19-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 27–32% <br> 29–36 | 14–19% <br> 14–19 | 24–29% <br> 25–32 | 5–8% <br> 0–7 | 5–9% <br> 5–8 | 11–15% <br> 10–15 | 1–2% <br> 0 | N/A <br> N/A |
 | [6–12 July 2021](2021-07-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 26–32% <br> 28–35 | 15–20% <br> 16–21 | 22–27% <br> 23–30 | 5–8% <br> 0–7 | 6–9% <br> 5–8 | 11–15% <br> 10–15 | 0–2% <br> 0 | N/A <br> N/A |
 | [28 June–4 July 2021](2021-07-04-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
