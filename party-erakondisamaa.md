@@ -10,9 +10,12 @@ Last result: **11.4%** (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.8% | 3.8–7.5% | 3.5–7.9% | 3.2–8.3% | 2.9–9.0% |
+| N/A | [Poll Average](average.html) | 6.5% | 5.3–7.8% | 5.0–8.2% | 4.8–8.5% | 4.4–9.1% |
+| [12–17 August 2021](2021-08-17-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 4.0% | N/A | N/A | N/A | N/A |
+| [3–7 August 2021](2021-08-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 5.9% | 5.0–7.0% | 4.8–7.3% | 4.6–7.5% | 4.2–8.1% |
 | [27 July–2 August 2021](2021-08-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 5.8% | 5.0–6.9% | 4.7–7.2% | 4.5–7.4% | 4.1–8.0% |
 | [20–27 July 2021](2021-07-27-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 7.1% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.2–9.4% |
+| [14–22 July 2021](2021-07-22-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 4.0% | N/A | N/A | N/A | N/A |
 | [13–19 July 2021](2021-07-19-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 6.2% | 5.3–7.3% | 5.1–7.6% | 4.9–7.9% | 4.5–8.4% |
 | [6–12 July 2021](2021-07-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 6.3% | 5.4–7.4% | 5.2–7.7% | 5.0–8.0% | 4.6–8.5% |
 | [28 June–4 July 2021](2021-07-04-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 6.1% | N/A | N/A | N/A | N/A |
@@ -193,14 +196,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 6% | 99.9% |  |
-| 3.5–4.5% | 20% | 94% |  |
-| 4.5–5.5% | 18% | 73% |  |
-| 5.5–6.5% | 25% | 55% | Median |
-| 6.5–7.5% | 21% | 31% |  |
-| 7.5–8.5% | 8% | 10% |  |
-| 8.5–9.5% | 1.3% | 1.4% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 1.0% | 100% |  |
+| 4.5–5.5% | 14% | 98.9% |  |
+| 5.5–6.5% | 37% | 85% |  |
+| 6.5–7.5% | 33% | 48% | Median |
+| 7.5–8.5% | 13% | 15% |  |
+| 8.5–9.5% | 2% | 2% |  |
 | 9.5–10.5% | 0.1% | 0.1% |  |
 | 10.5–11.5% | 0% | 0% | Last Result |
 
@@ -213,9 +215,12 @@ Last result: **12** seats (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 0–7 | 0–7 | 0–8 | 0–9 |
+| N/A | [Poll Average](average.html) | 6 | 4–7 | 0–8 | 0–8 | 0–9 |
+| [12–17 August 2021](2021-08-17-KantarEmor.html) | Kantar Emor <br> BNS and Postimees |  |  |  |  |  |
+| [3–7 August 2021](2021-08-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 5 | 0–6 | 0–6 | 0–7 | 0–7 |
 | [27 July–2 August 2021](2021-08-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 5 | 4–6 | 0–6 | 0–7 | 0–7 |
 | [20–27 July 2021](2021-07-27-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
+| [14–22 July 2021](2021-07-22-KantarEmor.html) | Kantar Emor <br> BNS and Postimees |  |  |  |  |  |
 | [13–19 July 2021](2021-07-19-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 5 | 4–6 | 4–7 | 0–7 | 0–8 |
 | [6–12 July 2021](2021-07-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 6 | 5–7 | 4–7 | 0–7 | 0–8 |
 | [28 June–4 July 2021](2021-07-04-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
@@ -398,17 +403,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 34% | 100% |  |
-| 1 | 0% | 66% |  |
-| 2 | 0% | 66% |  |
-| 3 | 0% | 66% |  |
-| 4 | 6% | 66% |  |
-| 5 | 24% | 60% | Median |
-| 6 | 19% | 37% |  |
-| 7 | 13% | 17% |  |
-| 8 | 4% | 4% |  |
-| 9 | 0.6% | 0.6% |  |
-| 10 | 0% | 0% |  |
+| 0 | 5% | 100% |  |
+| 1 | 0% | 95% |  |
+| 2 | 0% | 95% |  |
+| 3 | 0% | 95% |  |
+| 4 | 6% | 95% |  |
+| 5 | 29% | 88% |  |
+| 6 | 33% | 59% | Median |
+| 7 | 20% | 26% |  |
+| 8 | 6% | 7% |  |
+| 9 | 0.9% | 0.9% |  |
+| 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% | Last Result |
 
