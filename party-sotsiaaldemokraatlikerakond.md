@@ -23,7 +23,7 @@ Last result: **9.8%** (General Election of 3 March 2019)
 | [10–16 June 2021](2021-06-16-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 13.0% | 11.8–14.5% | 11.4–14.9% | 11.1–15.3% | 10.5–16.0% |
 | [8–14 June 2021](2021-06-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 8.5% | 7.5–9.7% | 7.2–10.1% | 6.9–10.4% | 6.5–11.0% |
 | [3–10 June 2021](2021-06-10-Turu-uuringuteAS.html) | Turu-uuringute AS | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
-| [1–7 June 2021](2021-06-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 7.0% | N/A | N/A | N/A | N/A |
+| [1–7 June 2021](2021-06-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
 | [26–31 May 2021](2021-05-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 8.2% | N/A | N/A | N/A | N/A |
 | [19–25 May 2021](2021-05-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 7.1% | N/A | N/A | N/A | N/A |
 | [12–18 May 2021](2021-05-18-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 10.8% | 9.6–12.1% | 9.3–12.5% | 9.0–12.8% | 8.5–13.4% |
@@ -230,7 +230,7 @@ Last result: **10** seats (General Election of 3 March 2019)
 | [10–16 June 2021](2021-06-16-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 14 | 12–15 | 11–16 | 11–16 | 10–17 |
 | [8–14 June 2021](2021-06-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 8 | 7–9 | 6–10 | 6–10 | 6–11 |
 | [3–10 June 2021](2021-06-10-Turu-uuringuteAS.html) | Turu-uuringute AS | 9 | 7–10 | 7–10 | 7–11 | 6–12 |
-| [1–7 June 2021](2021-06-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [1–7 June 2021](2021-06-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
 | [26–31 May 2021](2021-05-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [19–25 May 2021](2021-05-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [12–18 May 2021](2021-05-18-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 11 | 9–12 | 9–12 | 9–13 | 8–14 |

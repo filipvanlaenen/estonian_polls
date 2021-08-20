@@ -23,7 +23,7 @@ Last result: **28.9%** (General Election of 3 March 2019)
 | [10–16 June 2021](2021-06-16-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 25.0% | 23.3–26.8% | 22.8–27.3% | 22.4–27.8% | 21.6–28.7% |
 | [8–14 June 2021](2021-06-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 26.6% | 24.9–28.5% | 24.4–29.0% | 23.9–29.4% | 23.1–30.3% |
 | [3–10 June 2021](2021-06-10-Turu-uuringuteAS.html) | Turu-uuringute AS | 24.0% | 22.3–25.8% | 21.9–26.3% | 21.4–26.7% | 20.7–27.6% |
-| [1–7 June 2021](2021-06-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 29.6% | N/A | N/A | N/A | N/A |
+| [1–7 June 2021](2021-06-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 29.6% | 27.8–31.5% | 27.3–32.0% | 26.9–32.5% | 26.0–33.4% |
 | [26–31 May 2021](2021-05-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 29.3% | N/A | N/A | N/A | N/A |
 | [19–25 May 2021](2021-05-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 31.8% | N/A | N/A | N/A | N/A |
 | [12–18 May 2021](2021-05-18-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 27.4% | 25.7–29.2% | 25.2–29.8% | 24.8–30.2% | 24.0–31.1% |
@@ -236,7 +236,7 @@ Last result: **34** seats (General Election of 3 March 2019)
 | [10–16 June 2021](2021-06-16-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 28 | 26–31 | 26–31 | 25–32 | 24–33 |
 | [8–14 June 2021](2021-06-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 29 | 27–32 | 27–32 | 26–33 | 25–34 |
 | [3–10 June 2021](2021-06-10-Turu-uuringuteAS.html) | Turu-uuringute AS | 27 | 25–29 | 24–29 | 23–30 | 23–31 |
-| [1–7 June 2021](2021-06-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [1–7 June 2021](2021-06-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 33 | 30–35 | 30–36 | 30–37 | 28–38 |
 | [26–31 May 2021](2021-05-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [19–25 May 2021](2021-05-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [12–18 May 2021](2021-05-18-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 30 | 29–33 | 28–34 | 28–35 | 27–36 |

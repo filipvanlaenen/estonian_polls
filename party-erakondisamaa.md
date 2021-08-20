@@ -23,7 +23,7 @@ Last result: **11.4%** (General Election of 3 March 2019)
 | [10–16 June 2021](2021-06-16-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.9% |
 | [8–14 June 2021](2021-06-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 5.6% | 4.8–6.6% | 4.5–7.0% | 4.3–7.2% | 4.0–7.7% |
 | [3–10 June 2021](2021-06-10-Turu-uuringuteAS.html) | Turu-uuringute AS | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
-| [1–7 June 2021](2021-06-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 5.2% | N/A | N/A | N/A | N/A |
+| [1–7 June 2021](2021-06-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 5.2% | 4.4–6.2% | 4.2–6.5% | 4.0–6.8% | 3.6–7.3% |
 | [26–31 May 2021](2021-05-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 5.9% | N/A | N/A | N/A | N/A |
 | [19–25 May 2021](2021-05-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 5.5% | N/A | N/A | N/A | N/A |
 | [12–18 May 2021](2021-05-18-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 6.9% | 5.9–8.0% | 5.7–8.3% | 5.5–8.6% | 5.1–9.1% |
@@ -229,7 +229,7 @@ Last result: **12** seats (General Election of 3 March 2019)
 | [10–16 June 2021](2021-06-16-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 0 | 0 | 0–4 | 0–5 | 0–5 |
 | [8–14 June 2021](2021-06-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 5 | 0–6 | 0–6 | 0–6 | 0–7 |
 | [3–10 June 2021](2021-06-10-Turu-uuringuteAS.html) | Turu-uuringute AS | 6 | 5–8 | 5–8 | 5–8 | 4–9 |
-| [1–7 June 2021](2021-06-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [1–7 June 2021](2021-06-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 4 | 0–5 | 0–6 | 0–6 | 0–6 |
 | [26–31 May 2021](2021-05-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [19–25 May 2021](2021-05-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [12–18 May 2021](2021-05-18-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
