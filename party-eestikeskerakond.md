@@ -219,9 +219,9 @@ Last result: **26** seats (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 16–22 | 16–22 | 15–23 | 15–24 |
-| [12–17 August 2021](2021-08-17-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 17 | 15–19 | 15–20 | 15–20 | 14–21 |
-| [3–7 August 2021](2021-08-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 19 | 18–21 | 17–22 | 16–23 | 16–24 |
+| N/A | [Poll Average](average.html) | 19 | 16–22 | 16–22 | 15–23 | 14–24 |
+| [12–17 August 2021](2021-08-17-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 17 | 16–19 | 15–20 | 15–20 | 14–21 |
+| [3–7 August 2021](2021-08-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 19 | 18–21 | 18–22 | 16–23 | 16–24 |
 | [27 July–2 August 2021](2021-08-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 18 | 17–20 | 16–21 | 16–22 | 15–23 |
 | [20–27 July 2021](2021-07-27-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 15 | 13–16 | 13–17 | 12–17 | 12–18 |
 | [14–22 July 2021](2021-07-22-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 22 | 20–24 | 19–24 | 19–24 | 18–27 |
@@ -408,17 +408,17 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 13 | 0.1% | 100% |  |
-| 14 | 0.4% | 99.9% |  |
-| 15 | 3% | 99.5% |  |
-| 16 | 7% | 97% |  |
-| 17 | 10% | 90% |  |
+| 14 | 0.6% | 99.9% |  |
+| 15 | 3% | 99.4% |  |
+| 16 | 8% | 97% |  |
+| 17 | 10% | 89% |  |
 | 18 | 18% | 79% |  |
 | 19 | 19% | 61% | Median |
-| 20 | 11% | 42% |  |
+| 20 | 12% | 42% |  |
 | 21 | 20% | 31% |  |
-| 22 | 7% | 11% |  |
+| 22 | 6% | 10% |  |
 | 23 | 3% | 4% |  |
-| 24 | 1.0% | 1.2% |  |
+| 24 | 0.9% | 1.1% |  |
 | 25 | 0.2% | 0.2% |  |
 | 26 | 0% | 0% | Last Result |
 
