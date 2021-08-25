@@ -6,6 +6,8 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 3 March 2019 | General Election | 28.9% <br> 34 | 23.1% <br> 26 | 17.8% <br> 19 | 11.4% <br> 12 | 9.8% <br> 10 | 4.4% <br> 0 | 1.8% <br> 0 | 1.2% <br> 0 |
 | [12–17 August 2021](2021-08-17-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 23–28% <br> 25–32 | 14–18% <br> 15–20 | 22–27% <br> 24–31 | 3–5% <br> 0 | 9–13% <br> 9–14 | 13–17% <br> 14–19 | 3–5% <br> 0–4 | N/A <br> N/A |
+| [9–16 August 2021](2021-08-16-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [5–13 August 2021](2021-08-13-Turu-uuringuteAS.html) | Turu-uuringute AS | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [3–7 August 2021](2021-08-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 27–33% <br> 30–37 | 16–21% <br> 16–23 | 21–26% <br> 22–29 | 5–8% <br> 0–7 | 7–11% <br> 7–10 | 8–12% <br> 8–12 | 1–3% <br> 0 | N/A <br> N/A |
 | [27 July–2 August 2021](2021-08-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 26–32% <br> 28–36 | 16–20% <br> 16–22 | 22–28% <br> 24–30 | 5–7% <br> 0–7 | 6–9% <br> 5–9 | 10–14% <br> 10–14 | 2–3% <br> 0 | N/A <br> N/A |
 | [20–27 July 2021](2021-07-27-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 30–36% <br> 33–41 | 13–17% <br> 12–17 | 20–26% <br> 21–27 | 6–9% <br> 5–8 | 6–9% <br> 5–8 | 11–15% <br> 10–15 | 1–2% <br> 0 | N/A <br> N/A |
@@ -18,7 +20,7 @@ The table below lists all polls registered and analyzed so far.
 | [8–14 June 2021](2021-06-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 24–29% <br> 26–33 | 16–21% <br> 17–23 | 23–28% <br> 25–32 | 4–7% <br> 0–6 | 7–10% <br> 6–10 | 9–13% <br> 8–13 | 1–3% <br> 0 | N/A <br> N/A |
 | [3–10 June 2021](2021-06-10-Turu-uuringuteAS.html) | Turu-uuringute AS | 21–27% <br> 23–30 | 17–22% <br> 18–24 | 20–26% <br> 22–29 | 6–9% <br> 5–8 | 7–11% <br> 7–11 | 11–15% <br> 11–16 | 2–4% <br> 0 | N/A <br> N/A |
 | [1–7 June 2021](2021-06-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 27–33% <br> 30–37 | 18–23% <br> 19–25 | 19–24% <br> 19–26 | 4–7% <br> 0–6 | 6–9% <br> 5–8 | 12–16% <br> 12–17 | 1–2% <br> 0 | N/A <br> N/A |
-| [26–31 May 2021](2021-05-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [26–31 May 2021](2021-05-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 27–32% <br> 30–37 | 19–24% <br> 20–26 | 18–22% <br> 19–25 | 5–8% <br> 0–7 | 7–10% <br> 6–10 | 9–13% <br> 9–13 | 2–4% <br> 0 | N/A <br> N/A |
 | [19–25 May 2021](2021-05-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [12–18 May 2021](2021-05-18-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 25–30% <br> 28–35 | 14–18% <br> 14–19 | 16–21% <br> 17–23 | 5–9% <br> 5–8 | 9–13% <br> 9–13 | 14–18% <br> 14–19 | 2–4% <br> 0 | N/A <br> N/A |
 | [12–17 May 2021](2021-05-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
