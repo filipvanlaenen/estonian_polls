@@ -227,9 +227,9 @@ Last result: **26** seats (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–19 | 15–20 | 14–21 | 13–21 |
+| N/A | [Poll Average](average.html) | 17 | 15–19 | 14–20 | 14–21 | 13–22 |
 | [14–20 September 2021](2021-09-20-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 16 | 14–18 | 14–18 | 13–19 | 13–20 |
-| [6–15 September 2021](2021-09-15-Turu-uuringuteAS.html) | Turu-uuringute AS | 18 | 16–20 | 16–21 | 16–21 | 15–22 |
+| [6–15 September 2021](2021-09-15-Turu-uuringuteAS.html) | Turu-uuringute AS | 18 | 17–20 | 16–21 | 16–21 | 15–22 |
 | [8–13 September 2021](2021-09-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 22 | 21–25 | 21–26 | 20–26 | 19–27 |
 | [1–7 September 2021](2021-09-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 20 | 19–22 | 18–23 | 18–23 | 17–24 |
 | [25–31 August 2021](2021-08-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
@@ -424,16 +424,16 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 0.1% | 100% |  |
-| 13 | 0.9% | 99.9% |  |
-| 14 | 3% | 99.0% |  |
-| 15 | 14% | 96% |  |
-| 16 | 19% | 82% |  |
-| 17 | 21% | 62% | Median |
-| 18 | 19% | 42% |  |
+| 13 | 0.8% | 99.9% |  |
+| 14 | 4% | 99.0% |  |
+| 15 | 11% | 95% |  |
+| 16 | 18% | 84% |  |
+| 17 | 22% | 66% | Median |
+| 18 | 21% | 44% |  |
 | 19 | 14% | 23% |  |
-| 20 | 6% | 9% |  |
-| 21 | 3% | 3% |  |
-| 22 | 0.3% | 0.4% |  |
+| 20 | 7% | 10% |  |
+| 21 | 2% | 3% |  |
+| 22 | 0.6% | 0.7% |  |
 | 23 | 0.1% | 0.1% |  |
 | 24 | 0% | 0% |  |
 | 25 | 0% | 0% |  |

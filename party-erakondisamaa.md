@@ -227,7 +227,7 @@ Last result: **12** seats (General Election of 3 March 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 0–8 | 0–9 | 0–9 | 0–10 |
 | [14–20 September 2021](2021-09-20-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 5 | 4–6 | 0–7 | 0–7 | 0–8 |
-| [6–15 September 2021](2021-09-15-Turu-uuringuteAS.html) | Turu-uuringute AS | 7 | 7–9 | 6–9 | 6–9 | 6–10 |
+| [6–15 September 2021](2021-09-15-Turu-uuringuteAS.html) | Turu-uuringute AS | 8 | 6–9 | 6–9 | 6–10 | 5–10 |
 | [8–13 September 2021](2021-09-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 5 | 4–7 | 0–7 | 0–8 | 0–8 |
 | [1–7 September 2021](2021-09-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 8 | 7–9 | 6–10 | 6–10 | 6–11 |
 | [25–31 August 2021](2021-08-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
@@ -421,18 +421,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 35% | 100% |  |
-| 1 | 0% | 65% |  |
-| 2 | 0% | 65% |  |
-| 3 | 0% | 65% |  |
-| 4 | 2% | 65% |  |
-| 5 | 19% | 63% | Median |
-| 6 | 11% | 44% |  |
-| 7 | 16% | 33% |  |
-| 8 | 10% | 17% |  |
-| 9 | 6% | 7% |  |
-| 10 | 0.6% | 0.7% |  |
-| 11 | 0% | 0.1% |  |
+| 0 | 36% | 100% |  |
+| 1 | 0% | 64% |  |
+| 2 | 0% | 64% |  |
+| 3 | 0% | 64% |  |
+| 4 | 3% | 64% |  |
+| 5 | 16% | 61% | Median |
+| 6 | 13% | 45% |  |
+| 7 | 14% | 32% |  |
+| 8 | 12% | 18% |  |
+| 9 | 5% | 6% |  |
+| 10 | 0.9% | 1.0% |  |
+| 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% | Last Result |
 
 
