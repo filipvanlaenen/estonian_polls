@@ -235,7 +235,7 @@ Last result: **0** seats (General Election of 3 March 2019)
 | N/A | [Poll Average](average.html) | 16 | 14–18 | 13–19 | 12–19 | 12–20 |
 | [14–20 September 2021](2021-09-20-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 14 | 13–16 | 12–17 | 12–17 | 11–18 |
 | [6–15 September 2021](2021-09-15-Turu-uuringuteAS.html) | Turu-uuringute AS | 17 | 15–19 | 15–19 | 14–20 | 14–21 |
-| [8–13 September 2021](2021-09-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 10 | 9–11 | 8–12 | 8–12 | 7–13 |
+| [8–13 September 2021](2021-09-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 10 | 8–11 | 8–12 | 8–12 | 7–13 |
 | [1–7 September 2021](2021-09-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 12 | 11–14 | 10–14 | 10–15 | 9–16 |
 | [25–31 August 2021](2021-08-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [17–24 August 2021](2021-08-24-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 11 | 10–13 | 9–13 | 9–14 | 8–15 |
