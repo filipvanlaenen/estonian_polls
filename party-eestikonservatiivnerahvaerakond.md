@@ -10,11 +10,11 @@ Last result: **17.8%** (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.5% | 23.8–27.3% | 23.3–27.8% | 22.9–28.3% | 22.1–29.2% |
+| N/A | [Poll Average](average.html) | 23.0% | 19.8–26.7% | 19.3–27.3% | 18.9–27.8% | 18.2–28.8% |
 | [2–8 November 2021](2021-11-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 25.5% | 23.8–27.3% | 23.3–27.8% | 22.9–28.3% | 22.1–29.2% |
 | [26 October–2 November 2021](2021-11-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 20.8% | N/A | N/A | N/A | N/A |
 | [20–25 October 2021](2021-10-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 20.3% | N/A | N/A | N/A | N/A |
-| [14–20 October 2021](2021-10-20-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 20.8% | N/A | N/A | N/A | N/A |
+| [14–20 October 2021](2021-10-20-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 20.8% | 19.3–22.3% | 18.9–22.8% | 18.6–23.2% | 17.9–23.9% |
 | [13–18 October 2021](2021-10-18-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 26.4% | N/A | N/A | N/A | N/A |
 | [5–12 October 2021](2021-10-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 22.0% | N/A | N/A | N/A | N/A |
 | [4–8 October 2021](2021-10-08-Turu-uuringuteAS.html) | Turu-uuringute AS | 23.0% | N/A | N/A | N/A | N/A |
@@ -214,19 +214,21 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 17.5–18.5% | 0% | 100% | Last Result |
-| 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0.1% | 100% |  |
-| 21.5–22.5% | 1.2% | 99.9% |  |
-| 22.5–23.5% | 6% | 98.7% |  |
-| 23.5–24.5% | 17% | 93% |  |
-| 24.5–25.5% | 27% | 76% |  |
-| 25.5–26.5% | 26% | 50% | Median |
-| 26.5–27.5% | 16% | 23% |  |
-| 27.5–28.5% | 6% | 7% |  |
-| 28.5–29.5% | 1.4% | 2% |  |
-| 29.5–30.5% | 0.2% | 0.2% |  |
+| 15.5–16.5% | 0% | 100% |  |
+| 16.5–17.5% | 0.1% | 100% |  |
+| 17.5–18.5% | 1.1% | 99.9% | Last Result |
+| 18.5–19.5% | 6% | 98.9% |  |
+| 19.5–20.5% | 14% | 93% |  |
+| 20.5–21.5% | 16% | 79% |  |
+| 21.5–22.5% | 10% | 63% |  |
+| 22.5–23.5% | 6% | 53% | Median |
+| 23.5–24.5% | 9% | 47% |  |
+| 24.5–25.5% | 13% | 38% |  |
+| 25.5–26.5% | 13% | 25% |  |
+| 26.5–27.5% | 8% | 12% |  |
+| 27.5–28.5% | 3% | 4% |  |
+| 28.5–29.5% | 0.7% | 0.8% |  |
+| 29.5–30.5% | 0.1% | 0.1% |  |
 | 30.5–31.5% | 0% | 0% |  |
 
 
@@ -238,11 +240,11 @@ Last result: **19** seats (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28 | 26–30 | 25–31 | 25–31 | 24–32 |
+| N/A | [Poll Average](average.html) | 25 | 21–29 | 21–30 | 20–31 | 19–32 |
 | [2–8 November 2021](2021-11-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 28 | 26–30 | 25–31 | 25–31 | 24–32 |
 | [26 October–2 November 2021](2021-11-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [20–25 October 2021](2021-10-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
-| [14–20 October 2021](2021-10-20-KantarEmor.html) | Kantar Emor <br> BNS and Postimees |  |  |  |  |  |
+| [14–20 October 2021](2021-10-20-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 23 | 21–25 | 20–25 | 20–26 | 19–26 |
 | [13–18 October 2021](2021-10-18-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [5–12 October 2021](2021-10-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [4–8 October 2021](2021-10-08-Turu-uuringuteAS.html) | Turu-uuringute AS |  |  |  |  |  |
@@ -444,22 +446,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 19 | 0% | 100% | Last Result |
-| 20 | 0% | 100% |  |
-| 21 | 0% | 100% |  |
-| 22 | 0% | 100% |  |
-| 23 | 0.2% | 100% |  |
-| 24 | 1.2% | 99.7% |  |
-| 25 | 5% | 98% |  |
-| 26 | 12% | 94% |  |
-| 27 | 20% | 82% |  |
-| 28 | 27% | 62% | Median |
-| 29 | 17% | 35% |  |
-| 30 | 11% | 18% |  |
-| 31 | 5% | 7% |  |
-| 32 | 2% | 2% |  |
-| 33 | 0.3% | 0.4% |  |
-| 34 | 0.1% | 0.1% |  |
-| 35 | 0% | 0% |  |
+| 18 | 0.1% | 100% |  |
+| 19 | 0.5% | 99.9% | Last Result |
+| 20 | 3% | 99.4% |  |
+| 21 | 8% | 97% |  |
+| 22 | 12% | 89% |  |
+| 23 | 13% | 77% |  |
+| 24 | 9% | 64% |  |
+| 25 | 6% | 55% | Median |
+| 26 | 7% | 48% |  |
+| 27 | 10% | 41% |  |
+| 28 | 13% | 31% |  |
+| 29 | 9% | 18% |  |
+| 30 | 5% | 9% |  |
+| 31 | 3% | 4% |  |
+| 32 | 0.8% | 1.0% |  |
+| 33 | 0.2% | 0.2% |  |
+| 34 | 0% | 0% |  |
 
 
