@@ -6,9 +6,9 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 3 March 2019 | General Election | 28.9% <br> 34 | 23.1% <br> 26 | 17.8% <br> 19 | 11.4% <br> 12 | 9.8% <br> 10 | 4.4% <br> 0 | 1.8% <br> 0 | 1.2% <br> 0 |
 | [1–7 February 2022](2022-02-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 21–26% <br> 22–28 | 17–22% <br> 18–23 | 19–24% <br> 19–25 | 7–10% <br> 6–10 | 6–9% <br> 5–9 | 16–21% <br> 16–22 | 0–2% <br> 0 | N/A <br> N/A |
-| [25–31 January 2022](2022-01-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [25–31 January 2022](2022-01-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 16–21% <br> 16–22 | 21–26% <br> 22–28 | 25–31% <br> 27–34 | 5–8% <br> 4–8 | 5–8% <br> 0–7 | 14–18% <br> 14–19 | 1–3% <br> 0 | N/A <br> N/A |
 | [18–24 January 2022](2022-01-24-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [13–21 January 2022](2022-01-21-KantarEmor.html) | Kantar Emor <br> ERR | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [13–21 January 2022](2022-01-21-KantarEmor.html) | Kantar Emor <br> ERR | 17–21% <br> 17–23 | 17–22% <br> 18–24 | 19–24% <br> 21–26 | 7–11% <br> 7–10 | 6–8% <br> 5–8 | 17–22% <br> 19–24 | 3–5% <br> 0–4 | N/A <br> N/A |
 | [11–17 January 2022](2022-01-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [5–10 January 2022](2022-01-10-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [14–20 December 2021](2021-12-20-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 22–27% <br> 23–30 | 20–25% <br> 21–27 | 18–23% <br> 18–24 | 6–10% <br> 6–9 | 5–8% <br> 0–7 | 15–19% <br> 15–20 | 1–3% <br> 0 | N/A <br> N/A |
