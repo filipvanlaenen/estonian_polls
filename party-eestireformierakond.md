@@ -10,8 +10,9 @@ Last result: **28.9%** (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.0% | 17.3–23.8% | 16.7–24.5% | 16.2–25.1% | 15.3–26.1% |
-| [10–18 February 2022](2022-02-18-KantarEmor.html) | Kantar Emor | 19.8% | 18.5–21.1% | 18.1–21.5% | 17.8–21.9% | 17.2–22.5% |
+| N/A | [Poll Average](average.html) | 20.0% | 17.3–24.0% | 16.7–24.7% | 16.2–25.3% | 15.3–26.3% |
+| [15–21 February 2022](2022-02-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 23.3% | 21.6–25.1% | 21.2–25.6% | 20.8–26.0% | 20.0–26.9% |
+| [10–18 February 2022](2022-02-18-KantarEmor.html) | Kantar Emor <br> ERR | 19.8% | 18.5–21.1% | 18.1–21.5% | 17.8–21.9% | 17.2–22.5% |
 | [8–14 February 2022](2022-02-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 23.1% | 21.4–24.9% | 21.0–25.4% | 20.6–25.8% | 19.8–26.7% |
 | [1–7 February 2022](2022-02-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 23.5% | 21.8–25.3% | 21.4–25.8% | 21.0–26.2% | 20.2–27.1% |
 | [25–31 January 2022](2022-01-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 18.2% | 16.7–19.8% | 16.3–20.3% | 15.9–20.7% | 15.2–21.5% |
@@ -247,13 +248,13 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 13% | 88% |  |
 | 18.5–19.5% | 17% | 75% |  |
 | 19.5–20.5% | 16% | 57% | Median |
-| 20.5–21.5% | 10% | 41% |  |
-| 21.5–22.5% | 9% | 31% |  |
-| 22.5–23.5% | 10% | 22% |  |
-| 23.5–24.5% | 8% | 13% |  |
-| 24.5–25.5% | 4% | 5% |  |
-| 25.5–26.5% | 1.1% | 1.3% |  |
-| 26.5–27.5% | 0.2% | 0.2% |  |
+| 20.5–21.5% | 9% | 42% |  |
+| 21.5–22.5% | 8% | 32% |  |
+| 22.5–23.5% | 10% | 24% |  |
+| 23.5–24.5% | 8% | 15% |  |
+| 24.5–25.5% | 4% | 6% |  |
+| 25.5–26.5% | 1.4% | 2% |  |
+| 26.5–27.5% | 0.3% | 0.3% |  |
 | 27.5–28.5% | 0% | 0% |  |
 | 28.5–29.5% | 0% | 0% | Last Result |
 
@@ -266,8 +267,9 @@ Last result: **34** seats (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 18–26 | 17–26 | 17–27 | 16–28 |
-| [10–18 February 2022](2022-02-18-KantarEmor.html) | Kantar Emor | 21 | 20–23 | 19–23 | 19–24 | 18–25 |
+| N/A | [Poll Average](average.html) | 21 | 18–26 | 17–27 | 17–27 | 16–29 |
+| [15–21 February 2022](2022-02-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 25 | 23–27 | 23–28 | 22–28 | 21–29 |
+| [10–18 February 2022](2022-02-18-KantarEmor.html) | Kantar Emor <br> ERR | 21 | 20–23 | 19–23 | 19–24 | 18–25 |
 | [8–14 February 2022](2022-02-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 25 | 23–27 | 22–28 | 22–28 | 21–29 |
 | [1–7 February 2022](2022-02-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 25 | 23–27 | 22–28 | 22–28 | 21–29 |
 | [25–31 January 2022](2022-01-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 19 | 17–21 | 17–21 | 16–22 | 15–23 |
@@ -505,15 +507,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 10% | 85% |  |
 | 20 | 12% | 74% |  |
 | 21 | 14% | 63% | Median |
-| 22 | 14% | 49% |  |
-| 23 | 7% | 35% |  |
-| 24 | 8% | 27% |  |
-| 25 | 8% | 20% |  |
-| 26 | 7% | 11% |  |
-| 27 | 3% | 5% |  |
-| 28 | 1.2% | 2% |  |
-| 29 | 0.4% | 0.5% |  |
-| 30 | 0.1% | 0.1% |  |
+| 22 | 13% | 49% |  |
+| 23 | 6% | 36% |  |
+| 24 | 7% | 29% |  |
+| 25 | 9% | 22% |  |
+| 26 | 7% | 14% |  |
+| 27 | 4% | 6% |  |
+| 28 | 2% | 2% |  |
+| 29 | 0.5% | 0.6% |  |
+| 30 | 0.1% | 0.2% |  |
 | 31 | 0% | 0% |  |
 | 32 | 0% | 0% |  |
 | 33 | 0% | 0% |  |
