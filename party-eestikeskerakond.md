@@ -10,7 +10,8 @@ Last result: **23.1%** (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.1% | 14.4–21.2% | 13.8–21.7% | 13.4–22.2% | 12.6–23.2% |
+| N/A | [Poll Average](average.html) | 19.1% | 13.2–21.2% | 12.6–21.7% | 12.2–22.2% | 11.5–23.2% |
+| [1–7 March 2022](2022-03-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 13.7% | 12.4–15.2% | 12.0–15.6% | 11.7–16.0% | 11.1–16.7% |
 | [22–28 February 2022](2022-02-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 14.9% | 13.5–16.4% | 13.2–16.9% | 12.8–17.3% | 12.2–18.0% |
 | [15–21 February 2022](2022-02-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 18.2% | 16.7–19.8% | 16.3–20.3% | 15.9–20.7% | 15.2–21.5% |
 | [10–18 February 2022](2022-02-18-KantarEmor.html) | Kantar Emor <br> ERR | 19.8% | 18.5–21.1% | 18.1–21.5% | 17.8–21.9% | 17.2–22.5% |
@@ -241,14 +242,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.4% | 100% |  |
-| 12.5–13.5% | 3% | 99.6% |  |
-| 13.5–14.5% | 9% | 97% |  |
-| 14.5–15.5% | 11% | 88% |  |
-| 15.5–16.5% | 7% | 77% |  |
-| 16.5–17.5% | 3% | 69% |  |
-| 17.5–18.5% | 7% | 66% |  |
+| 9.5–10.5% | 0% | 100% |  |
+| 10.5–11.5% | 0.5% | 100% |  |
+| 11.5–12.5% | 4% | 99.4% |  |
+| 12.5–13.5% | 10% | 96% |  |
+| 13.5–14.5% | 11% | 86% |  |
+| 14.5–15.5% | 6% | 74% |  |
+| 15.5–16.5% | 2% | 68% |  |
+| 16.5–17.5% | 1.4% | 67% |  |
+| 17.5–18.5% | 7% | 65% |  |
 | 18.5–19.5% | 17% | 59% | Median |
 | 19.5–20.5% | 21% | 41% |  |
 | 20.5–21.5% | 14% | 20% |  |
@@ -266,7 +268,8 @@ Last result: **26** seats (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 14–22 | 14–23 | 13–24 | 12–25 |
+| N/A | [Poll Average](average.html) | 21 | 13–22 | 12–23 | 12–24 | 11–25 |
+| [1–7 March 2022](2022-03-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 14 | 12–15 | 12–16 | 11–16 | 11–17 |
 | [22–28 February 2022](2022-02-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 15 | 13–17 | 13–17 | 12–18 | 12–18 |
 | [15–21 February 2022](2022-02-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 19 | 17–21 | 17–21 | 16–22 | 16–23 |
 | [10–18 February 2022](2022-02-18-KantarEmor.html) | Kantar Emor <br> ERR | 21 | 20–22 | 19–23 | 19–24 | 18–25 |
@@ -499,14 +502,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.1% | 100% |  |
-| 12 | 0.9% | 99.9% |  |
-| 13 | 4% | 99.1% |  |
-| 14 | 8% | 95% |  |
-| 15 | 10% | 87% |  |
-| 16 | 7% | 77% |  |
-| 17 | 3% | 70% |  |
-| 18 | 2% | 67% |  |
+| 10 | 0.1% | 100% |  |
+| 11 | 1.0% | 99.9% |  |
+| 12 | 4% | 98.9% |  |
+| 13 | 9% | 95% |  |
+| 14 | 11% | 86% |  |
+| 15 | 6% | 75% |  |
+| 16 | 2% | 69% |  |
+| 17 | 0.8% | 67% |  |
+| 18 | 2% | 66% |  |
 | 19 | 4% | 65% |  |
 | 20 | 10% | 60% |  |
 | 21 | 25% | 50% | Median |
