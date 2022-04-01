@@ -10,7 +10,8 @@ Last result: **1.8%** (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.6% | 1.5–4.4% | 1.3–4.7% | 1.2–4.9% | 0.9–5.4% |
+| N/A | [Poll Average](average.html) | 2.6% | 1.6–4.4% | 1.4–4.7% | 1.3–4.9% | 1.1–5.4% |
+| [21–28 March 2022](2022-03-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
 | [19 March 2022](2022-03-19-Turu-uuringuteAS.html) | Turu-uuringute AS | 2.5% | 1.9–3.3% | 1.7–3.6% | 1.6–3.8% | 1.4–4.3% |
 | [14–18 March 2022](2022-03-18-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
 | [10–16 March 2022](2022-03-16-KantarEmor.html) | Kantar Emor <br> ERR | 4.0% | 3.4–4.8% | 3.2–5.0% | 3.0–5.2% | 2.8–5.6% |
@@ -248,9 +249,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 14% | 100% |  |
-| 1.5–2.5% | 35% | 86% | Last Result |
-| 2.5–3.5% | 22% | 51% | Median |
+| 0.5–1.5% | 8% | 100% |  |
+| 1.5–2.5% | 39% | 92% | Last Result |
+| 2.5–3.5% | 23% | 53% | Median |
 | 3.5–4.5% | 23% | 29% |  |
 | 4.5–5.5% | 6% | 6% |  |
 | 5.5–6.5% | 0.2% | 0.2% |  |
@@ -266,6 +267,7 @@ Last result: **0** seats (General Election of 3 March 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–4 |
+| [21–28 March 2022](2022-03-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [19 March 2022](2022-03-19-Turu-uuringuteAS.html) | Turu-uuringute AS | 0 | 0 | 0 | 0 | 0 |
 | [14–18 March 2022](2022-03-18-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [10–16 March 2022](2022-03-16-KantarEmor.html) | Kantar Emor <br> ERR | 0 | 0 | 0 | 0–4 | 0–5 |
