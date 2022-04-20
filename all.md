@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Ref | Kesk | EKRE | I | SDE | E200 | Rohelised | EVA |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 3 March 2019 | General Election | 28.9% <br> 34 | 23.1% <br> 26 | 17.8% <br> 19 | 11.4% <br> 12 | 9.8% <br> 10 | 4.4% <br> 0 | 1.8% <br> 0 | 1.2% <br> 0 |
+| [12–18 April 2022](2022-04-18-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 28–34% <br> 32–40 | 16–21% <br> 17–23 | 20–25% <br> 21–28 | 4–7% <br> 0–6 | 5–8% <br> 0–7 | 11–15% <br> 10–15 | 1–3% <br> 0 | N/A <br> N/A |
 | [6–11 April 2022](2022-04-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 29–35% <br> 32–40 | 14–18% <br> 14–19 | 18–23% <br> 19–25 | 4–7% <br> 0–7 | 5–8% <br> 0–7 | 14–19% <br> 14–20 | 1–3% <br> 0 | N/A <br> N/A |
 | [28 March–4 April 2022](2022-04-04-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 27–32% <br> 30–37 | 14–19% <br> 15–20 | 19–24% <br> 20–27 | 3–6% <br> 0–5 | 5–8% <br> 0–7 | 17–22% <br> 18–24 | 2–3% <br> 0 | N/A <br> N/A |
 | [21–28 March 2022](2022-03-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 29–35% <br> 33–41 | 14–19% <br> 14–20 | 20–25% <br> 21–28 | 3–6% <br> 0–5 | 4–7% <br> 0–6 | 16–20% <br> 16–22 | 1–3% <br> 0 | N/A <br> N/A |
