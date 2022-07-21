@@ -10,7 +10,8 @@ Last result: **17.8%** (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.2% | 16.6–19.9% | 16.1–20.4% | 15.7–20.9% | 14.8–21.9% |
+| N/A | [Poll Average](average.html) | 17.6% | 15.9–19.4% | 15.4–20.0% | 15.0–20.5% | 14.2–21.7% |
+| [12–18 July 2022](2022-07-18-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 16.8% | 15.4–18.4% | 15.0–18.9% | 14.6–19.3% | 13.9–20.0% |
 | [5–11 July 2022](2022-07-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 18.5% | 17.0–20.1% | 16.6–20.6% | 16.2–21.0% | 15.5–21.8% |
 | [27 June–4 July 2022](2022-07-04-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 21.1% | 19.5–22.8% | 19.1–23.3% | 18.7–23.7% | 17.9–24.6% |
 | [14–20 June 2022](2022-06-20-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 22.6% | 21.0–24.4% | 20.5–24.9% | 20.1–25.3% | 19.4–26.2% |
@@ -268,16 +269,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 0.3% | 100% |  |
-| 14.5–15.5% | 2% | 99.7% |  |
-| 15.5–16.5% | 7% | 98% |  |
-| 16.5–17.5% | 21% | 91% |  |
-| 17.5–18.5% | 31% | 70% | Last Result, Median |
-| 18.5–19.5% | 24% | 39% |  |
-| 19.5–20.5% | 11% | 15% |  |
-| 20.5–21.5% | 3% | 4% |  |
-| 21.5–22.5% | 0.7% | 0.9% |  |
+| 11.5–12.5% | 0% | 100% |  |
+| 12.5–13.5% | 0.1% | 100% |  |
+| 13.5–14.5% | 0.9% | 99.9% |  |
+| 14.5–15.5% | 5% | 99.0% |  |
+| 15.5–16.5% | 15% | 94% |  |
+| 16.5–17.5% | 26% | 79% |  |
+| 17.5–18.5% | 28% | 53% | Last Result, Median |
+| 18.5–19.5% | 17% | 25% |  |
+| 19.5–20.5% | 6% | 8% |  |
+| 20.5–21.5% | 2% | 2% |  |
+| 21.5–22.5% | 0.5% | 0.6% |  |
 | 22.5–23.5% | 0.1% | 0.1% |  |
 | 23.5–24.5% | 0% | 0% |  |
 
@@ -290,7 +292,8 @@ Last result: **19** seats (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 17–21 | 17–21 | 16–22 | 15–23 |
+| N/A | [Poll Average](average.html) | 18 | 16–21 | 16–21 | 15–22 | 14–23 |
+| [12–18 July 2022](2022-07-18-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 17 | 16–19 | 15–20 | 15–20 | 14–21 |
 | [5–11 July 2022](2022-07-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 19 | 17–21 | 17–22 | 17–22 | 16–23 |
 | [27 June–4 July 2022](2022-07-04-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 22 | 20–24 | 20–25 | 19–25 | 19–26 |
 | [14–20 June 2022](2022-06-20-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 24 | 22–27 | 22–27 | 21–28 | 20–29 |
@@ -550,17 +553,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 0.2% | 100% |  |
-| 15 | 0.8% | 99.8% |  |
-| 16 | 4% | 99.0% |  |
-| 17 | 10% | 95% |  |
-| 18 | 23% | 86% |  |
-| 19 | 26% | 63% | Last Result, Median |
-| 20 | 21% | 37% |  |
-| 21 | 11% | 16% |  |
-| 22 | 3% | 5% |  |
-| 23 | 1.3% | 2% |  |
-| 24 | 0.3% | 0.4% |  |
+| 13 | 0.1% | 100% |  |
+| 14 | 0.7% | 99.9% |  |
+| 15 | 3% | 99.3% |  |
+| 16 | 9% | 96% |  |
+| 17 | 17% | 87% |  |
+| 18 | 25% | 70% | Median |
+| 19 | 22% | 46% | Last Result |
+| 20 | 14% | 24% |  |
+| 21 | 7% | 10% |  |
+| 22 | 2% | 3% |  |
+| 23 | 0.9% | 1.3% |  |
+| 24 | 0.2% | 0.3% |  |
 | 25 | 0.1% | 0.1% |  |
 | 26 | 0% | 0% |  |
 

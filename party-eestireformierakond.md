@@ -10,7 +10,8 @@ Last result: **28.9%** (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31.9% | 29.7–33.8% | 29.0–34.4% | 28.3–34.9% | 27.0–36.0% |
+| N/A | [Poll Average](average.html) | 32.3% | 29.9–34.9% | 29.1–35.6% | 28.4–36.1% | 27.1–37.2% |
+| [12–18 July 2022](2022-07-18-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 33.9% | 32.0–35.9% | 31.5–36.4% | 31.0–36.9% | 30.1–37.8% |
 | [5–11 July 2022](2022-07-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 32.4% | 30.5–34.3% | 30.0–34.9% | 29.6–35.4% | 28.7–36.3% |
 | [27 June–4 July 2022](2022-07-04-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 32.5% | 30.6–34.4% | 30.1–35.0% | 29.7–35.5% | 28.8–36.4% |
 | [14–20 June 2022](2022-06-20-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 34.1% | 32.2–36.1% | 31.7–36.6% | 31.2–37.1% | 30.3–38.0% |
@@ -270,18 +271,19 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 24.5–25.5% | 0% | 100% |  |
 | 25.5–26.5% | 0.2% | 100% |  |
-| 26.5–27.5% | 0.8% | 99.8% |  |
+| 26.5–27.5% | 0.7% | 99.8% |  |
 | 27.5–28.5% | 2% | 99.0% |  |
 | 28.5–29.5% | 5% | 97% | Last Result |
-| 29.5–30.5% | 12% | 91% |  |
-| 30.5–31.5% | 21% | 80% |  |
-| 31.5–32.5% | 26% | 58% | Median |
-| 32.5–33.5% | 19% | 33% |  |
-| 33.5–34.5% | 10% | 14% |  |
-| 34.5–35.5% | 3% | 4% |  |
-| 35.5–36.5% | 0.8% | 1.0% |  |
-| 36.5–37.5% | 0.2% | 0.2% |  |
-| 37.5–38.5% | 0% | 0% |  |
+| 29.5–30.5% | 10% | 92% |  |
+| 30.5–31.5% | 17% | 83% |  |
+| 31.5–32.5% | 21% | 66% | Median |
+| 32.5–33.5% | 19% | 45% |  |
+| 33.5–34.5% | 13% | 26% |  |
+| 34.5–35.5% | 8% | 13% |  |
+| 35.5–36.5% | 4% | 5% |  |
+| 36.5–37.5% | 1.2% | 1.4% |  |
+| 37.5–38.5% | 0.2% | 0.3% |  |
+| 38.5–39.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -292,7 +294,8 @@ Last result: **34** seats (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 36 | 33–38 | 32–39 | 32–39 | 30–41 |
+| N/A | [Poll Average](average.html) | 36 | 33–40 | 33–40 | 32–41 | 30–42 |
+| [12–18 July 2022](2022-07-18-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 38 | 36–41 | 35–41 | 35–42 | 34–43 |
 | [5–11 July 2022](2022-07-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 36 | 34–38 | 33–39 | 33–40 | 32–41 |
 | [27 June–4 July 2022](2022-07-04-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 36 | 34–38 | 33–39 | 33–40 | 32–41 |
 | [14–20 June 2022](2022-06-20-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 39 | 36–41 | 36–42 | 35–43 | 34–44 |
@@ -555,18 +558,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 28 | 0% | 100% |  |
 | 29 | 0.2% | 99.9% |  |
 | 30 | 0.5% | 99.8% |  |
-| 31 | 1.4% | 99.2% |  |
+| 31 | 1.3% | 99.2% |  |
 | 32 | 3% | 98% |  |
-| 33 | 7% | 95% |  |
-| 34 | 14% | 88% | Last Result |
-| 35 | 18% | 74% |  |
-| 36 | 22% | 56% | Median |
-| 37 | 17% | 34% |  |
-| 38 | 10% | 17% |  |
-| 39 | 4% | 6% |  |
-| 40 | 2% | 2% |  |
-| 41 | 0.6% | 0.7% |  |
-| 42 | 0.1% | 0.2% |  |
-| 43 | 0% | 0% |  |
+| 33 | 5% | 95% |  |
+| 34 | 11% | 90% | Last Result |
+| 35 | 14% | 79% |  |
+| 36 | 18% | 65% | Median |
+| 37 | 16% | 48% |  |
+| 38 | 13% | 32% |  |
+| 39 | 9% | 19% |  |
+| 40 | 6% | 10% |  |
+| 41 | 3% | 4% |  |
+| 42 | 1.1% | 2% |  |
+| 43 | 0.4% | 0.5% |  |
+| 44 | 0.1% | 0.1% |  |
+| 45 | 0% | 0% |  |
 
 
