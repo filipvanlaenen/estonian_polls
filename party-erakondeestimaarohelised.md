@@ -11,6 +11,7 @@ Last result: **1.8%** (General Election of 3 March 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.8% | 0.9–3.3% | 0.7–3.5% | 0.6–3.7% | 0.4–4.1% |
+| [25 July–1 August 2022](2022-08-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1.7% | 1.3–2.4% | 1.2–2.5% | 1.1–2.7% | 0.9–3.1% |
 | [19–25 July 2022](2022-07-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1.7% | 1.3–2.4% | 1.2–2.5% | 1.1–2.7% | 0.9–3.1% |
 | [14–20 July 2022](2022-07-20-KantarEmor.html) | Kantar Emor <br> ERR | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.2–4.0% | 2.0–4.3% |
 | [12–18 July 2022](2022-07-18-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1.7% | 1.3–2.4% | 1.2–2.5% | 1.1–2.7% | 0.9–3.1% |
@@ -289,6 +290,7 @@ Last result: **0** seats (General Election of 3 March 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [25 July–1 August 2022](2022-08-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [19–25 July 2022](2022-07-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [14–20 July 2022](2022-07-20-KantarEmor.html) | Kantar Emor <br> ERR | 0 | 0 | 0 | 0 | 0 |
 | [12–18 July 2022](2022-07-18-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
