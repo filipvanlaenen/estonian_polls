@@ -11,6 +11,7 @@ Last result: **28.9%** (General Election of 3 March 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 31.5% | 28.9–36.3% | 28.3–37.1% | 27.9–37.7% | 26.9–38.8% |
+| [2–8 August 2022](2022-08-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 35.5% | 33.6–37.5% | 33.1–38.0% | 32.6–38.5% | 31.7–39.5% |
 | [25 July–1 August 2022](2022-08-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 35.5% | 33.6–37.5% | 33.1–38.0% | 32.6–38.5% | 31.7–39.5% |
 | [19–25 July 2022](2022-07-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 32.8% | 30.9–34.8% | 30.4–35.3% | 29.9–35.8% | 29.1–36.7% |
 | [14–20 July 2022](2022-07-20-KantarEmor.html) | Kantar Emor <br> ERR | 30.0% | 28.5–31.5% | 28.1–32.0% | 27.7–32.4% | 27.0–33.1% |
@@ -300,6 +301,7 @@ Last result: **34** seats (General Election of 3 March 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 36 | 32–41 | 32–42 | 31–42 | 30–44 |
+| [2–8 August 2022](2022-08-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 40 | 37–42 | 37–43 | 36–44 | 35–45 |
 | [25 July–1 August 2022](2022-08-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 40 | 37–42 | 37–42 | 36–43 | 35–44 |
 | [19–25 July 2022](2022-07-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 36 | 34–39 | 34–40 | 33–40 | 32–41 |
 | [14–20 July 2022](2022-07-20-KantarEmor.html) | Kantar Emor <br> ERR | 34 | 32–36 | 32–36 | 31–37 | 30–38 |
@@ -572,15 +574,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 34 | 14% | 78% | Last Result |
 | 35 | 13% | 64% |  |
 | 36 | 9% | 51% | Median |
-| 37 | 8% | 42% |  |
-| 38 | 8% | 34% |  |
-| 39 | 7% | 26% |  |
-| 40 | 7% | 18% |  |
-| 41 | 5% | 11% |  |
+| 37 | 7% | 42% |  |
+| 38 | 7% | 35% |  |
+| 39 | 7% | 27% |  |
+| 40 | 8% | 20% |  |
+| 41 | 6% | 12% |  |
 | 42 | 4% | 6% |  |
-| 43 | 0.9% | 1.5% |  |
-| 44 | 0.4% | 0.6% |  |
-| 45 | 0.1% | 0.1% |  |
+| 43 | 1.5% | 2% |  |
+| 44 | 0.6% | 0.8% |  |
+| 45 | 0.2% | 0.2% |  |
 | 46 | 0% | 0% |  |
 
 
