@@ -10,12 +10,12 @@ Last result: **17.8%** (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.4% | 17.4–28.9% | 16.9–29.6% | 16.6–30.1% | 16.0–31.1% |
+| N/A | [Poll Average](average.html) | 18.6% | 16.2–28.5% | 15.5–29.2% | 14.9–29.8% | 13.9–30.9% |
 | [13–19 September 2022](2022-09-19-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 27.7% | 25.9–29.6% | 25.4–30.1% | 25.0–30.6% | 24.2–31.5% |
 | [6–12 September 2022](2022-09-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 24.7% | 23.0–26.5% | 22.5–27.0% | 22.1–27.5% | 21.3–28.3% |
 | [27 August–5 September 2022](2022-09-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 22.9% | 21.3–24.7% | 20.8–25.2% | 20.4–25.6% | 19.6–26.5% |
-| [23–29 August 2022](2022-08-29-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 24.9% | N/A | N/A | N/A | N/A |
-| [25 August 2022](2022-08-25-Turu-uuringuteAS.html) | Turu-uuringute AS | 17.0% | N/A | N/A | N/A | N/A |
+| [23–29 August 2022](2022-08-29-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 24.9% | 23.2–26.7% | 22.7–27.2% | 22.3–27.7% | 21.5–28.6% |
+| [25 August 2022](2022-08-25-Turu-uuringuteAS.html) | Turu-uuringute AS | 17.0% | 15.2–19.1% | 14.6–19.7% | 14.2–20.2% | 13.4–21.3% |
 | [16–22 August 2022](2022-08-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 20.1% | 18.5–21.8% | 18.1–22.3% | 17.7–22.7% | 17.0–23.5% |
 | [11–22 August 2022](2022-08-22-KantarEmor.html) | Kantar Emor <br> ERR | 18.2% | 16.9–19.5% | 16.6–19.9% | 16.3–20.2% | 15.7–20.8% |
 | [9–15 August 2022](2022-08-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 23.2% | 21.6–25.0% | 21.1–25.5% | 20.7–25.9% | 19.9–26.8% |
@@ -281,25 +281,27 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.1% | 100% |  |
-| 15.5–16.5% | 2% | 99.9% |  |
-| 16.5–17.5% | 10% | 98% |  |
-| 17.5–18.5% | 19% | 87% | Last Result |
-| 18.5–19.5% | 14% | 68% |  |
-| 19.5–20.5% | 4% | 54% |  |
-| 20.5–21.5% | 0.5% | 51% |  |
-| 21.5–22.5% | 0% | 50% | Median |
-| 22.5–23.5% | 0.1% | 50% |  |
-| 23.5–24.5% | 0.5% | 50% |  |
-| 24.5–25.5% | 2% | 49% |  |
-| 25.5–26.5% | 7% | 47% |  |
-| 26.5–27.5% | 13% | 40% |  |
-| 27.5–28.5% | 13% | 27% |  |
-| 28.5–29.5% | 9% | 14% |  |
-| 29.5–30.5% | 4% | 5% |  |
-| 30.5–31.5% | 1.1% | 1.3% |  |
-| 31.5–32.5% | 0.2% | 0.2% |  |
+| 11.5–12.5% | 0% | 100% |  |
+| 12.5–13.5% | 0.2% | 100% |  |
+| 13.5–14.5% | 1.2% | 99.8% |  |
+| 14.5–15.5% | 4% | 98.6% |  |
+| 15.5–16.5% | 8% | 95% |  |
+| 16.5–17.5% | 15% | 86% |  |
+| 17.5–18.5% | 20% | 71% | Last Result |
+| 18.5–19.5% | 13% | 51% | Median |
+| 19.5–20.5% | 4% | 38% |  |
+| 20.5–21.5% | 0.8% | 34% |  |
+| 21.5–22.5% | 0.1% | 33% |  |
+| 22.5–23.5% | 0% | 33% |  |
+| 23.5–24.5% | 0.3% | 33% |  |
+| 24.5–25.5% | 2% | 33% |  |
+| 25.5–26.5% | 5% | 31% |  |
+| 26.5–27.5% | 8% | 27% |  |
+| 27.5–28.5% | 9% | 18% |  |
+| 28.5–29.5% | 6% | 9% |  |
+| 29.5–30.5% | 3% | 3% |  |
+| 30.5–31.5% | 0.7% | 0.8% |  |
+| 31.5–32.5% | 0.1% | 0.1% |  |
 | 32.5–33.5% | 0% | 0% |  |
 
 
@@ -311,12 +313,12 @@ Last result: **19** seats (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24 | 18–32 | 18–33 | 17–34 | 16–35 |
+| N/A | [Poll Average](average.html) | 20 | 17–31 | 16–33 | 15–33 | 14–34 |
 | [13–19 September 2022](2022-09-19-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 31 | 28–33 | 28–34 | 27–34 | 26–35 |
 | [6–12 September 2022](2022-09-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 27 | 25–29 | 24–30 | 24–31 | 23–32 |
 | [27 August–5 September 2022](2022-09-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 25 | 23–27 | 22–28 | 22–28 | 21–29 |
-| [23–29 August 2022](2022-08-29-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
-| [25 August 2022](2022-08-25-Turu-uuringuteAS.html) | Turu-uuringute AS |  |  |  |  |  |
+| [23–29 August 2022](2022-08-29-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 27 | 25–29 | 24–30 | 24–30 | 23–31 |
+| [25 August 2022](2022-08-25-Turu-uuringuteAS.html) | Turu-uuringute AS | 18 | 16–20 | 15–21 | 14–22 | 13–23 |
 | [16–22 August 2022](2022-08-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 21 | 19–23 | 19–24 | 18–24 | 17–25 |
 | [11–22 August 2022](2022-08-22-KantarEmor.html) | Kantar Emor <br> ERR | 19 | 18–21 | 17–21 | 17–21 | 16–22 |
 | [9–15 August 2022](2022-08-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 25 | 23–27 | 22–27 | 22–28 | 21–29 |
@@ -584,27 +586,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 16 | 0.7% | 100% |  |
-| 17 | 4% | 99.3% |  |
-| 18 | 12% | 95% |  |
-| 19 | 16% | 83% | Last Result |
-| 20 | 12% | 67% |  |
-| 21 | 4% | 55% |  |
-| 22 | 0.9% | 51% |  |
-| 23 | 0.1% | 50% |  |
-| 24 | 0% | 50% | Median |
-| 25 | 0.1% | 50% |  |
-| 26 | 0.4% | 50% |  |
-| 27 | 2% | 50% |  |
-| 28 | 4% | 48% |  |
-| 29 | 8% | 44% |  |
-| 30 | 10% | 35% |  |
-| 31 | 12% | 25% |  |
-| 32 | 4% | 13% |  |
-| 33 | 6% | 9% |  |
-| 34 | 2% | 3% |  |
-| 35 | 0.5% | 0.7% |  |
-| 36 | 0.2% | 0.2% |  |
+| 13 | 0.2% | 100% |  |
+| 14 | 0.7% | 99.8% |  |
+| 15 | 2% | 99.1% |  |
+| 16 | 4% | 97% |  |
+| 17 | 9% | 93% |  |
+| 18 | 15% | 83% |  |
+| 19 | 17% | 68% | Last Result |
+| 20 | 11% | 51% | Median |
+| 21 | 5% | 40% |  |
+| 22 | 2% | 35% |  |
+| 23 | 0.4% | 34% |  |
+| 24 | 0.1% | 33% |  |
+| 25 | 0.1% | 33% |  |
+| 26 | 0.3% | 33% |  |
+| 27 | 1.0% | 33% |  |
+| 28 | 3% | 32% |  |
+| 29 | 6% | 29% |  |
+| 30 | 7% | 24% |  |
+| 31 | 8% | 17% |  |
+| 32 | 3% | 9% |  |
+| 33 | 4% | 6% |  |
+| 34 | 1.2% | 2% |  |
+| 35 | 0.4% | 0.5% |  |
+| 36 | 0.1% | 0.1% |  |
 | 37 | 0% | 0% |  |
 
 
