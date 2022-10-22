@@ -5,10 +5,10 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | Ref | Kesk | EKRE | I | SDE | E200 | Rohelised | EVA | EP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 3 March 2019 | General Election | 28.9% <br> 34 | 23.1% <br> 26 | 17.8% <br> 19 | 11.4% <br> 12 | 9.8% <br> 10 | 4.4% <br> 0 | 1.8% <br> 0 | 1.2% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 25–34% <br> 28–38 | 10–17% <br> 10–18 | 15–31% <br> 15–34 | 6–10% <br> 6–10 | 5–13% <br> 4–13 | 8–16% <br> 7–17 | 1–4% <br> 0 | N/A <br> N/A | 0–2% <br> 0 |
+| N/A | [Poll Average](average.html) | 26–35% <br> 29–39 | 10–16% <br> 9–16 | 23–31% <br> 25–35 | 6–10% <br> 5–10 | 5–9% <br> 4–9 | 8–16% <br> 7–16 | 1–3% <br> 0 | N/A <br> N/A | 0–2% <br> 0 |
+| [13–19 October 2022](2022-10-19-KantarEmor.html) | Kantar Emor <br> ERR | 26–31% <br> 29–34 | 12–16% <br> 12–16 | 23–27% <br> 25–30 | 6–9% <br> 5–8 | 7–10% <br> 6–9 | 12–16% <br> 12–16 | 1–3% <br> 0 | N/A <br> N/A | 1–2% <br> 0 |
 | [11–17 October 2022](2022-10-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 29–35% <br> 32–39 | 10–14% <br> 9–14 | 26–32% <br> 28–35 | 7–11% <br> 6–10 | 5–8% <br> 0–7 | 7–11% <br> 7–10 | 1–3% <br> 0 | N/A <br> N/A | 0–1% <br> 0 |
-| [8–14 September 2022](2022-09-14-KantarEmor.html) | Kantar Emor <br> ERR | 26–31% <br> 30–35 | 12–16% <br> 12–16 | 21–25% <br> 23–28 | 7–9% <br> 6–9 | 9–13% <br> 9–13 | 9–13% <br> 10–12 | 2–4% <br> 0 | N/A <br> N/A | 1–2% <br> 0 |
-| [25 August 2022](2022-08-25-Turu-uuringuteAS.html) | Turu-uuringute AS | 25–32% <br> 27–36 | 12–18% <br> 12–19 | 14–20% <br> 14–22 | 6–10% <br> 5–10 | 9–14% <br> 8–14 | 11–17% <br> 11–18 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| [16 September 2022](2022-09-16-Turu-uuringuteAS.html) | Turu-uuringute AS | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 3 March 2019 | General Election | 28.9% <br> 34 | 23.1% <br> 26 | 17.8% <br> 19 | 11.4% <br> 12 | 9.8% <br> 10 | 4.4% <br> 0 | 1.8% <br> 0 | 1.2% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
