@@ -10,7 +10,8 @@ Last result: **28.9%** (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31.4% | 27.6–34.5% | 27.0–35.4% | 26.5–36.2% | 25.7–37.7% |
+| N/A | [Poll Average](average.html) | 32.4% | 27.6–35.6% | 27.0–36.3% | 26.5–36.9% | 25.7–38.1% |
+| [18–25 October 2022](2022-10-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 34.2% | 32.3–36.2% | 31.8–36.7% | 31.3–37.2% | 30.4–38.1% |
 | [13–19 October 2022](2022-10-19-KantarEmor.html) | Kantar Emor <br> ERR | 28.2% | 26.7–29.7% | 26.3–30.2% | 25.9–30.5% | 25.2–31.3% |
 | [11–17 October 2022](2022-10-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 32.2% | 30.3–34.1% | 29.8–34.7% | 29.4–35.2% | 28.5–36.1% |
 | [4–10 October 2022](2022-10-10-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 31.9% | 30.3–34.1% | 29.8–34.7% | 29.4–35.2% | 28.5–36.1% |
@@ -293,18 +294,19 @@ The following table shows the probability mass function per percentage block of 
 | 25.5–26.5% | 2% | 99.7% |  |
 | 26.5–27.5% | 7% | 97% |  |
 | 27.5–28.5% | 11% | 90% |  |
-| 28.5–29.5% | 11% | 79% | Last Result |
-| 29.5–30.5% | 9% | 68% |  |
-| 30.5–31.5% | 11% | 60% | Median |
-| 31.5–32.5% | 15% | 48% |  |
-| 32.5–33.5% | 14% | 33% |  |
-| 33.5–34.5% | 10% | 20% |  |
-| 34.5–35.5% | 5% | 10% |  |
-| 35.5–36.5% | 3% | 4% |  |
-| 36.5–37.5% | 1.1% | 2% |  |
-| 37.5–38.5% | 0.4% | 0.6% |  |
-| 38.5–39.5% | 0.1% | 0.2% |  |
-| 39.5–40.5% | 0% | 0% |  |
+| 28.5–29.5% | 10% | 79% | Last Result |
+| 29.5–30.5% | 6% | 69% |  |
+| 30.5–31.5% | 6% | 63% |  |
+| 31.5–32.5% | 9% | 58% | Median |
+| 32.5–33.5% | 13% | 49% |  |
+| 33.5–34.5% | 14% | 36% |  |
+| 34.5–35.5% | 11% | 22% |  |
+| 35.5–36.5% | 7% | 10% |  |
+| 36.5–37.5% | 3% | 4% |  |
+| 37.5–38.5% | 0.8% | 1.1% |  |
+| 38.5–39.5% | 0.2% | 0.3% |  |
+| 39.5–40.5% | 0% | 0.1% |  |
+| 40.5–41.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -315,7 +317,8 @@ Last result: **34** seats (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 35 | 30–40 | 29–41 | 29–42 | 28–44 |
+| N/A | [Poll Average](average.html) | 37 | 30–40 | 29–41 | 29–42 | 28–44 |
+| [18–25 October 2022](2022-10-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 38 | 36–41 | 35–41 | 35–42 | 34–43 |
 | [13–19 October 2022](2022-10-19-KantarEmor.html) | Kantar Emor <br> ERR | 31 | 29–33 | 29–34 | 29–34 | 28–35 |
 | [11–17 October 2022](2022-10-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 36 | 34–38 | 33–39 | 32–39 | 31–41 |
 | [4–10 October 2022](2022-10-10-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 36 | 34–38 | 33–39 | 33–40 | 32–41 |
@@ -599,20 +602,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 28 | 0.7% | 99.9% |  |
 | 29 | 4% | 99.2% |  |
 | 30 | 6% | 95% |  |
-| 31 | 10% | 89% |  |
+| 31 | 9% | 89% |  |
 | 32 | 9% | 80% |  |
-| 33 | 6% | 70% |  |
-| 34 | 8% | 64% | Last Result |
-| 35 | 11% | 56% | Median |
-| 36 | 9% | 45% |  |
-| 37 | 10% | 37% |  |
-| 38 | 10% | 27% |  |
-| 39 | 5% | 17% |  |
-| 40 | 5% | 12% |  |
-| 41 | 3% | 7% |  |
-| 42 | 2% | 3% |  |
-| 43 | 0.9% | 2% |  |
-| 44 | 0.6% | 0.9% |  |
+| 33 | 4% | 71% |  |
+| 34 | 3% | 67% | Last Result |
+| 35 | 5% | 64% |  |
+| 36 | 8% | 58% |  |
+| 37 | 11% | 51% | Median |
+| 38 | 10% | 40% |  |
+| 39 | 12% | 30% |  |
+| 40 | 8% | 18% |  |
+| 41 | 5% | 10% |  |
+| 42 | 3% | 5% |  |
+| 43 | 1.1% | 2% |  |
+| 44 | 0.6% | 1.0% |  |
 | 45 | 0.2% | 0.3% |  |
 | 46 | 0.1% | 0.1% |  |
 | 47 | 0% | 0% |  |
