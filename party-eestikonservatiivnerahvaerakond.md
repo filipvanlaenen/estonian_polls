@@ -10,11 +10,12 @@ Last result: **17.8%** (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.2% | 17.2–28.8% | 16.3–29.5% | 15.7–30.1% | 14.6–31.2% |
+| N/A | [Poll Average](average.html) | 27.1% | 24.5–29.7% | 24.0–30.4% | 23.6–31.0% | 22.8–32.2% |
 | [26–31 October 2022](2022-10-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 28.0% | 26.2–29.9% | 25.7–30.4% | 25.3–30.9% | 24.5–31.8% |
 | [18–25 October 2022](2022-10-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 26.3% | 24.6–28.2% | 24.1–28.7% | 23.7–29.1% | 22.8–30.0% |
 | [13–19 October 2022](2022-10-19-KantarEmor.html) | Kantar Emor <br> ERR | 25.2% | 23.8–26.7% | 23.4–27.1% | 23.0–27.5% | 22.4–28.2% |
 | [11–17 October 2022](2022-10-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 28.8% | 27.0–30.7% | 26.5–31.2% | 26.1–31.7% | 25.2–32.6% |
+| [12 October 2022](2022-10-12-Turu-uuringuteAS.html) | Turu-uuringute AS | 28.0% | 25.7–30.4% | 25.1–31.1% | 24.6–31.7% | 23.5–32.9% |
 | [4–10 October 2022](2022-10-10-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 26.8% | 25.3–28.9% | 24.8–29.4% | 24.3–29.8% | 23.5–30.7% |
 | [27 September–3 October 2022](2022-10-03-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 27.8% | 26.0–29.7% | 25.5–30.2% | 25.1–30.7% | 24.3–31.6% |
 | [20–26 September 2022](2022-09-26-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 27.4% | 25.6–29.3% | 25.1–29.8% | 24.7–30.3% | 23.9–31.2% |
@@ -290,28 +291,24 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.1% | 100% |  |
-| 13.5–14.5% | 0.4% | 99.9% |  |
-| 14.5–15.5% | 2% | 99.5% |  |
-| 15.5–16.5% | 4% | 98% |  |
-| 16.5–17.5% | 6% | 94% |  |
-| 17.5–18.5% | 8% | 87% | Last Result |
-| 18.5–19.5% | 6% | 80% |  |
-| 19.5–20.5% | 4% | 73% |  |
-| 20.5–21.5% | 2% | 69% |  |
-| 21.5–22.5% | 0.9% | 68% |  |
-| 22.5–23.5% | 2% | 67% |  |
-| 23.5–24.5% | 7% | 64% |  |
-| 24.5–25.5% | 12% | 57% | Median |
-| 25.5–26.5% | 12% | 45% |  |
-| 26.5–27.5% | 11% | 32% |  |
-| 27.5–28.5% | 10% | 22% |  |
-| 28.5–29.5% | 7% | 12% |  |
-| 29.5–30.5% | 3% | 5% |  |
-| 30.5–31.5% | 1.1% | 1.4% |  |
-| 31.5–32.5% | 0.2% | 0.3% |  |
-| 32.5–33.5% | 0% | 0% |  |
+| 17.5–18.5% | 0% | 100% | Last Result |
+| 18.5–19.5% | 0% | 100% |  |
+| 19.5–20.5% | 0% | 100% |  |
+| 20.5–21.5% | 0% | 100% |  |
+| 21.5–22.5% | 0.3% | 100% |  |
+| 22.5–23.5% | 2% | 99.7% |  |
+| 23.5–24.5% | 8% | 98% |  |
+| 24.5–25.5% | 14% | 90% |  |
+| 25.5–26.5% | 16% | 76% |  |
+| 26.5–27.5% | 17% | 59% | Median |
+| 27.5–28.5% | 17% | 42% |  |
+| 28.5–29.5% | 13% | 25% |  |
+| 29.5–30.5% | 7% | 12% |  |
+| 30.5–31.5% | 3% | 4% |  |
+| 31.5–32.5% | 1.0% | 1.3% |  |
+| 32.5–33.5% | 0.2% | 0.3% |  |
+| 33.5–34.5% | 0.1% | 0.1% |  |
+| 34.5–35.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -322,11 +319,12 @@ Last result: **19** seats (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28 | 18–32 | 17–32 | 16–33 | 15–34 |
+| N/A | [Poll Average](average.html) | 30 | 27–33 | 26–34 | 26–35 | 24–36 |
 | [26–31 October 2022](2022-10-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 31 | 29–33 | 28–33 | 27–34 | 27–35 |
 | [18–25 October 2022](2022-10-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 28 | 26–31 | 26–31 | 25–32 | 24–33 |
 | [13–19 October 2022](2022-10-19-KantarEmor.html) | Kantar Emor <br> ERR | 28 | 26–29 | 25–30 | 25–30 | 24–31 |
 | [11–17 October 2022](2022-10-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 32 | 29–34 | 29–35 | 28–35 | 27–36 |
+| [12 October 2022](2022-10-12-Turu-uuringuteAS.html) | Turu-uuringute AS | 31 | 28–34 | 28–35 | 27–36 | 25–37 |
 | [4–10 October 2022](2022-10-10-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 30 | 28–32 | 27–33 | 26–33 | 25–35 |
 | [27 September–3 October 2022](2022-10-03-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 30 | 28–33 | 28–34 | 28–35 | 26–36 |
 | [20–26 September 2022](2022-09-26-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 30 | 28–33 | 27–33 | 27–34 | 26–35 |
@@ -604,29 +602,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 0.2% | 100% |  |
-| 15 | 0.7% | 99.8% |  |
-| 16 | 2% | 99.1% |  |
-| 17 | 3% | 97% |  |
-| 18 | 6% | 94% |  |
-| 19 | 6% | 88% | Last Result |
-| 20 | 6% | 82% |  |
-| 21 | 4% | 76% |  |
-| 22 | 4% | 73% |  |
-| 23 | 2% | 69% |  |
-| 24 | 1.1% | 68% |  |
-| 25 | 2% | 66% |  |
-| 26 | 6% | 65% |  |
-| 27 | 9% | 59% |  |
-| 28 | 11% | 50% | Median |
-| 29 | 11% | 39% |  |
-| 30 | 8% | 28% |  |
-| 31 | 8% | 20% |  |
-| 32 | 7% | 12% |  |
-| 33 | 3% | 5% |  |
-| 34 | 1.1% | 2% |  |
-| 35 | 0.4% | 0.5% |  |
-| 36 | 0.1% | 0.1% |  |
-| 37 | 0% | 0% |  |
+| 19 | 0% | 100% | Last Result |
+| 20 | 0% | 100% |  |
+| 21 | 0% | 100% |  |
+| 22 | 0% | 100% |  |
+| 23 | 0% | 100% |  |
+| 24 | 0.5% | 99.9% |  |
+| 25 | 2% | 99.4% |  |
+| 26 | 6% | 98% |  |
+| 27 | 10% | 92% |  |
+| 28 | 14% | 82% |  |
+| 29 | 14% | 68% |  |
+| 30 | 14% | 54% | Median |
+| 31 | 15% | 40% |  |
+| 32 | 11% | 25% |  |
+| 33 | 8% | 14% |  |
+| 34 | 3% | 6% |  |
+| 35 | 2% | 3% |  |
+| 36 | 0.7% | 1.0% |  |
+| 37 | 0.2% | 0.3% |  |
+| 38 | 0.1% | 0.1% |  |
+| 39 | 0% | 0% |  |
 
 
