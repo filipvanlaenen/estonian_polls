@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/estonian_polls</id>
   <title>All Registered Polls for the Riigikogu</title>
-  <updated>2022-11-24T17:50:27.197426+01:00</updated>
+  <updated>2022-12-05T21:43:16.238871+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Reformierakond: 30.7–36.6%, 34–42 seats</li><li>Eesti Keskerakond: 14.8–19.5%, 15–21 seats</li><li>Sotsiaaldemokraatlik Erakond: 4.2–7.0%, 0–6 seats</li><li>Erakond Isamaa: 5.6–8.8%, 5–8 seats</li><li>Eesti Konservatiivne Rahvaerakond: 21.2–26.4%, 22–29 seats</li><li>Erakond Eestimaa Rohelised: 0.9–2.5%, 0 seats</li><li>Eesti 200: 8.8–12.7%, 8–13 seats</li><li>Erakond Parempoolsed: 0.5–1.7%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/estonian_polls/2022-11-28-Norstat.html</id>
+    <link href="https://filipvanlaenen.github.io/estonian_polls/2022-11-28-Norstat.html"/>
+    <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 22–28 November 2022</title>
+    <updated>2022-12-05T21:43:16.238871+01:00</updated>
+    <dc:date>2022-12-05T21:43:16.238871+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Reformierakond: 29.7–35.5%, 32–40 seats</li><li>Eesti Keskerakond: 15.8–20.6%, 16–22 seats</li><li>Sotsiaaldemokraatlik Erakond: 4.6–7.5%, 0–7 seats</li><li>Erakond Isamaa: 7.1–10.6%, 6–10 seats</li><li>Eesti Konservatiivne Rahvaerakond: 21.7–27.1%, 23–29 seats</li><li>Erakond Eestimaa Rohelised: 0.7–2.1%, 0 seats</li><li>Eesti 200: 6.8–10.3%, 6–10 seats</li><li>Erakond Parempoolsed: 0.1–0.9%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/estonian_polls/2022-11-21-Norstat.html</id>
@@ -1095,5 +1103,5 @@
     <updated>2019-12-31T13:16:36+01:00</updated>
     <dc:date>2019-12-31T13:16:36+01:00</dc:date>
   </entry>
-  <dc:date>2022-11-24T17:50:27.197426+01:00</dc:date>
+  <dc:date>2022-12-05T21:43:16.238871+01:00</dc:date>
 </feed>
