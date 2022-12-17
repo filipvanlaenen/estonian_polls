@@ -17,6 +17,7 @@ Last result: **4.4%** (General Election of 3 March 2019)
 | [15–21 November 2022](2022-11-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 8.4% | 7.4–9.6% | 7.1–10.0% | 6.8–10.3% | 6.4–10.9% |
 | [10–17 November 2022](2022-11-17-KantarEmor.html) | Kantar Emor <br> ERR | 14.0% | 12.9–15.2% | 12.6–15.5% | 12.3–15.8% | 11.8–16.4% |
 | [8–14 November 2022](2022-11-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 9.1% | 8.0–10.4% | 7.7–10.7% | 7.5–11.1% | 7.0–11.7% |
+| [9 November 2022](2022-11-09-Turu-uuringuteAS.html) | Turu-uuringute AS | 12.0% | 10.4–13.9% | 10.0–14.4% | 9.6–14.9% | 8.9–15.8% |
 | [1–6 November 2022](2022-11-06-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 8.4% | 7.4–9.6% | 7.1–10.0% | 6.8–10.3% | 6.4–10.9% |
 | [26–31 October 2022](2022-10-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [18–25 October 2022](2022-10-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 8.6% | 7.6–9.8% | 7.3–10.2% | 7.0–10.5% | 6.5–11.1% |
@@ -330,6 +331,7 @@ Last result: **0** seats (General Election of 3 March 2019)
 | [15–21 November 2022](2022-11-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 8 | 6–9 | 6–9 | 6–10 | 5–10 |
 | [10–17 November 2022](2022-11-17-KantarEmor.html) | Kantar Emor <br> ERR | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
 | [8–14 November 2022](2022-11-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 9 | 7–10 | 7–10 | 7–11 | 6–11 |
+| [9 November 2022](2022-11-09-Turu-uuringuteAS.html) | Turu-uuringute AS | 12 | 10–14 | 10–15 | 9–15 | 9–17 |
 | [1–6 November 2022](2022-11-06-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 8 | 7–9 | 6–10 | 6–10 | 6–11 |
 | [26–31 October 2022](2022-10-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 8 | 7–10 | 7–10 | 7–11 | 6–11 |
 | [18–25 October 2022](2022-10-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 8 | 7–9 | 6–10 | 6–10 | 6–11 |
@@ -623,14 +625,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 8% | 98.6% |  |
 | 8 | 15% | 90% |  |
 | 9 | 8% | 75% |  |
-| 10 | 6% | 67% |  |
-| 11 | 8% | 61% |  |
-| 12 | 10% | 53% | Median |
-| 13 | 13% | 43% |  |
-| 14 | 16% | 30% |  |
-| 15 | 9% | 15% |  |
+| 10 | 5% | 68% |  |
+| 11 | 8% | 63% |  |
+| 12 | 9% | 55% | Median |
+| 13 | 14% | 46% |  |
+| 14 | 17% | 32% |  |
+| 15 | 10% | 16% |  |
 | 16 | 5% | 6% |  |
-| 17 | 0.7% | 0.8% |  |
+| 17 | 0.8% | 0.9% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 
