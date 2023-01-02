@@ -10,11 +10,12 @@ Last result: **17.8%** (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.3% | 17.7–25.2% | 17.2–26.0% | 16.8–26.7% | 16.1–28.0% |
+| N/A | [Poll Average](average.html) | 20.8% | 17.6–23.8% | 17.1–24.4% | 16.8–24.9% | 16.1–25.9% |
 | [20–27 December 2022](2022-12-27-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 22.8% | 21.2–24.6% | 20.7–25.1% | 20.3–25.5% | 19.5–26.4% |
 | [13–19 December 2022](2022-12-19-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 24.8% | 23.1–26.6% | 22.6–27.1% | 22.2–27.6% | 21.4–28.5% |
 | [8–16 December 2022](2022-12-16-KantarEmor.html) | Kantar Emor <br> ERR | 18.1% | 16.9–19.5% | 16.6–19.8% | 16.3–20.2% | 15.7–20.8% |
 | [6–12 December 2022](2022-12-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 27.1% | 25.3–29.0% | 24.9–29.5% | 24.4–29.9% | 23.6–30.8% |
+| [6 December 2022](2022-12-06-Turu-uuringuteAS.html) | Turu-uuringute AS | 21.0% | 19.0–23.3% | 18.4–23.9% | 17.9–24.4% | 17.0–25.6% |
 | [29 November–5 December 2022](2022-12-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 24.0% | 22.3–25.8% | 21.9–26.3% | 21.4–26.7% | 20.7–27.6% |
 | [22–28 November 2022](2022-11-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 23.7% | 22.0–25.5% | 21.6–26.0% | 21.2–26.4% | 20.4–27.3% |
 | [15–21 November 2022](2022-11-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 24.3% | 22.6–26.1% | 22.1–26.6% | 21.7–27.1% | 21.0–27.9% |
@@ -304,21 +305,19 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0.1% | 100% |  |
-| 15.5–16.5% | 1.5% | 99.9% |  |
+| 15.5–16.5% | 2% | 99.9% |  |
 | 16.5–17.5% | 7% | 98% |  |
-| 17.5–18.5% | 13% | 91% | Last Result |
-| 18.5–19.5% | 9% | 78% |  |
-| 19.5–20.5% | 4% | 69% |  |
-| 20.5–21.5% | 6% | 65% |  |
-| 21.5–22.5% | 13% | 59% | Median |
-| 22.5–23.5% | 16% | 46% |  |
-| 23.5–24.5% | 14% | 30% |  |
-| 24.5–25.5% | 9% | 16% |  |
-| 25.5–26.5% | 5% | 7% |  |
-| 26.5–27.5% | 2% | 3% |  |
-| 27.5–28.5% | 0.6% | 0.9% |  |
-| 28.5–29.5% | 0.2% | 0.2% |  |
-| 29.5–30.5% | 0% | 0% |  |
+| 17.5–18.5% | 14% | 91% | Last Result |
+| 18.5–19.5% | 13% | 76% |  |
+| 19.5–20.5% | 10% | 63% |  |
+| 20.5–21.5% | 12% | 53% | Median |
+| 21.5–22.5% | 15% | 41% |  |
+| 22.5–23.5% | 13% | 26% |  |
+| 23.5–24.5% | 8% | 12% |  |
+| 24.5–25.5% | 3% | 4% |  |
+| 25.5–26.5% | 0.8% | 0.9% |  |
+| 26.5–27.5% | 0.1% | 0.1% |  |
+| 27.5–28.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -329,11 +328,12 @@ Last result: **19** seats (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24 | 19–28 | 18–29 | 18–30 | 17–32 |
+| N/A | [Poll Average](average.html) | 23 | 19–26 | 18–27 | 18–28 | 17–29 |
 | [20–27 December 2022](2022-12-27-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 25 | 23–27 | 22–28 | 22–28 | 21–30 |
 | [13–19 December 2022](2022-12-19-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 27 | 25–29 | 24–30 | 24–30 | 23–32 |
 | [8–16 December 2022](2022-12-16-KantarEmor.html) | Kantar Emor <br> ERR | 19 | 18–21 | 17–21 | 17–22 | 16–22 |
 | [6–12 December 2022](2022-12-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 30 | 27–32 | 27–33 | 27–33 | 26–35 |
+| [6 December 2022](2022-12-06-Turu-uuringuteAS.html) | Turu-uuringute AS | 23 | 20–25 | 19–26 | 19–27 | 18–28 |
 | [29 November–5 December 2022](2022-12-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 26 | 24–28 | 23–29 | 23–30 | 22–31 |
 | [22–28 November 2022](2022-11-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 26 | 23–28 | 23–29 | 22–29 | 21–30 |
 | [15–21 November 2022](2022-11-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 26 | 24–28 | 23–29 | 23–29 | 22–30 |
@@ -626,22 +626,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 0.3% | 100% |  |
 | 17 | 2% | 99.7% |  |
 | 18 | 7% | 98% |  |
-| 19 | 11% | 91% | Last Result |
-| 20 | 8% | 80% |  |
-| 21 | 4% | 71% |  |
-| 22 | 3% | 67% |  |
-| 23 | 6% | 64% |  |
-| 24 | 10% | 58% | Median |
-| 25 | 12% | 48% |  |
-| 26 | 12% | 36% |  |
-| 27 | 8% | 24% |  |
-| 28 | 8% | 16% |  |
-| 29 | 3% | 7% |  |
-| 30 | 3% | 4% |  |
-| 31 | 1.1% | 2% |  |
-| 32 | 0.5% | 0.7% |  |
-| 33 | 0.1% | 0.2% |  |
-| 34 | 0.1% | 0.1% |  |
-| 35 | 0% | 0% |  |
+| 19 | 13% | 91% | Last Result |
+| 20 | 12% | 78% |  |
+| 21 | 8% | 66% |  |
+| 22 | 8% | 58% |  |
+| 23 | 12% | 51% | Median |
+| 24 | 14% | 39% |  |
+| 25 | 10% | 25% |  |
+| 26 | 8% | 14% |  |
+| 27 | 4% | 7% |  |
+| 28 | 2% | 3% |  |
+| 29 | 0.4% | 0.6% |  |
+| 30 | 0.2% | 0.2% |  |
+| 31 | 0% | 0% |  |
 
 
