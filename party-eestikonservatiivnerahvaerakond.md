@@ -10,7 +10,9 @@ Last result: **17.8%** (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.8% | 17.6–23.8% | 17.1–24.4% | 16.8–24.9% | 16.1–25.9% |
+| N/A | [Poll Average](average.html) | 19.7% | 17.6–22.2% | 17.1–22.9% | 16.7–23.6% | 16.1–24.8% |
+| [10–16 January 2023](2023-01-16-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 20.0% | 18.4–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
+| [2–9 January 2023](2023-01-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 23.3% | N/A | N/A | N/A | N/A |
 | [20–27 December 2022](2022-12-27-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 22.8% | 21.2–24.6% | 20.7–25.1% | 20.3–25.5% | 19.5–26.4% |
 | [13–19 December 2022](2022-12-19-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 24.8% | 23.1–26.6% | 22.6–27.1% | 22.2–27.6% | 21.4–28.5% |
 | [8–16 December 2022](2022-12-16-KantarEmor.html) | Kantar Emor <br> ERR | 18.1% | 16.9–19.5% | 16.6–19.8% | 16.3–20.2% | 15.7–20.8% |
@@ -306,18 +308,17 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0.1% | 100% |  |
 | 15.5–16.5% | 2% | 99.9% |  |
-| 16.5–17.5% | 7% | 98% |  |
-| 17.5–18.5% | 14% | 91% | Last Result |
-| 18.5–19.5% | 13% | 76% |  |
-| 19.5–20.5% | 10% | 63% |  |
-| 20.5–21.5% | 12% | 53% | Median |
-| 21.5–22.5% | 15% | 41% |  |
-| 22.5–23.5% | 13% | 26% |  |
-| 23.5–24.5% | 8% | 12% |  |
-| 24.5–25.5% | 3% | 4% |  |
-| 25.5–26.5% | 0.8% | 0.9% |  |
-| 26.5–27.5% | 0.1% | 0.1% |  |
-| 27.5–28.5% | 0% | 0% |  |
+| 16.5–17.5% | 8% | 98% |  |
+| 17.5–18.5% | 18% | 90% | Last Result |
+| 18.5–19.5% | 21% | 73% |  |
+| 19.5–20.5% | 19% | 52% | Median |
+| 20.5–21.5% | 16% | 33% |  |
+| 21.5–22.5% | 10% | 17% |  |
+| 22.5–23.5% | 5% | 7% |  |
+| 23.5–24.5% | 2% | 3% |  |
+| 24.5–25.5% | 0.6% | 0.7% |  |
+| 25.5–26.5% | 0.1% | 0.2% |  |
+| 26.5–27.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -328,7 +329,9 @@ Last result: **19** seats (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 19–26 | 18–27 | 18–28 | 17–29 |
+| N/A | [Poll Average](average.html) | 21 | 18–24 | 18–25 | 17–25 | 17–28 |
+| [10–16 January 2023](2023-01-16-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 21 | 19–23 | 19–24 | 18–24 | 17–25 |
+| [2–9 January 2023](2023-01-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [20–27 December 2022](2022-12-27-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 25 | 23–27 | 22–28 | 22–28 | 21–30 |
 | [13–19 December 2022](2022-12-19-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 27 | 25–29 | 24–30 | 24–30 | 23–32 |
 | [8–16 December 2022](2022-12-16-KantarEmor.html) | Kantar Emor <br> ERR | 19 | 18–21 | 17–21 | 17–22 | 16–22 |
@@ -625,19 +628,18 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 16 | 0.3% | 100% |  |
 | 17 | 2% | 99.7% |  |
-| 18 | 7% | 98% |  |
-| 19 | 13% | 91% | Last Result |
-| 20 | 12% | 78% |  |
-| 21 | 8% | 66% |  |
-| 22 | 8% | 58% |  |
-| 23 | 12% | 51% | Median |
-| 24 | 14% | 39% |  |
-| 25 | 10% | 25% |  |
-| 26 | 8% | 14% |  |
-| 27 | 4% | 7% |  |
-| 28 | 2% | 3% |  |
-| 29 | 0.4% | 0.6% |  |
-| 30 | 0.2% | 0.2% |  |
-| 31 | 0% | 0% |  |
+| 18 | 8% | 97% |  |
+| 19 | 16% | 90% | Last Result |
+| 20 | 18% | 74% |  |
+| 21 | 16% | 56% | Median |
+| 22 | 12% | 40% |  |
+| 23 | 13% | 28% |  |
+| 24 | 9% | 15% |  |
+| 25 | 3% | 6% |  |
+| 26 | 1.1% | 2% |  |
+| 27 | 0.8% | 1.3% |  |
+| 28 | 0.5% | 0.6% |  |
+| 29 | 0.1% | 0.1% |  |
+| 30 | 0% | 0% |  |
 
 

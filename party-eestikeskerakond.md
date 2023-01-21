@@ -10,7 +10,9 @@ Last result: **23.1%** (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.8% | 13.3–17.5% | 12.7–18.0% | 12.1–18.4% | 11.2–19.2% |
+| N/A | [Poll Average](average.html) | 16.1% | 13.3–18.5% | 12.7–19.1% | 12.1–19.6% | 11.2–20.6% |
+| [10–16 January 2023](2023-01-16-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 17.8% | 16.3–19.4% | 15.9–19.9% | 15.5–20.3% | 14.9–21.1% |
+| [2–9 January 2023](2023-01-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 16.9% | N/A | N/A | N/A | N/A |
 | [20–27 December 2022](2022-12-27-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 16.5% | 15.1–18.1% | 14.7–18.5% | 14.3–18.9% | 13.7–19.7% |
 | [13–19 December 2022](2022-12-19-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 15.3% | 13.9–16.8% | 13.5–17.3% | 13.2–17.7% | 12.6–18.4% |
 | [8–16 December 2022](2022-12-16-KantarEmor.html) | Kantar Emor <br> ERR | 16.1% | 14.9–17.4% | 14.6–17.7% | 14.3–18.0% | 13.8–18.7% |
@@ -307,16 +309,16 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0.1% | 100% |  |
 | 10.5–11.5% | 0.9% | 99.9% |  |
 | 11.5–12.5% | 3% | 99.0% |  |
-| 12.5–13.5% | 8% | 96% |  |
-| 13.5–14.5% | 12% | 88% |  |
-| 14.5–15.5% | 20% | 76% |  |
-| 15.5–16.5% | 27% | 56% | Median |
-| 16.5–17.5% | 20% | 29% |  |
-| 17.5–18.5% | 8% | 9% |  |
-| 18.5–19.5% | 2% | 2% |  |
-| 19.5–20.5% | 0.2% | 0.3% |  |
-| 20.5–21.5% | 0% | 0% |  |
-| 21.5–22.5% | 0% | 0% |  |
+| 12.5–13.5% | 7% | 96% |  |
+| 13.5–14.5% | 11% | 88% |  |
+| 14.5–15.5% | 15% | 77% |  |
+| 15.5–16.5% | 21% | 62% | Median |
+| 16.5–17.5% | 19% | 41% |  |
+| 17.5–18.5% | 13% | 23% |  |
+| 18.5–19.5% | 7% | 10% |  |
+| 19.5–20.5% | 2% | 3% |  |
+| 20.5–21.5% | 0.5% | 0.5% |  |
+| 21.5–22.5% | 0.1% | 0.1% |  |
 | 22.5–23.5% | 0% | 0% | Last Result |
 
 
@@ -328,7 +330,9 @@ Last result: **26** seats (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 13–18 | 13–19 | 12–20 | 11–21 |
+| N/A | [Poll Average](average.html) | 17 | 13–19 | 13–20 | 12–21 | 11–22 |
+| [10–16 January 2023](2023-01-16-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 19 | 17–20 | 16–21 | 16–22 | 15–23 |
+| [2–9 January 2023](2023-01-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [20–27 December 2022](2022-12-27-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 17 | 16–19 | 15–20 | 15–20 | 14–21 |
 | [13–19 December 2022](2022-12-19-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 16 | 14–18 | 14–18 | 13–18 | 12–19 |
 | [8–16 December 2022](2022-12-16-KantarEmor.html) | Kantar Emor <br> ERR | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
@@ -626,17 +630,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0.2% | 100% |  |
 | 11 | 1.1% | 99.8% |  |
 | 12 | 3% | 98.7% |  |
-| 13 | 6% | 95% |  |
-| 14 | 8% | 89% |  |
-| 15 | 12% | 81% |  |
-| 16 | 24% | 69% | Median |
-| 17 | 22% | 45% |  |
-| 18 | 13% | 23% |  |
-| 19 | 7% | 10% |  |
-| 20 | 2% | 3% |  |
-| 21 | 0.4% | 0.5% |  |
-| 22 | 0.1% | 0.1% |  |
-| 23 | 0% | 0% |  |
+| 13 | 6% | 96% |  |
+| 14 | 8% | 90% |  |
+| 15 | 11% | 81% |  |
+| 16 | 17% | 70% |  |
+| 17 | 17% | 53% | Median |
+| 18 | 14% | 36% |  |
+| 19 | 12% | 22% |  |
+| 20 | 6% | 10% |  |
+| 21 | 2% | 3% |  |
+| 22 | 0.7% | 1.0% |  |
+| 23 | 0.2% | 0.2% |  |
 | 24 | 0% | 0% |  |
 | 25 | 0% | 0% |  |
 | 26 | 0% | 0% | Last Result |
