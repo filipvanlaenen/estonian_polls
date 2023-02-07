@@ -5,10 +5,10 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | Ref | Kesk | EKRE | I | SDE | E200 | Rohelised | EVA | EP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 3 March 2019 | General Election | 28.9% <br> 34 | 23.1% <br> 26 | 17.8% <br> 19 | 11.4% <br> 12 | 9.8% <br> 10 | 4.4% <br> 0 | 1.8% <br> 0 | 1.2% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 26–38% <br> 28–44 | 12–21% <br> 12–23 | 18–24% <br> 19–26 | 6–9% <br> 5–9 | 5–10% <br> 5–9 | 9–15% <br> 9–15 | 1–3% <br> 0 | N/A <br> N/A | 1–2% <br> 0 |
+| N/A | [Poll Average](average.html) | 24–32% <br> 26–37 | 14–21% <br> 14–23 | 18–28% <br> 19–31 | 6–9% <br> 5–9 | 5–10% <br> 5–9 | 11–15% <br> 11–16 | 1–3% <br> 0 | N/A <br> N/A | 1–2% <br> 0 |
 | [30 January–2 February 2023](2023-02-02-KantarEmor.html) | Kantar Emor <br> ERR | 28–33% <br> 32–38 | 15–18% <br> 15–20 | 17–21% <br> 19–23 | 6–8% <br> 5–8 | 7–10% <br> 6–10 | 11–15% <br> 11–15 | 2–3% <br> 0 | N/A <br> N/A | 1–2% <br> 0 |
 | [24–30 January 2023](2023-01-30-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 25–31% <br> 27–34 | 17–22% <br> 18–24 | 19–24% <br> 20–26 | 6–10% <br> 5–9 | 5–8% <br> 5–8 | 11–15% <br> 11–15 | 1–2% <br> 0 | N/A <br> N/A | 1–2% <br> 0 |
-| [6 December 2022](2022-12-06-Turu-uuringuteAS.html) | Turu-uuringute AS | 31–39% <br> 36–45 | 11–17% <br> 11–18 | 18–24% <br> 19–27 | 5–9% <br> 4–9 | 5–9% <br> 4–9 | 9–14% <br> 8–14 | 0–2% <br> 0 | N/A <br> N/A | 0–2% <br> 0 |
+| [27 January 2023](2023-01-27-Turu-uuringuteAS.html) | Turu-uuringute AS | 23–30% <br> 25–34 | 13–19% <br> 14–21 | 22–29% <br> 24–33 | 5–9% <br> 4–9 | 5–9% <br> 4–9 | 11–16% <br> 10–17 | 1–3% <br> 0 | N/A <br> N/A | 0–2% <br> 0 |
 | 3 March 2019 | General Election | 28.9% <br> 34 | 23.1% <br> 26 | 17.8% <br> 19 | 11.4% <br> 12 | 9.8% <br> 10 | 4.4% <br> 0 | 1.8% <br> 0 | 1.2% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
