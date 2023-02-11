@@ -10,7 +10,9 @@ Last result: **1.8%** (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.0% | 1.2–2.8% | 1.1–3.0% | 1.0–3.2% | 0.8–3.7% |
+| N/A | [Poll Average](average.html) | 2.3% | 1.5–3.1% | 1.4–3.3% | 1.3–3.5% | 1.0–3.9% |
+| [6–9 February 2023](2023-02-09-KantarEmor.html) | Kantar Emor <br> ERR | 2.7% | 2.2–3.3% | 2.1–3.5% | 2.0–3.6% | 1.8–3.9% |
+| [31 January–6 February 2023](2023-02-06-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
 | [30 January–2 February 2023](2023-02-02-KantarEmor.html) | Kantar Emor <br> ERR | 2.4% | 2.0–3.0% | 1.8–3.1% | 1.7–3.3% | 1.5–3.6% |
 | [24–30 January 2023](2023-01-30-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
 | [27 January 2023](2023-01-27-Turu-uuringuteAS.html) | Turu-uuringute AS | 2.0% | 1.4–3.0% | 1.3–3.2% | 1.1–3.5% | 0.9–4.0% |
@@ -312,10 +314,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 25% | 100% |  |
-| 1.5–2.5% | 54% | 75% | Last Result, Median |
-| 2.5–3.5% | 20% | 21% |  |
-| 3.5–4.5% | 0.8% | 0.8% |  |
+| 0.5–1.5% | 10% | 100% |  |
+| 1.5–2.5% | 56% | 90% | Last Result, Median |
+| 2.5–3.5% | 32% | 34% |  |
+| 3.5–4.5% | 2% | 2% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -328,6 +330,8 @@ Last result: **0** seats (General Election of 3 March 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [6–9 February 2023](2023-02-09-KantarEmor.html) | Kantar Emor <br> ERR | 0 | 0 | 0 | 0 | 0 |
+| [31 January–6 February 2023](2023-02-06-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [30 January–2 February 2023](2023-02-02-KantarEmor.html) | Kantar Emor <br> ERR | 0 | 0 | 0 | 0 | 0 |
 | [24–30 January 2023](2023-01-30-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [27 January 2023](2023-01-27-Turu-uuringuteAS.html) | Turu-uuringute AS | 0 | 0 | 0 | 0 | 0 |
