@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 3 March 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.7% | 0.9–2.4% | 0.7–2.6% | 0.6–2.8% | 0.4–3.1% |
+| N/A | [Poll Average](average.html) | 1.5% | 0.8–2.5% | 0.7–2.7% | 0.6–2.8% | 0.4–3.2% |
+| [20–22 February 2023](2023-02-22-KantarEmor.html) | Kantar Emor <br> ERR | 2.2% | 1.8–2.8% | 1.7–2.9% | 1.6–3.1% | 1.4–3.4% |
+| [14–20 February 2023](2023-02-20-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.8–2.2% | 0.6–2.5% |
 | [13–16 February 2023](2023-02-16-KantarEmor.html) | Kantar Emor <br> ERR | 2.1% | 1.7–2.6% | 1.6–2.8% | 1.5–2.9% | 1.3–3.2% |
 | [7–13 February 2023](2023-02-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1.7% | 1.3–2.4% | 1.2–2.5% | 1.1–2.7% | 0.9–3.1% |
 | [6–9 February 2023](2023-02-09-KantarEmor.html) | Kantar Emor <br> ERR | 1.8% | 1.4–2.3% | 1.3–2.5% | 1.2–2.6% | 1.1–2.9% |
@@ -18,6 +20,7 @@ Last result: **0.0%** (General Election of 3 March 2019)
 | [30 January–2 February 2023](2023-02-02-KantarEmor.html) | Kantar Emor <br> ERR | 1.6% | 1.3–2.1% | 1.2–2.2% | 1.1–2.4% | 0.9–2.6% |
 | [24–30 January 2023](2023-01-30-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.8–2.2% | 0.6–2.5% |
 | [27 January 2023](2023-01-27-Turu-uuringuteAS.html) | Turu-uuringute AS | 1.0% | 0.6–1.8% | 0.5–2.0% | 0.5–2.2% | 0.3–2.6% |
+| [19–26 January 2023](2023-01-26-KantarEmor.html) | Kantar Emor <br> ERR | 2.0% | 1.6–2.5% | 1.5–2.6% | 1.4–2.8% | 1.2–3.0% |
 | [17–23 January 2023](2023-01-23-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1.4% | N/A | N/A | N/A | N/A |
 | [10–16 January 2023](2023-01-16-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
 | [5–11 January 2023](2023-01-11-KantarEmor.html) | Kantar Emor <br> ERR | 1.0% | 0.8–1.4% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% |
@@ -90,7 +93,6 @@ Last result: **0.0%** (General Election of 3 March 2019)
 | [8–14 February 2022](2022-02-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0.0% | N/A | N/A | N/A | N/A |
 | [1–7 February 2022](2022-02-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0.0% | N/A | N/A | N/A | N/A |
 | [25–31 January 2022](2022-01-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0.0% | N/A | N/A | N/A | N/A |
-| [19 January 2023–26 January 2022](2022-01-26-KantarEmor.html) | Kantar Emor <br> ERR | 2.0% | N/A | N/A | N/A | N/A |
 | [18–24 January 2022](2022-01-24-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0.0% | N/A | N/A | N/A | N/A |
 | [13–21 January 2022](2022-01-21-KantarEmor.html) | Kantar Emor <br> ERR | 0.0% | N/A | N/A | N/A | N/A |
 | [12–17 January 2022](2022-01-17-Turu-uuringuteAS.html) | Turu-uuringute AS | 0.0% | N/A | N/A | N/A | N/A |
@@ -316,10 +318,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 2% | 100% | Last Result |
-| 0.5–1.5% | 37% | 98% |  |
-| 1.5–2.5% | 55% | 61% | Median |
-| 2.5–3.5% | 6% | 6% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.5–1.5% | 49% | 98% |  |
+| 1.5–2.5% | 41% | 49% | Median |
+| 2.5–3.5% | 8% | 8% |  |
+| 3.5–4.5% | 0.1% | 0.1% |  |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -331,6 +334,8 @@ Last result: **0** seats (General Election of 3 March 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [20–22 February 2023](2023-02-22-KantarEmor.html) | Kantar Emor <br> ERR | 0 | 0 | 0 | 0 | 0 |
+| [14–20 February 2023](2023-02-20-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [13–16 February 2023](2023-02-16-KantarEmor.html) | Kantar Emor <br> ERR | 0 | 0 | 0 | 0 | 0 |
 | [7–13 February 2023](2023-02-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [6–9 February 2023](2023-02-09-KantarEmor.html) | Kantar Emor <br> ERR | 0 | 0 | 0 | 0 | 0 |
@@ -338,6 +343,7 @@ Last result: **0** seats (General Election of 3 March 2019)
 | [30 January–2 February 2023](2023-02-02-KantarEmor.html) | Kantar Emor <br> ERR | 0 | 0 | 0 | 0 | 0 |
 | [24–30 January 2023](2023-01-30-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [27 January 2023](2023-01-27-Turu-uuringuteAS.html) | Turu-uuringute AS | 0 | 0 | 0 | 0 | 0 |
+| [19–26 January 2023](2023-01-26-KantarEmor.html) | Kantar Emor <br> ERR | 0 | 0 | 0 | 0 | 0 |
 | [17–23 January 2023](2023-01-23-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [10–16 January 2023](2023-01-16-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [5–11 January 2023](2023-01-11-KantarEmor.html) | Kantar Emor <br> ERR | 0 | 0 | 0 | 0 | 0 |
@@ -410,7 +416,6 @@ Last result: **0** seats (General Election of 3 March 2019)
 | [8–14 February 2022](2022-02-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [1–7 February 2022](2022-02-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [25–31 January 2022](2022-01-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
-| [19 January 2023–26 January 2022](2022-01-26-KantarEmor.html) | Kantar Emor <br> ERR |  |  |  |  |  |
 | [18–24 January 2022](2022-01-24-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [13–21 January 2022](2022-01-21-KantarEmor.html) | Kantar Emor <br> ERR |  |  |  |  |  |
 | [12–17 January 2022](2022-01-17-Turu-uuringuteAS.html) | Turu-uuringute AS |  |  |  |  |  |
